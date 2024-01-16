@@ -1,13 +1,13 @@
 <div align="center">The list that power <a href="https://thedirectory.com/?ref=github-readme" target="_blank" rel="noopener">The Directory</a> website</div>
 
- <a href="https://thedirectory.com/?ref=github-readme" style="display: flex; align-items: center; justify-content: center;  margin-top: 20px"><p align="center"><img src="./assets/icon.svg" width="40" height="40" style="margin-right: 10px;">
+ <a href="https://thedirectory.com/?ref=github-readme" style="display: flex; align-items: center; justify-content: center;"><p align="center"><img src="./assets/icon.svg" width="40" height="40" style="margin-right: 10px;">
     <span>THE DIRECTORY</span></a>
 
  ---
->❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to resources should happen within the `/directories` folder.
+>❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to directories should happen within the `/directories` folder.
 ---
 
- To add a resource, check the [contributing guide](CONTRIBUTING.md).
+ To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
  ### Total directories: 137
 

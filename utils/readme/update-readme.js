@@ -8,12 +8,12 @@ const url = 'https://thedirectory.com/?ref=github-readme'
 
 const description = `<div align="center">The list that power <a href="${url}" target="_blank" rel="noopener">The Directory</a> website</div>\n\n`
 
-const logoDR = `<a href="${url}" style="display: flex; align-items: center; justify-content: center;  margin-top: 20px"><p align="center"><img src="./assets/icon.svg" width="40" height="40" style="margin-right: 10px;">
+const logoDR = `<a href="${url}" style="display: flex; align-items: center; justify-content: center;"><p align="center"><img src="./assets/icon.svg" width="40" height="40" style="margin-right: 10px;">
     <span>THE DIRECTORY</span></a>\n\n`
 const warning =
-    '---\n>❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to resources should happen within the `/directories` folder.\n---\n\n'
+    '---\n>❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to directories should happen within the `/directories` folder.\n---\n\n'
 
-const contributionGuide = 'To add a resource, check the [contributing guide](CONTRIBUTING.md).\n\n'
+const contributionGuide = 'To add a directory, check the [contributing guide](CONTRIBUTING.md).\n\n'
 
 const directoriesCount = `### Total directories: ${directoriesList.length}\n\n`
 
