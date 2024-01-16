@@ -1,7 +1,7 @@
-<div align="center">The list that power <a href="https://thedirectory.com/?ref=github-readme" target="_blank" rel="noopener">The Directory</a> website</div>
+<div align="center">The list that power <a href="https://thedirectori.es/?ref=github-readme" target="_blank" rel="noopener">The Directories</a> website</div>
 
- <a href="https://thedirectory.com/?ref=github-readme" style="display: flex; align-items: center; justify-content: center;"><p align="center"><img src="./assets/icon.svg" width="40" height="40" style="margin-right: 10px;">
-    <span>THE DIRECTORY</span></a>
+ <a href="https://thedirectori.es/?ref=github-readme" style="display: flex; align-items: center; justify-content: center;"><p align="center"><img src="./assets/icon.svg" width="40" height="40" style="margin-right: 10px;">
+    <span>THE DIRECTORIES</span></a>
 
  ---
 >❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to directories should happen within the `/directories` folder.
