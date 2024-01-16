@@ -1,0 +1,25 @@
+{
+  "name": "ai-directories",
+  "author": "Sergiu Chiriac",
+  "description": "The API of AI Directories listed on The Directory",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "update-db": "ts-node utils/db/update-db.js",
+    "update-readme": "ts-node utils/readme/update-readme.js"
+  },
+  "dependencies": {
+    "eslint": "^8.56.0",
+    "next": "14.0.4",
+    "prettier": "^3.2.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.3.3"
+  }
+}
