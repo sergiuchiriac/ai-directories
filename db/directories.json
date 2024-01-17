@@ -308,25 +308,16 @@
         "pricing": ""
     },
     {
-        "name": "Ai Tools Directory",
-        "link": "https://free-ai-tools-directory.com/",
-        "submission_link": "https://free-ai-tools-directory.com/submit-request/",
-        "domain_rating": 11,
-        "monthly_visits": 23000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
         "name": "AI Tools Directory",
-        "link": "https://www.hcilab.org/ai-tools-directory/",
-        "submission_link": "https://www.hcilab.org/ai-tools-directory/",
-        "domain_rating": 20,
-        "monthly_visits": 30000,
+        "link": "https://www.aitools.directory/",
+        "submission_link": "https://www.aitools.directory/",
+        "domain_rating": 5,
+        "monthly_visits": 10000,
         "submission_experience": "Bad",
         "pricing": ""
     },
     {
-        "name": "AI tools directory",
+        "name": "AI tools directory COM",
         "link": "https://aitoolsdirectory.com/",
         "submission_link": "https://aitoolsdirectory.com/submit-tool",
         "domain_rating": 10,
@@ -335,11 +326,11 @@
         "pricing": "Free"
     },
     {
-        "name": "AI Tools Directory",
-        "link": "https://www.aitools.directory/",
-        "submission_link": "https://www.aitools.directory/",
-        "domain_rating": 5,
-        "monthly_visits": 10000,
+        "name": "AI Tools Directory HCILAB",
+        "link": "https://www.hcilab.org/ai-tools-directory/",
+        "submission_link": "https://www.hcilab.org/ai-tools-directory/",
+        "domain_rating": 20,
+        "monthly_visits": 30000,
         "submission_experience": "Bad",
         "pricing": ""
     },
@@ -719,6 +710,15 @@
         "domain_rating": 10,
         "monthly_visits": 5000,
         "submission_experience": "Bad",
+        "pricing": "Free"
+    },
+    {
+        "name": "Free AI Tools Directory",
+        "link": "https://free-ai-tools-directory.com/",
+        "submission_link": "https://free-ai-tools-directory.com/submit-request/",
+        "domain_rating": 11,
+        "monthly_visits": 23000,
+        "submission_experience": "Good",
         "pricing": "Free"
     },
     {

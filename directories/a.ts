@@ -299,7 +299,7 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
-        "name": "AI tools directory",
+        "name": "AI tools directory COM",
         "link": "https://aitoolsdirectory.com/",
         "submission_link": "https://aitoolsdirectory.com/submit-tool",
         "domain_rating": 10.0,
@@ -308,7 +308,7 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
-        "name": "AI Tools Directory",
+        "name": "AI Tools Directory HCILAB",
         "link": "https://www.hcilab.org/ai-tools-directory/",
         "submission_link": "https://www.hcilab.org/ai-tools-directory/",
         "domain_rating": 20.0,
@@ -317,7 +317,7 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
-        "name": "Ai Tools Directory",
+        "name": "Free AI Tools Directory",
         "link": "https://free-ai-tools-directory.com/",
         "submission_link": "https://free-ai-tools-directory.com/submit-request/",
         "domain_rating": 11.0,
