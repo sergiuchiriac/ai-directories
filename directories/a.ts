@@ -272,16 +272,7 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
-        "name": "AI tools",
-        "link": "https://toolsai.net/",
-        "submission_link": "https://toolsai.net/add-listing/",
-        "domain_rating": 19.0,
-        "monthly_visits": 60000,
-        "submission_experience": "Bad",
-        "pricing": ""
-    },
-    {
-        "name": "AI Tools",
+        "name": "AI Tools Directory",
         "link": "https://www.aitools.directory/",
         "submission_link": "https://www.aitools.directory/",
         "domain_rating": 5.0,
@@ -290,7 +281,7 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
-        "name": "AI Tools",
+        "name": "AI Tools FYI",
         "link": "https://aitools.fyi/",
         "submission_link": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=admin@aitools.fyi",
         "domain_rating": 13.0,
@@ -299,7 +290,7 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
-        "name": "AI Tools",
+        "name": "AI Tool NET",
         "link": "https://www.aitoolnet.com/",
         "submission_link": "https://www.aitoolnet.com/",
         "domain_rating": 10.0,

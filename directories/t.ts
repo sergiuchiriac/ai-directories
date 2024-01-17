@@ -100,4 +100,13 @@ export const directories: Directory[] = [
         "submission_experience": "",
         "pricing": "Paid"
     },
+    {
+        "name": "Tools AI",
+        "link": "https://toolsai.net/",
+        "submission_link": "https://toolsai.net/add-listing/",
+        "domain_rating": 19.0,
+        "monthly_visits": 60000,
+        "submission_experience": "Bad",
+        "pricing": ""
+    },
 ]

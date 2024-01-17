@@ -1,7 +1,7 @@
-<div align="center">The list that power <a href="https://thedirectori.es/?ref=github-readme" target="_blank" rel="noopener">The Directories</a> website</div>
+<div align="center">The list that power <a href="https://aidirectori.es/?ref=github-readme" target="_blank" rel="noopener">AI Directories</a> website</div>
 
- <a href="https://thedirectori.es/?ref=github-readme" style="display: flex; align-items: center; justify-content: center;"><p align="center"><img src="./assets/icon.svg" width="40" height="40" style="margin-right: 10px;">
-    <span>THE DIRECTORIES</span></a>
+ <a href="https://aidirectori.es/?ref=github-readme" style="display: flex; align-items: center; justify-content: center;"><p align="center"><img src="./assets/icon.svg" width="40" height="40" style="margin-right: 10px;">
+    <span>AI DIRECTORIES</span></a>
 
  ---
 >❗️ This `README.md` file and the `/db` folder are auto-generated, so please ***do not*** edit them. Changes related to directories should happen within the `/directories` folder.
@@ -49,17 +49,16 @@
 | AI Tool Board | [AI Tool Board](https://aitoolboard.com/) | [Submit](https://aitoolboard.com/submit-ai-tool) | 3 | 7000 |  | **🔴 Paid** |
 | AI Tool guru | [AI Tool guru](https://aitoolguru.com/) | [Submit](https://aitoolguru.com/submit-ai-tool) | 31 | 27000 | **🟢 Good** | **🟢 Free** |
 | AI tool hunt | [AI tool hunt](https://www.aitoolhunt.com/) | [Submit](https://www.aitoolhunt.com/addTool) | 22 | 80000 | **🟢 Good** | **🔴 Paid** |
+| AI Tool NET | [AI Tool NET](https://www.aitoolnet.com/) | [Submit](https://www.aitoolnet.com/) | 10 | 21000 | **🟢 Good** | **🟢 Free** |
 | AI Tool net | [AI Tool net](https://www.aitoolnet.com/) | [Submit](https://www.aitoolnet.com/submit) | 16 | 7000 | **🟢 Good** | **🟢 Free** |
 | AI Tool Tracker | [AI Tool Tracker](https://aitooltracker.com/) | [Submit](https://aitooltracker.com/dashboard/#submit) | 15 | 30000 | **🔴 Bad** |  |
-| AI Tools | [AI Tools](https://www.aitoolnet.com/) | [Submit](https://www.aitoolnet.com/) | 10 | 21000 | **🟢 Good** | **🟢 Free** |
-| AI Tools | [AI Tools](https://aitools.fyi/) | [Submit](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=admin@aitools.fyi) | 13 | 300000 |  | **🔴 Paid** |
-| AI Tools | [AI Tools](https://www.aitools.directory/) | [Submit](https://www.aitools.directory/) | 5 | 10000 | **🔴 Bad** |  |
-| AI tools | [AI tools](https://toolsai.net/) | [Submit](https://toolsai.net/add-listing/) | 19 | 60000 | **🔴 Bad** |  |
 | AI Tools Arena | [AI Tools Arena](https://aitoolsarena.com/) | [Submit](https://aitoolsarena.com/) | 8 | 700 | **🔴 Bad** |  |
 | Ai Tools Directory | [Ai Tools Directory](https://free-ai-tools-directory.com/) | [Submit](https://free-ai-tools-directory.com/submit-request/) | 11 | 23000 | **🟢 Good** | **🟢 Free** |
 | AI Tools Directory | [AI Tools Directory](https://www.hcilab.org/ai-tools-directory/) | [Submit](https://www.hcilab.org/ai-tools-directory/) | 20 | 30000 | **🔴 Bad** |  |
 | AI tools directory | [AI tools directory](https://aitoolsdirectory.com/) | [Submit](https://aitoolsdirectory.com/submit-tool) | 10 | 25000 | **🟢 Good** | **🟢 Free** |
+| AI Tools Directory | [AI Tools Directory](https://www.aitools.directory/) | [Submit](https://www.aitools.directory/) | 5 | 10000 | **🔴 Bad** |  |
 | AI tools for Marketing | [AI tools for Marketing](https://airadar.getinference.com/) | [Submit](https://airadar.getinference.com/) | 14 | 50000 | **🟢 Good** | **🟢 Free** |
+| AI Tools FYI | [AI Tools FYI](https://aitools.fyi/) | [Submit](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=admin@aitools.fyi) | 13 | 300000 |  | **🔴 Paid** |
 | AI Tools Guide | [AI Tools Guide](https://aitoolsguide.com/) | [Submit](https://aitoolsguide.com/contact/) | 10 | 5000 | **🔴 Bad** |  |
 | AI Tools Hunter | [AI Tools Hunter](https://ai-hunter.io/) | [Submit](https://ai-hunter.io/submit-ai-tool/) | 10 | 25000 | **🟢 Good** | **🟢 Free** |
 | AI Tools Wiki | [AI Tools Wiki](https://aitoolswiki.com/) | [Submit](https://aitoolswiki.com/contact-us/) | 10 | 9000 | **🔴 Bad** |  |
@@ -145,6 +144,7 @@
 | There is an AI for that | [There is an AI for that](https://theresanaiforthat.com/) | [Submit](https://theresanaiforthat.com/get-featured/#opt_submit) | 45 | 3200000 | **🟢 Good** | **🔴 Paid** |
 | Tool Pilot | [Tool Pilot](https://www.toolpilot.ai/) | [Submit](https://www.toolpilot.ai/pages/submit-your-ai-tool) | 12 | 5000 | **🟢 Good** | **🟢 Free** |
 | Toolify.ai | [Toolify.ai](https://www.toolify.ai/) | [Submit](https://www.toolify.ai/login?from=%2Fsubmit) | 13 | 340000 |  | **🔴 Paid** |
+| Tools AI | [Tools AI](https://toolsai.net/) | [Submit](https://toolsai.net/add-listing/) | 19 | 60000 | **🔴 Bad** |  |
 | Tools Directory | [Tools Directory](https://aitoolsdirectory.com/) | [Submit](https://aitoolsdirectory.com/submit-tool) | 10 | 100 | **🟢 Good** | **🟢 Free** |
 | Tools Nocode | [Tools Nocode](https://www.toolsnocode.com/ai) | [Submit](https://www.toolsnocode.com/ai#form1) | 10 | 5000 |  |  |
 | Tools.so | [Tools.so](https://tools.so/) | [Submit](https://tools.so/) | 15 | 1000 | **🟢 Good** | **🟢 Free** |

@@ -281,6 +281,15 @@
         "pricing": "Paid"
     },
     {
+        "name": "AI Tool NET",
+        "link": "https://www.aitoolnet.com/",
+        "submission_link": "https://www.aitoolnet.com/",
+        "domain_rating": 10,
+        "monthly_visits": 21000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "AI Tool net",
         "link": "https://www.aitoolnet.com/",
         "submission_link": "https://www.aitoolnet.com/submit",
@@ -295,42 +304,6 @@
         "submission_link": "https://aitooltracker.com/dashboard/#submit",
         "domain_rating": 15,
         "monthly_visits": 30000,
-        "submission_experience": "Bad",
-        "pricing": ""
-    },
-    {
-        "name": "AI Tools",
-        "link": "https://www.aitoolnet.com/",
-        "submission_link": "https://www.aitoolnet.com/",
-        "domain_rating": 10,
-        "monthly_visits": 21000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "AI Tools",
-        "link": "https://aitools.fyi/",
-        "submission_link": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=admin@aitools.fyi",
-        "domain_rating": 13,
-        "monthly_visits": 300000,
-        "submission_experience": "",
-        "pricing": "Paid"
-    },
-    {
-        "name": "AI Tools",
-        "link": "https://www.aitools.directory/",
-        "submission_link": "https://www.aitools.directory/",
-        "domain_rating": 5,
-        "monthly_visits": 10000,
-        "submission_experience": "Bad",
-        "pricing": ""
-    },
-    {
-        "name": "AI tools",
-        "link": "https://toolsai.net/",
-        "submission_link": "https://toolsai.net/add-listing/",
-        "domain_rating": 19,
-        "monthly_visits": 60000,
         "submission_experience": "Bad",
         "pricing": ""
     },
@@ -371,6 +344,15 @@
         "pricing": "Free"
     },
     {
+        "name": "AI Tools Directory",
+        "link": "https://www.aitools.directory/",
+        "submission_link": "https://www.aitools.directory/",
+        "domain_rating": 5,
+        "monthly_visits": 10000,
+        "submission_experience": "Bad",
+        "pricing": ""
+    },
+    {
         "name": "AI tools for Marketing",
         "link": "https://airadar.getinference.com/",
         "submission_link": "https://airadar.getinference.com/",
@@ -378,6 +360,15 @@
         "monthly_visits": 50000,
         "submission_experience": "Good",
         "pricing": "Free"
+    },
+    {
+        "name": "AI Tools FYI",
+        "link": "https://aitools.fyi/",
+        "submission_link": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=admin@aitools.fyi",
+        "domain_rating": 13,
+        "monthly_visits": 300000,
+        "submission_experience": "",
+        "pricing": "Paid"
     },
     {
         "name": "AI Tools Guide",
@@ -1143,6 +1134,15 @@
         "monthly_visits": 340000,
         "submission_experience": "",
         "pricing": "Paid"
+    },
+    {
+        "name": "Tools AI",
+        "link": "https://toolsai.net/",
+        "submission_link": "https://toolsai.net/add-listing/",
+        "domain_rating": 19,
+        "monthly_visits": 60000,
+        "submission_experience": "Bad",
+        "pricing": ""
     },
     {
         "name": "Tools Directory",
