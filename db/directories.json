@@ -1,5 +1,5 @@
 {
-"count": 137,
+"count": 136,
 "data": [
     {
         "name": "10 Words",
@@ -286,15 +286,6 @@
         "submission_link": "https://www.aitoolnet.com/",
         "domain_rating": 10,
         "monthly_visits": 21000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "AI Tool net",
-        "link": "https://www.aitoolnet.com/",
-        "submission_link": "https://www.aitoolnet.com/submit",
-        "domain_rating": 16,
-        "monthly_visits": 7000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

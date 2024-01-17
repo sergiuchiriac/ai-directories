@@ -254,15 +254,6 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
-        "name": "AI Tool net",
-        "link": "https://www.aitoolnet.com/",
-        "submission_link": "https://www.aitoolnet.com/submit",
-        "domain_rating": 16.0,
-        "monthly_visits": 7000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
         "name": "AI Tool Tracker",
         "link": "https://aitooltracker.com/",
         "submission_link": "https://aitooltracker.com/dashboard/#submit",
