@@ -2,6 +2,15 @@
 "count": 136,
 "data": [
     {
+        "name": "aitools.fyi",
+        "link": "https://aitools.fyi/",
+        "submission_link": "https://buy.stripe.com/5kAfZP56b9PmgQodQQ",
+        "domain_rating": 27,
+        "monthly_visits": 400000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
         "name": "10 Words",
         "link": "https://10words.io/",
         "submission_link": "https://portal.10words.io/submissions/submit",
@@ -101,15 +110,6 @@
         "pricing": ""
     },
     {
-        "name": "AI finder",
-        "link": "https://aifinder.info/",
-        "submission_link": "https://aifinder.info/contact/",
-        "domain_rating": 10,
-        "monthly_visits": 3000,
-        "submission_experience": "Bad",
-        "pricing": ""
-    },
-    {
         "name": "AI Finder",
         "link": "https://ai-finder.net/",
         "submission_link": "https://ai-finder.net/add",
@@ -117,6 +117,15 @@
         "monthly_visits": 263000,
         "submission_experience": "Good",
         "pricing": "Free"
+    },
+    {
+        "name": "AI finder",
+        "link": "https://aifinder.info/",
+        "submission_link": "https://aifinder.info/contact/",
+        "domain_rating": 10,
+        "monthly_visits": 3000,
+        "submission_experience": "Bad",
+        "pricing": ""
     },
     {
         "name": "AI Gadget",
@@ -342,15 +351,6 @@
         "monthly_visits": 50000,
         "submission_experience": "Good",
         "pricing": "Free"
-    },
-    {
-        "name": "AI Tools FYI",
-        "link": "https://aitools.fyi/",
-        "submission_link": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=admin@aitools.fyi",
-        "domain_rating": 13,
-        "monthly_visits": 300000,
-        "submission_experience": "",
-        "pricing": "Paid"
     },
     {
         "name": "AI Tools Guide",

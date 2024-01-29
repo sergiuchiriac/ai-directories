@@ -272,12 +272,12 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
-        "name": "AI Tools FYI",
+        "name": "aitools.fyi",
         "link": "https://aitools.fyi/",
-        "submission_link": "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=admin@aitools.fyi",
-        "domain_rating": 13.0,
-        "monthly_visits": 300000,
-        "submission_experience": "",
+        "submission_link": "https://buy.stripe.com/5kAfZP56b9PmgQodQQ",
+        "domain_rating": 27,
+        "monthly_visits": 400000,
+        "submission_experience": "Good",
         "pricing": "Paid"
     },
     {
