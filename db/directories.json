@@ -47,6 +47,15 @@
         "pricing": "Paid"
     },
     {
+        "name": "1000gpt.shop",
+        "link": "https://1000gpt.shop",
+        "submission_link": "https://buy.stripe.com/dR6eVi1lRgj9bsY4gg",
+        "domain_rating": 1,
+        "monthly_visits": 1000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
         "name": "AI Awesome",
         "link": "https://www.aiawesome.com/",
         "submission_link": "https://www.aiawesome.com/new",
@@ -119,15 +128,6 @@
         "pricing": ""
     },
     {
-        "name": "AI Finder",
-        "link": "https://ai-finder.net/",
-        "submission_link": "https://ai-finder.net/add",
-        "domain_rating": 54,
-        "monthly_visits": 263000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
         "name": "AI finder",
         "link": "https://aifinder.info/",
         "submission_link": "https://aifinder.info/contact/",
@@ -135,6 +135,15 @@
         "monthly_visits": 3000,
         "submission_experience": "Bad",
         "pricing": ""
+    },
+    {
+        "name": "AI Finder",
+        "link": "https://ai-finder.net/",
+        "submission_link": "https://ai-finder.net/add",
+        "domain_rating": 54,
+        "monthly_visits": 263000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "AI Gadget",
@@ -441,6 +450,15 @@
         "monthly_visits": 20000,
         "submission_experience": "Bad",
         "pricing": "Free"
+    },
+    {
+        "name": "aitools.fyi",
+        "link": "https://aitools.fyi/",
+        "submission_link": "https://buy.stripe.com/5kAfZP56b9PmgQodQQ",
+        "domain_rating": 27,
+        "monthly_visits": 400000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
     },
     {
         "name": "All things AI",
@@ -855,15 +873,6 @@
         "monthly_visits": 35000,
         "submission_experience": "Bad",
         "pricing": ""
-    },
-    {
-        "name": "Invent List",
-        "link": "https://inventlist.com/",
-        "submission_link": "https://inventlist.com/sites/new",
-        "domain_rating": 0,
-        "monthly_visits": 200,
-        "submission_experience": "Good",
-        "pricing": "Free"
     },
     {
         "name": "Joinly",
