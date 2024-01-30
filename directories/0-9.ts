@@ -3,6 +3,15 @@ import {Directory} from "../types/directory";
 
 export const directories: Directory[] = [
     {
+        "name": "1000gpt.shop",
+        "link": "https://1000gpt.shop",
+        "submission_link": "https://buy.stripe.com/dR6eVi1lRgj9bsY4gg",
+        "domain_rating": 1,
+        "monthly_visits": 1000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
         "name": "10 Words",
         "link": "https://10words.io/",
         "submission_link": "https://portal.10words.io/submissions/submit",
