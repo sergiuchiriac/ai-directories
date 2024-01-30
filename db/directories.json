@@ -227,6 +227,15 @@
         "pricing": "Free"
     },
     {
+        "name": "AI Reverie",
+        "link": "https://aireverie.beehiiv.com/",
+        "submission_link": "https://aireverie.beehiiv.com/",
+        "domain_rating": 83,
+        "monthly_visits": 0,
+        "submission_experience": "Bad",
+        "pricing": "Free"
+    },
+    {
         "name": "AI scout",
         "link": "https://aiscout.net/",
         "submission_link": "https://aiscout.net/submit-listing/details/",
@@ -828,15 +837,6 @@
         "monthly_visits": 300000,
         "submission_experience": "",
         "pricing": ""
-    },
-    {
-        "name": "https://aitools.fyi/",
-        "link": "https://aitools.fyi/",
-        "submission_link": "https://buy.stripe.com/5kAfZP56b9PmgQodQQ",
-        "domain_rating": 25,
-        "monthly_visits": 230000,
-        "submission_experience": "Good",
-        "pricing": "Paid"
     },
     {
         "name": "I Lib",

@@ -416,13 +416,13 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
-        "name": "https://aitools.fyi/",
-        "link": "https://aitools.fyi/",
-        "submission_link": "https://buy.stripe.com/5kAfZP56b9PmgQodQQ",
-        "domain_rating": 25.0,
-        "monthly_visits": 230000,
-        "submission_experience": "Good",
-        "pricing": "Paid"
+        "name": "AI Reverie",
+        "link": "https://aireverie.beehiiv.com/",
+        "submission_link": "https://aireverie.beehiiv.com/",
+        "domain_rating": 83,
+        "monthly_visits": 0,
+        "submission_experience": "Bad",
+        "pricing": "Free"
     },
     {
         "name": "All things AI",
