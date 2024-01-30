@@ -2,27 +2,15 @@ const fs = require('fs')
 const files = fs.readdirSync('./directories')
 
 module.exports = function () {
-    const flattenedDirectories = [];
+    const flattenedDirectories = []
 
     files.forEach((file) => {
-        const { directories } = require(`../directories/${file}`);
-        flattenedDirectories.push(...directories);
-    });
+        const { directories } = require(`../directories/${file}`)
 
-    // Find and remove 'aidirectories.fyi' entry if it exists
-    const aiDirectoriesIndex = flattenedDirectories.findIndex(d => d.name.toLowerCase() === 'aitools.fyi');
-    let aiDirectoriesEntry;
-    if (aiDirectoriesIndex > -1) {
-        [aiDirectoriesEntry] = flattenedDirectories.splice(aiDirectoriesIndex, 1);
-    }
+        flattenedDirectories.push(...directories)
+    })
 
-    // Sort the remaining directories alphabetically
-    flattenedDirectories.sort((a, b) => a.name.toLowerCase().localeCompare(b.name.toLowerCase()));
+    flattenedDirectories.sort((a, b) => (a.name.toLowerCase() > b.name.toLowerCase() ? 1 : -1))
 
-    // If 'aidirectories.fyi' was found, add it back as the first element
-    if (aiDirectoriesEntry) {
-        flattenedDirectories.unshift(aiDirectoriesEntry);
-    }
-
-    return flattenedDirectories;
+    return flattenedDirectories
 }

@@ -11,6 +11,15 @@
         "pricing": "Paid"
     },
     {
+        "name": "Invent List",
+        "link": "https://inventlist.com/",
+        "submission_link": "https://inventlist.com/sites/new",
+        "domain_rating": 0,
+        "monthly_visits": 200,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "10 Words",
         "link": "https://10words.io/",
         "submission_link": "https://portal.10words.io/submissions/submit",
@@ -801,6 +810,15 @@
         "monthly_visits": 300000,
         "submission_experience": "",
         "pricing": ""
+    },
+    {
+        "name": "https://aitools.fyi/",
+        "link": "https://aitools.fyi/",
+        "submission_link": "https://buy.stripe.com/5kAfZP56b9PmgQodQQ",
+        "domain_rating": 25,
+        "monthly_visits": 230000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
     },
     {
         "name": "I Lib",

@@ -37,13 +37,5 @@ export const directories: Directory[] = [
         "submission_experience": "Bad",
         "pricing": ""
     },
-    {
-        "name": "Invent List",
-        "link": "https://inventlist.com/",
-        "submission_link": "https://inventlist.com/sites/new",
-        "domain_rating": 0,
-        "monthly_visits": 200,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
+
 ]
