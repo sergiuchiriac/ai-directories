@@ -2,6 +2,24 @@
 "count": 138,
 "data": [
     {
+        "name": "aitools.fyi",
+        "link": "https://aitools.fyi/",
+        "submission_link": "https://checkout.stripe.com/c/pay/cs_live_b1WdhMi89PMr6d16XKGEdc9BXXSSFBMvBZKUIZmkC7m7OV7MMfMIF9vpbU#fidkdWxOYHwnPyd1blppbHNgWjA0SHVzYURGY01tajQwX0tna39TV3FfVTc1XTdrPHNAbGNTMXNrdGZ1TUZIamFNcHFsaWA3SGZSS2tgUGdubWRcZHxpclRQPVZrSVd1fU1Ed1ZjNFZTY3VINTVxSVJAbzRQNScpJ3VpbGtuQH11anZgYUxhJz8nZ0xcNz1fZnxBZFF0Z3IxZEBQJyknd2BjYHd3YHdKd2xibGsnPydtcXF1dj8qKnErZmoqJ3gl",
+        "domain_rating": 27,
+        "monthly_visits": 400000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
+        "name": "Invent List",
+        "link": "https://inventlist.com/",
+        "submission_link": "https://inventlist.com/sites/new",
+        "domain_rating": 0,
+        "monthly_visits": 200,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "10 Words",
         "link": "https://10words.io/",
         "submission_link": "https://portal.10words.io/submissions/submit",
