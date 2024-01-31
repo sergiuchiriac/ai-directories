@@ -1,24 +1,6 @@
 {
-"count": 136,
+"count": 138,
 "data": [
-    {
-        "name": "aitools.fyi",
-        "link": "https://aitools.fyi/",
-        "submission_link": "https://checkout.stripe.com/c/pay/cs_live_b1WdhMi89PMr6d16XKGEdc9BXXSSFBMvBZKUIZmkC7m7OV7MMfMIF9vpbU#fidkdWxOYHwnPyd1blppbHNgWjA0SHVzYURGY01tajQwX0tna39TV3FfVTc1XTdrPHNAbGNTMXNrdGZ1TUZIamFNcHFsaWA3SGZSS2tgUGdubWRcZHxpclRQPVZrSVd1fU1Ed1ZjNFZTY3VINTVxSVJAbzRQNScpJ3VpbGtuQH11anZgYUxhJz8nZ0xcNz1fZnxBZFF0Z3IxZEBQJyknd2BjYHd3YHdKd2xibGsnPydtcXF1dj8qKnErZmoqJ3gl",
-        "domain_rating": 27,
-        "monthly_visits": 400000,
-        "submission_experience": "Good",
-        "pricing": "Paid"
-    },
-    {
-        "name": "Invent List",
-        "link": "https://inventlist.com/",
-        "submission_link": "https://inventlist.com/sites/new",
-        "domain_rating": 0,
-        "monthly_visits": 200,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
     {
         "name": "10 Words",
         "link": "https://10words.io/",
@@ -1091,6 +1073,15 @@
         "pricing": "Free"
     },
     {
+        "name": "Startups.fyi",
+        "link": "https://www.startups.fyi/",
+        "submission_link": "https://tally.so/r/3lOGLk",
+        "domain_rating": 22,
+        "monthly_visits": 100,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Super Tools",
         "link": "https://supertools.therundown.ai/",
         "submission_link": "https://supertools.therundown.ai/submit",
@@ -1205,6 +1196,15 @@
         "domain_rating": 20,
         "monthly_visits": 120000,
         "submission_experience": "",
+        "pricing": "Paid"
+    },
+    {
+        "name": "Under1000MRR.tools",
+        "link": "https://under1000mrr.tools/",
+        "submission_link": "https://under1000mrr.tools/submit-product",
+        "domain_rating": 0,
+        "monthly_visits": 500,
+        "submission_experience": "Good",
         "pricing": "Paid"
     },
     {
