@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 138
+ ### Total directories: 133
 
  
 
@@ -78,12 +78,11 @@
 | Ben’s Bites News | [Ben’s Bites News](https://news.bensbites.co/) | [Submit](https://news.bensbites.co/) | 41 | 10000 | **🟢 Good** | **🔴 Paid** |
 | Best AI Tools | [Best AI Tools](https://www.startupaitools.com/) | [Submit](https://www.startupaitools.com/) | 10 | 900 | **🟢 Good** | **🟢 Free** |
 | Beta List | [Beta List](https://betalist.com/) | [Submit](https://betalist.com/submissions/new) | 70 | 180000 | **🔴 Bad** | **🟢 Free** |
-| Business Software | [Business Software](https://www.business-software.com/) | [Submit](https://www.business-software.com/add-your-product/) | 55 | 100000 |  |  |
 | Chat AI Apps | [Chat AI Apps](https://www.chataiapps.com/) | [Submit](Email to hey@aiartapps.com) | 10 | 5000 |  |  |
 | ChatGPT demo | [ChatGPT demo](https://chatgptdemo.com/) | [Submit](https://chatgptdemo.com/submit-a-product/) | 30 | 400000 | **🟢 Good** | **🟢 Free** |
 | Crazy About Startups | [Crazy About Startups](https://crazyaboutstartups.com/) | [Submit](https://crazyaboutstartups.com/share-your-startup-2) | 33 | 5000 | **🔴 Bad** |  |
 | Crozdesk | [Crozdesk](https://crozdesk.com/) | [Submit](https://vendor.softwareselect.com/) | 74 | 200000 |  |  |
-| Crunchbase | [Crunchbase](crunchbase.com) | [Submit](crunchbase.com) | 80 | 10000000 |  |  |
+| Crunchbase | [Crunchbase](https://crunchbase.com) | [Submit](https://crunchbase.com) | 80 | 10000000 |  |  |
 | Daily tech AI | [Daily tech AI](https://www.dailytech.ai/) | [Submit](https://www.dailytech.ai/contact-us) | 11 | 23000 | **🟢 Good** | **🟢 Free** |
 | Dang AI | [Dang AI](https://dang.ai/) | [Submit](https://dang.ai/) | 10 | 100 |  |  |
 | Dev Pages | [Dev Pages](https://www.devpages.io/) | [Submit](https://www.devpages.io/submit-a-tool) | 10 | 50000 | **🟢 Good** | **🟢 Free** |
@@ -98,7 +97,6 @@
 | Faind AI | [Faind AI](https://faind.ai/) | [Submit](https://faind.ai/submit-a-tool/) | 10 | 5000 | **🔴 Bad** | **🟢 Free** |
 | Find My AI Tool | [Find My AI Tool](https://findmyaitool.com/) | [Submit](https://findmyaitool.com/submit-tool/) | 19 | 10000 |  | **🔴 Paid** |
 | Flip Bytes | [Flip Bytes](https://www.flipbytes.com/) | [Submit](https://www.flipbytes.com/) | 10 | 70 |  |  |
-| Foundr  | [Foundr ](https://foundr.ai/) | [Submit](https://foundr.ai/) | 10 | 5000 | **🔴 Bad** | **🟢 Free** |
 | Free AI Tools Directory | [Free AI Tools Directory](https://free-ai-tools-directory.com/) | [Submit](https://free-ai-tools-directory.com/submit-request/) | 11 | 23000 | **🟢 Good** | **🟢 Free** |
 | Future AGI tools | [Future AGI tools](https://www.futureagitools.com) | [Submit](https://www.futureagitools.com/submit-a-site) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
 | Future Tools | [Future Tools](https://www.futuretools.io/) | [Submit](https://www.futuretools.io/submit-a-tool) | 44 | 3000000 | **🟢 Good** | **🟢 Free** |
@@ -107,20 +105,17 @@
 | Gpt Forge | [Gpt Forge](https://gptforge.net/) | [Submit](https://forms.gle/8h1SokDHfcPwkbaZ8) | 14 | 41000 | **🟢 Good** | **🟢 Free** |
 | GPT Stack | [GPT Stack](https://www.gpt-stack.com) | [Submit](https://www.gpt-stack.com/add-resource) | 10 | 100 | **🟢 Good** | **🟢 Free** |
 | GPTE | [GPTE](https://gpte.ai/) | [Submit](https://gpte.ai/submit-a-tool/) | 31 | 1400000 |  | **🔴 Paid** |
-| Grabon | [Grabon](https://www.grabon.in/indulge/ai-tools/) | [Submit](https://www.grabon.in/indulge/contact-us/) | 15 | 30000 | **🔴 Bad** |  |
 | Hacker News | [Hacker News](https://hackernews.com/) | [Submit](https://hackernews.com/) | 44 | 300000 |  |  |
 | I Lib | [I Lib](https://www.ilib.com/) | [Submit](https://www.ilib.com/) | 10 | 200 | **🟢 Good** | **🟢 Free** |
 | Igniter | [Igniter](https://www.igniter.ai/) | [Submit](https://haroonchoudery499974.typeform.com/to/FpdvtLml?typeform-source=www.igniter.ai) | 10 | 100 | **🔴 Bad** |  |
-| Insidr AI | [Insidr AI](https://www.insidr.ai/) | [Submit](https://www.insidr.ai/submit-tools/) | 15 | 100000 | **🟢 Good** | **🟢 Free** |
+| Insidr AI | [Insidr AI](https://www.insidr.ai/) | [Submit](https://www.insidr.ai/submit-tools/) | 15 | 100000 | **🟢 Good** | **🔴 Paid** |
 | Instant | [Instant](https://instantai.io/) | [Submit](https://instantai.io/submit-listing/) | 15 | 35000 | **🔴 Bad** |  |
 | Joinly | [Joinly](https://www.joinly.xyz/) | [Submit](https://www.joinly.xyz/submit-startup) | 25 | 5000 | **🟢 Good** | **🔴 Paid** |
 | Launched | [Launched](https://launched.io/) | [Submit](https://launched.io/SubmitStartup) | 38 | 2400 | **🟢 Good** | **🟢 Free** |
 | Launching Next | [Launching Next](https://www.launchingnext.com/) | [Submit](https://www.launchingnext.com/submit/) | 51 | 13000 | **🟢 Good** | **🟢 Free** |
 | Lets View | [Lets View](https://letsview.com/) | [Submit](https://letsview.com/ai-tools?ref=ailaunchlist) | 23 | 830000 | **🔴 Bad** |  |
-| List in AI | [List in AI](https://www.listintai.com/) | [Submit](https://www.listintai.com/submit-a-tool) | 6 | 80 |  |  |
 | MadGenius | [MadGenius](https://madgenius.co/) | [Submit](https://madgenius.co/submit) | 10 | 5000 |  | **🔴 Paid** |
 | Mars AI directory | [Mars AI directory](https://www.marsx.dev/ai-startups) | [Submit](https://www.marsx.dev/ai-startups) | 30 | 90000 | **🟢 Good** | **🟢 Free** |
-| Marsx | [Marsx](https://www.marsx.dev/ai-startups) | [Submit](https://www.marsx.dev/ai-startups) | 18 | 57000 | **🟢 Good** | **🟢 Free** |
 | Next Gen Tools | [Next Gen Tools](https://nextgentools.me/) | [Submit](https://nextgentools.me/) | 27 | 47000 | **🟢 Good** | **🟢 Free** |
 | Nextpedia | [Nextpedia](https://www.nextpedia.io/) | [Submit](https://www.nextpedia.io/submit-tool/) | 9 | 8000 | **🔴 Bad** |  |
 | One Hub AI | [One Hub AI](https://www.onehubai.com/) | [Submit](https://www.onehubai.com/) | 10 | 4600 | **🟢 Good** | **🔴 Paid** |
@@ -132,11 +127,11 @@
 | SaaSWorthy | [SaaSWorthy](https://www.saasworthy.com/) | [Submit](Email feedback@saasworthy.com) | 70 | 900000 | **🟢 Good** | **🟢 Free** |
 | Serchen | [Serchen](https://www.serchen.com/) | [Submit](https://www.serchen.com/get-listed/) | 71 | 23000 | **🟢 Good** | **🟢 Free** |
 | Software Suggest | [Software Suggest](https://www.softwaresuggest.com/) | [Submit](https://www.softwaresuggest.com/artificial-intelligence-software) | 40 | 561000 | **🔴 Bad** |  |
-| Software World | [Software World](www.softwareworld.co/) | [Submit](https://www.softwareworld.co/get-listed/) | 75 | 65000 | **🟢 Good** | **🟢 Free** |
+| Software World | [Software World](https://softwareworld.co/) | [Submit](https://softwareworld.co/get-listed/) | 75 | 65000 | **🟢 Good** | **🟢 Free** |
 | spsFeed | [spsFeed](https://spsfeed.com/) | [Submit](https://spsfeed.com/) | 0 | 0 | **🟢 Good** | **🟢 Free** |
 | Startup Base | [Startup Base](https://startupbase.io/) | [Submit](https://startupbase.io/promote) | 50 | 3000 |  | **🔴 Paid** |
 | Startup Buffer | [Startup Buffer](https://startupbuffer.com/) | [Submit](https://startupbuffer.com/site/submit) | 36 | 16000 | **🟢 Good** | **🟢 Free** |
-| Startup Stash | [Startup Stash](https://startupstash.com/) | [Submit](https://startupstash.com/add-listing/) | 65 | 370000 | **🟢 Good** | **🟢 Free** |
+| Startup Stash | [Startup Stash](https://startupstash.com/) | [Submit](https://startupstash.com/add-listing/) | 65 | 370000 | **🟢 Good** | **🔴 Paid** |
 | Startups.fyi | [Startups.fyi](https://www.startups.fyi/) | [Submit](https://tally.so/r/3lOGLk) | 22 | 100 | **🟢 Good** | **🟢 Free** |
 | Super Tools | [Super Tools](https://supertools.therundown.ai/) | [Submit](https://supertools.therundown.ai/submit) | 20 | 380000 | **🟢 Good** | **🟢 Free** |
 | The ai Generation | [The ai Generation](https://www.theaigeneration.com/) | [Submit](https://www.theaigeneration.com/add/) | 11 | 77000 | **🟢 Good** | **🟢 Free** |

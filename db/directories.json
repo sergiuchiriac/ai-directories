@@ -1,5 +1,5 @@
 {
-"count": 138,
+"count": 133,
 "data": [
     {
         "name": "aitools.fyi",
@@ -461,6 +461,15 @@
         "pricing": "Free"
     },
     {
+        "name": "aitools.fyi",
+        "link": "https://aitools.fyi/",
+        "submission_link": "https://buy.stripe.com/5kAfZP56b9PmgQodQQ",
+        "domain_rating": 27,
+        "monthly_visits": 400000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
         "name": "All things AI",
         "link": "https://allthingsai.com/",
         "submission_link": "https://allthingsai.com/submit",
@@ -551,15 +560,6 @@
         "pricing": "Free"
     },
     {
-        "name": "Business Software",
-        "link": "https://www.business-software.com/",
-        "submission_link": "https://www.business-software.com/add-your-product/",
-        "domain_rating": 55,
-        "monthly_visits": 100000,
-        "submission_experience": "",
-        "pricing": ""
-    },
-    {
         "name": "Chat AI Apps",
         "link": "https://www.chataiapps.com/",
         "submission_link": "Email to hey@aiartapps.com",
@@ -597,8 +597,8 @@
     },
     {
         "name": "Crunchbase",
-        "link": "crunchbase.com",
-        "submission_link": "crunchbase.com",
+        "link": "https://crunchbase.com",
+        "submission_link": "https://crunchbase.com",
         "domain_rating": 80,
         "monthly_visits": 10000000,
         "submission_experience": "",
@@ -731,15 +731,6 @@
         "pricing": ""
     },
     {
-        "name": "Foundr ",
-        "link": "https://foundr.ai/",
-        "submission_link": "https://foundr.ai/",
-        "domain_rating": 10,
-        "monthly_visits": 5000,
-        "submission_experience": "Bad",
-        "pricing": "Free"
-    },
-    {
         "name": "Free AI Tools Directory",
         "link": "https://free-ai-tools-directory.com/",
         "submission_link": "https://free-ai-tools-directory.com/submit-request/",
@@ -812,15 +803,6 @@
         "pricing": "Paid"
     },
     {
-        "name": "Grabon",
-        "link": "https://www.grabon.in/indulge/ai-tools/",
-        "submission_link": "https://www.grabon.in/indulge/contact-us/",
-        "domain_rating": 15,
-        "monthly_visits": 30000,
-        "submission_experience": "Bad",
-        "pricing": ""
-    },
-    {
         "name": "Hacker News",
         "link": "https://hackernews.com/",
         "submission_link": "https://hackernews.com/",
@@ -854,7 +836,7 @@
         "domain_rating": 15,
         "monthly_visits": 100000,
         "submission_experience": "Good",
-        "pricing": "Free"
+        "pricing": "Paid"
     },
     {
         "name": "Instant",
@@ -902,15 +884,6 @@
         "pricing": ""
     },
     {
-        "name": "List in AI",
-        "link": "https://www.listintai.com/",
-        "submission_link": "https://www.listintai.com/submit-a-tool",
-        "domain_rating": 6,
-        "monthly_visits": 80,
-        "submission_experience": "",
-        "pricing": ""
-    },
-    {
         "name": "MadGenius",
         "link": "https://madgenius.co/",
         "submission_link": "https://madgenius.co/submit",
@@ -925,15 +898,6 @@
         "submission_link": "https://www.marsx.dev/ai-startups",
         "domain_rating": 30,
         "monthly_visits": 90000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "Marsx",
-        "link": "https://www.marsx.dev/ai-startups",
-        "submission_link": "https://www.marsx.dev/ai-startups",
-        "domain_rating": 18,
-        "monthly_visits": 57000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -1038,8 +1002,8 @@
     },
     {
         "name": "Software World",
-        "link": "www.softwareworld.co/",
-        "submission_link": "https://www.softwareworld.co/get-listed/",
+        "link": "https://softwareworld.co/",
+        "submission_link": "https://softwareworld.co/get-listed/",
         "domain_rating": 75,
         "monthly_visits": 65000,
         "submission_experience": "Good",
@@ -1079,7 +1043,7 @@
         "domain_rating": 65,
         "monthly_visits": 370000,
         "submission_experience": "Good",
-        "pricing": "Free"
+        "pricing": "Paid"
     },
     {
         "name": "Startups.fyi",
