@@ -19,13 +19,4 @@ export const directories: Directory[] = [
         "submission_experience": "Good",
         "pricing": "Free"
     },
-    {
-        "name": "Marsx",
-        "link": "https://www.marsx.dev/ai-startups",
-        "submission_link": "https://www.marsx.dev/ai-startups",
-        "domain_rating": 18.0,
-        "monthly_visits": 57000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
 ]

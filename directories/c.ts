@@ -39,8 +39,8 @@ export const directories: Directory[] = [
     },
     {
         "name": "Crunchbase",
-        "link": "crunchbase.com",
-        "submission_link": "crunchbase.com",
+        "link": "https://crunchbase.com",
+        "submission_link": "https://crunchbase.com",
         "domain_rating": 80.0,
         "monthly_visits": 10000000,
         "submission_experience": "",

@@ -57,8 +57,8 @@ export const directories: Directory[] = [
     },
     {
         "name": "Software World",
-        "link": "www.softwareworld.co/",
-        "submission_link": "https://www.softwareworld.co/get-listed/",
+        "link": "https://softwareworld.co/",
+        "submission_link": "https://softwareworld.co/get-listed/",
         "domain_rating": 75.0,
         "monthly_visits": 65000,
         "submission_experience": "Good",
@@ -98,7 +98,7 @@ export const directories: Directory[] = [
         "domain_rating": 65.0,
         "monthly_visits": 370000,
         "submission_experience": "Good",
-        "pricing": "Free"
+        "pricing": "Paid"
     },
     {
         "name": "Startups.fyi",

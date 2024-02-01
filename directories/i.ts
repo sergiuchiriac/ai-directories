@@ -26,7 +26,7 @@ export const directories: Directory[] = [
         "domain_rating": 15.0,
         "monthly_visits": 100000,
         "submission_experience": "Good",
-        "pricing": "Free"
+        "pricing": "Paid"
     },
     {
         "name": "Instant",

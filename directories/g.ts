@@ -37,13 +37,4 @@ export const directories: Directory[] = [
         "submission_experience": "",
         "pricing": "Paid"
     },
-    {
-        "name": "Grabon",
-        "link": "https://www.grabon.in/indulge/ai-tools/",
-        "submission_link": "https://www.grabon.in/indulge/contact-us/",
-        "domain_rating": 15.0,
-        "monthly_visits": 30000,
-        "submission_experience": "Bad",
-        "pricing": ""
-    },
 ]

@@ -29,15 +29,6 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
-        "name": "Foundr ",
-        "link": "https://foundr.ai/",
-        "submission_link": "https://foundr.ai/",
-        "domain_rating": 10.0,
-        "monthly_visits": 5000,
-        "submission_experience": "Bad",
-        "pricing": "Free"
-    },
-    {
         "name": "Future AGI tools",
         "link": "https://www.futureagitools.com",
         "submission_link": "https://www.futureagitools.com/submit-a-site",

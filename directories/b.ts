@@ -28,13 +28,4 @@ export const directories: Directory[] = [
         "submission_experience": "Bad",
         "pricing": "Free"
     },
-    {
-        "name": "Business Software",
-        "link": "https://www.business-software.com/",
-        "submission_link": "https://www.business-software.com/add-your-product/",
-        "domain_rating": 55.0,
-        "monthly_visits": 100000,
-        "submission_experience": "",
-        "pricing": ""
-    },
 ]
