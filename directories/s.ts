@@ -38,6 +38,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "Sick Tools",
+        "link": "https://www.sick.tools/",
+        "submission_link": "https://tally.so/r/wvY09d",
+        "domain_rating": 0,
+        "monthly_visits": 100,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Software Suggest",
         "link": "https://www.softwaresuggest.com/",
         "submission_link": "https://www.softwaresuggest.com/artificial-intelligence-software",
