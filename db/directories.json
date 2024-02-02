@@ -4,7 +4,7 @@
     {
         "name": "aitools.fyi",
         "link": "https://aitools.fyi/",
-        "submission_link": "https://checkout.stripe.com/c/pay/cs_live_b1WdhMi89PMr6d16XKGEdc9BXXSSFBMvBZKUIZmkC7m7OV7MMfMIF9vpbU#fidkdWxOYHwnPyd1blppbHNgWjA0SHVzYURGY01tajQwX0tna39TV3FfVTc1XTdrPHNAbGNTMXNrdGZ1TUZIamFNcHFsaWA3SGZSS2tgUGdubWRcZHxpclRQPVZrSVd1fU1Ed1ZjNFZTY3VINTVxSVJAbzRQNScpJ3VpbGtuQH11anZgYUxhJz8nZ0xcNz1fZnxBZFF0Z3IxZEBQJyknd2BjYHd3YHdKd2xibGsnPydtcXF1dj8qKnErZmoqJ3gl",
+        "submission_link": "https://aitools.fyi/submit",
         "domain_rating": 27,
         "monthly_visits": 400000,
         "submission_experience": "Good",
@@ -16,6 +16,15 @@
         "submission_link": "https://inventlist.com/sites/new",
         "domain_rating": 0,
         "monthly_visits": 200,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Human or Not",
+        "link": "https://www.humanornot.co/",
+        "submission_link": "https://www.humanornot.co/submit-tool",
+        "domain_rating": 1,
+        "monthly_visits": 1600,
         "submission_experience": "Good",
         "pricing": "Free"
     },
