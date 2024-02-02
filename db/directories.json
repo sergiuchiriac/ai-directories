@@ -1,5 +1,5 @@
 {
-"count": 133,
+"count": 132,
 "data": [
     {
         "name": "aitools.fyi",
@@ -16,15 +16,6 @@
         "submission_link": "https://inventlist.com/sites/new",
         "domain_rating": 0,
         "monthly_visits": 200,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "Human or Not",
-        "link": "https://www.humanornot.co/",
-        "submission_link": "https://www.humanornot.co/submit-tool",
-        "domain_rating": 1,
-        "monthly_visits": 1600,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -979,15 +970,6 @@
         "submission_link": "https://www.saashub.com/submit",
         "domain_rating": 68,
         "monthly_visits": 1600000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "SaaSWorthy",
-        "link": "https://www.saasworthy.com/",
-        "submission_link": "Email feedback@saasworthy.com",
-        "domain_rating": 70,
-        "monthly_visits": 900000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

@@ -29,15 +29,6 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
-        "name": "SaaSWorthy",
-        "link": "https://www.saasworthy.com/",
-        "submission_link": "Email feedback@saasworthy.com",
-        "domain_rating": 70.0,
-        "monthly_visits": 900000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
         "name": "Serchen",
         "link": "https://www.serchen.com/",
         "submission_link": "https://www.serchen.com/get-listed/",
