@@ -20,6 +20,15 @@
         "pricing": "Free"
     },
     {
+        "name": "Human or Not",
+        "link": "https://www.humanornot.co/",
+        "submission_link": "https://www.humanornot.co/submit-tool",
+        "domain_rating": 1,
+        "monthly_visits": 10000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "10 Words",
         "link": "https://10words.io/",
         "submission_link": "https://portal.10words.io/submissions/submit",
