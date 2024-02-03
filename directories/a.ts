@@ -410,8 +410,8 @@ export const directories: Directory[] = [
         "name": "AI Reverie",
         "link": "https://aireverie.beehiiv.com/",
         "submission_link": "https://aireverie.beehiiv.com/",
-        "domain_rating": 83,
-        "monthly_visits": 0,
+        "domain_rating": 10,
+        "monthly_visits": 100,
         "submission_experience": "Bad",
         "pricing": "Free"
     },
