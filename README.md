@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 133
+ ### Total directories: 132
 
  
 
@@ -67,7 +67,6 @@
 | AI Wizard | [AI Wizard](https://www.aiwizard.ai/) | [Submit](https://www.aiwizard.ai/submit) | 10 | 5000 |  | **🔴 Paid** |
 | AIcyclopedia | [AIcyclopedia](www.aicyclopedia.com/) | [Submit](https://www.aicyclopedia.com/submit-your-tool) | 20 | 290000 | **🟢 Good** | **🟢 Free** |
 | AiSearchTool. | [AiSearchTool.](https://www.aisearchtool.com/) | [Submit](https://www.aisearchtool.com/) | 13 | 20000 | **🔴 Bad** | **🟢 Free** |
-| aitools.fyi | [aitools.fyi](https://aitools.fyi/) | [Submit](https://buy.stripe.com/5kAfZP56b9PmgQodQQ) | 27 | 400000 | **🟢 Good** | **🔴 Paid** |
 | All things AI | [All things AI](https://allthingsai.com/) | [Submit](https://allthingsai.com/submit) | 27 | 500000 | **🔴 Bad** |  |
 | All Top Startups | [All Top Startups](https://alltopstartups.com/) | [Submit](https://alltopstartups.com/submit-startup/) | 64 | 70000 |  | **🔴 Paid** |
 | Alternative | [Alternative](https://alternative.me/) | [Submit](https://alternative.me/how-to/submit-software/) | 77 | 2000000 | **🔴 Bad** | **🟢 Free** |

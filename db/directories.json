@@ -1,5 +1,5 @@
 {
-"count": 133,
+"count": 132,
 "data": [
     {
         "name": "aitools.fyi",
@@ -468,15 +468,6 @@
         "monthly_visits": 20000,
         "submission_experience": "Bad",
         "pricing": "Free"
-    },
-    {
-        "name": "aitools.fyi",
-        "link": "https://aitools.fyi/",
-        "submission_link": "https://buy.stripe.com/5kAfZP56b9PmgQodQQ",
-        "domain_rating": 27,
-        "monthly_visits": 400000,
-        "submission_experience": "Good",
-        "pricing": "Paid"
     },
     {
         "name": "All things AI",
