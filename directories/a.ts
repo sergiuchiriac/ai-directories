@@ -272,15 +272,6 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
-        "name": "aitools.fyi",
-        "link": "https://aitools.fyi/",
-        "submission_link": "https://buy.stripe.com/5kAfZP56b9PmgQodQQ",
-        "domain_rating": 27,
-        "monthly_visits": 400000,
-        "submission_experience": "Good",
-        "pricing": "Paid"
-    },
-    {
         "name": "AI Tool NET",
         "link": "https://www.aitoolnet.com/",
         "submission_link": "https://www.aitoolnet.com/",
