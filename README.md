@@ -41,7 +41,7 @@
 | AI Marketing | [AI Marketing](https://aimarketing.directory/) | [Submit](https://aimarketing.directory/submit) | 12 | 9600 | **🟢 Good** | **🟢 Free** |
 | AI News Guru | [AI News Guru](https://ainews.guru/apps/) | [Submit](https://ainews.guru/contact/) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
 | AI of the Day | [AI of the Day](https://aioftheday.com) | [Submit](https://aioftheday.com/submit) | 10 | 50000 | **🟢 Good** | **🟢 Free** |
-| AI Reverie | [AI Reverie](https://aireverie.beehiiv.com/) | [Submit](https://aireverie.beehiiv.com/) | 83 | 0 | **🔴 Bad** | **🟢 Free** |
+| AI Reverie | [AI Reverie](https://aireverie.beehiiv.com/) | [Submit](https://aireverie.beehiiv.com/) | 10 | 100 | **🔴 Bad** | **🟢 Free** |
 | AI scout | [AI scout](https://aiscout.net/) | [Submit](https://aiscout.net/submit-listing/details/) | 10 | 100 | **🟢 Good** | **🔴 Paid** |
 | AI Search | [AI Search](https://ai-search.io) | [Submit](https://ai-search.io/submit) | 10 | 4000 | **🟢 Good** | **🟢 Free** |
 | AI Spotter | [AI Spotter](https://aispotter.io/) | [Submit](https://airtable.com/shrrzZ9O2fx7mCk94) | 3 | 100 | **🟢 Good** | **🟢 Free** |
