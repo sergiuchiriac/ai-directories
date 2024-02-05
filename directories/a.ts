@@ -362,13 +362,13 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
-        "name": "AI top tools",
+        "name": "AI Top Tools",
         "link": "https://aitoptools.com/",
-        "submission_link": "https://aitoptools.com/contact/",
-        "domain_rating": 30.0,
+        "submission_link": "https://aitoptools.com/account/submit-tool/",
+        "domain_rating": 30,
         "monthly_visits": 260000,
-        "submission_experience": "Bad",
-        "pricing": ""
+        "submission_experience": "Good",
+        "pricing": "Paid"
     },
     {
         "name": "AI trendz",
