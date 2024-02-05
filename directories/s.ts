@@ -105,7 +105,7 @@ export const directories: Directory[] = [
         "link": "https://www.startups.fyi/",
         "submission_link": "https://tally.so/r/3lOGLk",
         "domain_rating": 22,
-        "monthly_visits": 100,
+        "monthly_visits": 13000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

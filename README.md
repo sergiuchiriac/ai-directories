@@ -62,7 +62,7 @@
 | AI Tools Hunter | [AI Tools Hunter](https://ai-hunter.io/) | [Submit](https://ai-hunter.io/submit-ai-tool/) | 10 | 25000 | **🟢 Good** | **🟢 Free** |
 | AI Tools Wiki | [AI Tools Wiki](https://aitoolswiki.com/) | [Submit](https://aitoolswiki.com/contact-us/) | 10 | 9000 | **🔴 Bad** |  |
 | AI Top Picks | [AI Top Picks](https://www.aitoppicks.com/) | [Submit](https://www.aitoppicks.com/) | 10 | 5800 |  | **🔴 Paid** |
-| AI Top Tools | [AI Top Tools](https://aitoptools.com/) | [Submit](https://aitoptools.com/account/submit-tool/) | 30 | 260000 | **🟢 Good** | **🔴 Paid** |
+| AI Top Tools | [AI Top Tools](https://aitoptools.com?ref=aidirectories) | [Submit](https://aitoptools.com?ref=aidirectories/account/submit-tool/) | 30 | 260000 | **🟢 Good** | **🔴 Paid** |
 | AI trendz | [AI trendz](https://aitrendz.xyz/) | [Submit](https://aitrendz.xyz/submit-ai-link/) | 8 | 90 |  | **🔴 Paid** |
 | AI Wizard | [AI Wizard](https://www.aiwizard.ai/) | [Submit](https://www.aiwizard.ai/submit) | 10 | 5000 |  | **🔴 Paid** |
 | AIcyclopedia | [AIcyclopedia](www.aicyclopedia.com/) | [Submit](https://www.aicyclopedia.com/submit-your-tool) | 20 | 290000 | **🟢 Good** | **🟢 Free** |
@@ -131,7 +131,7 @@
 | Startup Base | [Startup Base](https://startupbase.io/) | [Submit](https://startupbase.io/promote) | 50 | 3000 |  | **🔴 Paid** |
 | Startup Buffer | [Startup Buffer](https://startupbuffer.com/) | [Submit](https://startupbuffer.com/site/submit) | 36 | 16000 | **🟢 Good** | **🟢 Free** |
 | Startup Stash | [Startup Stash](https://startupstash.com/) | [Submit](https://startupstash.com/add-listing/) | 65 | 370000 | **🟢 Good** | **🔴 Paid** |
-| Startups.fyi | [Startups.fyi](https://www.startups.fyi/) | [Submit](https://tally.so/r/3lOGLk) | 22 | 100 | **🟢 Good** | **🟢 Free** |
+| Startups.fyi | [Startups.fyi](https://www.startups.fyi/) | [Submit](https://tally.so/r/3lOGLk) | 22 | 13000 | **🟢 Good** | **🟢 Free** |
 | Super Tools | [Super Tools](https://supertools.therundown.ai/) | [Submit](https://supertools.therundown.ai/submit) | 20 | 380000 | **🟢 Good** | **🟢 Free** |
 | The ai Generation | [The ai Generation](https://www.theaigeneration.com/) | [Submit](https://www.theaigeneration.com/add/) | 11 | 77000 | **🟢 Good** | **🟢 Free** |
 | The Hack Stack | [The Hack Stack](https://thehackstack.com/) | [Submit](https://thehackstack.com/register) | 10 | 5000 | **🔴 Bad** | **🟢 Free** |

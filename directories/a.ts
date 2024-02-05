@@ -363,8 +363,8 @@ export const directories: Directory[] = [
     },
     {
         "name": "AI Top Tools",
-        "link": "https://aitoptools.com/",
-        "submission_link": "https://aitoptools.com/account/submit-tool/",
+        "link": "https://aitoptools.com?ref=aidirectories",
+        "submission_link": "https://aitoptools.com?ref=aidirectories/account/submit-tool/",
         "domain_rating": 30,
         "monthly_visits": 260000,
         "submission_experience": "Good",
