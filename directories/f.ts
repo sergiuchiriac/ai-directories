@@ -55,4 +55,13 @@ export const directories: Directory[] = [
         "submission_experience": "Good",
         "pricing": "Paid"
     },
+    {
+        "name": "Free AI Tools Directory",
+        "link": "https://free-ai-tools-directory.com/?ref=aidirectories",
+        "submission_link": "https://free-ai-tools-directory.com/submit-request/?ref=aidirectories",
+        "domain_rating": 11.0,
+        "monthly_visits": 23000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
 ]

@@ -4,7 +4,7 @@ export const directories: Directory[] = [
     {
         "name": "Daily tech AI",
         "link": "https://www.dailytech.ai/",
-        "submission_link": "https://www.dailytech.ai/contact-us",
+        "submission_link": "https://www.dailytech.ai/submit-service",
         "domain_rating": 11.0,
         "monthly_visits": 23000,
         "submission_experience": "Good",

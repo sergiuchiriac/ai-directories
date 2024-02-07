@@ -1,5 +1,5 @@
 {
-"count": 132,
+"count": 125,
 "data": [
     {
         "name": "aitools.fyi",
@@ -25,15 +25,6 @@
         "submission_link": "https://www.humanornot.co/submit-tool",
         "domain_rating": 1,
         "monthly_visits": 10000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "10 Words",
-        "link": "https://10words.io/",
-        "submission_link": "https://portal.10words.io/submissions/submit",
-        "domain_rating": 26,
-        "monthly_visits": 6000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -65,15 +56,6 @@
         "pricing": "Paid"
     },
     {
-        "name": "AI Awesome",
-        "link": "https://www.aiawesome.com/",
-        "submission_link": "https://www.aiawesome.com/new",
-        "domain_rating": 27,
-        "monthly_visits": 37000,
-        "submission_experience": "Bad",
-        "pricing": "Free"
-    },
-    {
         "name": "AI Center",
         "link": "https://aicenter.ai/",
         "submission_link": "https://aicenter.ai/products/submit",
@@ -81,15 +63,6 @@
         "monthly_visits": 5000,
         "submission_experience": "Good",
         "pricing": "Paid"
-    },
-    {
-        "name": "AI Collection",
-        "link": "https://github.com/ai-collection/ai-collection",
-        "submission_link": "https://www.thataicollection.com/submit/",
-        "domain_rating": 7,
-        "monthly_visits": 1000,
-        "submission_experience": "Bad",
-        "pricing": "Free"
     },
     {
         "name": "AI combined",
@@ -201,8 +174,8 @@
     },
     {
         "name": "AI Library",
-        "link": "https://library.phygital.plus/?ref=ailaunchlist",
-        "submission_link": "https://library.phygital.plus/?ref=ailaunchlist",
+        "link": "https://library.phygital.plus/?ref=aidirectories",
+        "submission_link": "https://library.phygital.plus/tool-submission?ref=aidirectories",
         "domain_rating": 17,
         "monthly_visits": 25000,
         "submission_experience": "Good",
@@ -220,28 +193,10 @@
     {
         "name": "AI News Guru",
         "link": "https://ainews.guru/apps/",
-        "submission_link": "https://ainews.guru/contact/",
+        "submission_link": "https://ainews.guru/ai-app-submission/",
         "domain_rating": 10,
         "monthly_visits": 5000,
         "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "AI of the Day",
-        "link": "https://aioftheday.com",
-        "submission_link": "https://aioftheday.com/submit",
-        "domain_rating": 10,
-        "monthly_visits": 50000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "AI Reverie",
-        "link": "https://aireverie.beehiiv.com/",
-        "submission_link": "https://aireverie.beehiiv.com/",
-        "domain_rating": 10,
-        "monthly_visits": 100,
-        "submission_experience": "Bad",
         "pricing": "Free"
     },
     {
@@ -259,15 +214,6 @@
         "submission_link": "https://ai-search.io/submit",
         "domain_rating": 10,
         "monthly_visits": 4000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "AI Spotter",
-        "link": "https://aispotter.io/",
-        "submission_link": "https://airtable.com/shrrzZ9O2fx7mCk94",
-        "domain_rating": 3,
-        "monthly_visits": 100,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -425,6 +371,15 @@
         "pricing": "Paid"
     },
     {
+        "name": "AI Top Rank",
+        "link": "https://aitoprank.com/?ref=aidirectories",
+        "submission_link": "https://aitoprank.com/?ref=aidirectories",
+        "domain_rating": 8,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "AI Top Tools",
         "link": "https://aitoptools.com?ref=aidirectories",
         "submission_link": "https://aitoptools.com?ref=aidirectories/account/submit-tool/",
@@ -450,24 +405,6 @@
         "monthly_visits": 5000,
         "submission_experience": "",
         "pricing": "Paid"
-    },
-    {
-        "name": "AIcyclopedia",
-        "link": "www.aicyclopedia.com/",
-        "submission_link": "https://www.aicyclopedia.com/submit-your-tool",
-        "domain_rating": 20,
-        "monthly_visits": 290000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "AiSearchTool.",
-        "link": "https://www.aisearchtool.com/",
-        "submission_link": "https://www.aisearchtool.com/",
-        "domain_rating": 13,
-        "monthly_visits": 20000,
-        "submission_experience": "Bad",
-        "pricing": "Free"
     },
     {
         "name": "All things AI",
@@ -607,7 +544,7 @@
     {
         "name": "Daily tech AI",
         "link": "https://www.dailytech.ai/",
-        "submission_link": "https://www.dailytech.ai/contact-us",
+        "submission_link": "https://www.dailytech.ai/submit-service",
         "domain_rating": 11,
         "monthly_visits": 23000,
         "submission_experience": "Good",
@@ -732,8 +669,8 @@
     },
     {
         "name": "Free AI Tools Directory",
-        "link": "https://free-ai-tools-directory.com/",
-        "submission_link": "https://free-ai-tools-directory.com/submit-request/",
+        "link": "https://free-ai-tools-directory.com/?ref=aidirectories",
+        "submission_link": "https://free-ai-tools-directory.com/submit-request/?ref=aidirectories",
         "domain_rating": 11,
         "monthly_visits": 23000,
         "submission_experience": "Good",
@@ -873,15 +810,6 @@
         "monthly_visits": 13000,
         "submission_experience": "Good",
         "pricing": "Free"
-    },
-    {
-        "name": "Lets View",
-        "link": "https://letsview.com/",
-        "submission_link": "https://letsview.com/ai-tools?ref=ailaunchlist",
-        "domain_rating": 23,
-        "monthly_visits": 830000,
-        "submission_experience": "Bad",
-        "pricing": ""
     },
     {
         "name": "MadGenius",
@@ -1061,6 +989,15 @@
         "domain_rating": 20,
         "monthly_visits": 380000,
         "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "That AI Collection",
+        "link": "https://github.com/ai-collection/ai-collection",
+        "submission_link": "https://www.thataicollection.com/submit/",
+        "domain_rating": 32,
+        "monthly_visits": 34000,
+        "submission_experience": "Bad",
         "pricing": "Free"
     },
     {

@@ -29,6 +29,15 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
+        "name": "That AI Collection",
+        "link": "https://github.com/ai-collection/ai-collection",
+        "submission_link": "https://www.thataicollection.com/submit/",
+        "domain_rating": 32,
+        "monthly_visits": 34000,
+        "submission_experience": "Bad",
+        "pricing": "Free"
+    },
+    {
         "name": "Tool Pilot",
         "link": "https://www.toolpilot.ai/",
         "submission_link": "https://www.toolpilot.ai/pages/submit-your-ai-tool",

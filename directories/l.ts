@@ -19,13 +19,4 @@ export const directories: Directory[] = [
         "submission_experience": "Good",
         "pricing": "Free"
     },
-    {
-        "name": "Lets View",
-        "link": "https://letsview.com/",
-        "submission_link": "https://letsview.com/ai-tools?ref=ailaunchlist",
-        "domain_rating": 23.0,
-        "monthly_visits": 830000,
-        "submission_experience": "Bad",
-        "pricing": ""
-    },
 ]

@@ -2,15 +2,6 @@ import {Directory} from "../types/directory";
 
 export const directories: Directory[] = [
     {
-        "name": "AI Awesome",
-        "link": "https://www.aiawesome.com/",
-        "submission_link": "https://www.aiawesome.com/new",
-        "domain_rating": 27.0,
-        "monthly_visits": 37000,
-        "submission_experience": "Bad",
-        "pricing": "Free"
-    },
-    {
         "name": "AI Center",
         "link": "https://aicenter.ai/",
         "submission_link": "https://aicenter.ai/products/submit",
@@ -18,15 +9,6 @@ export const directories: Directory[] = [
         "monthly_visits": 5000,
         "submission_experience": "Good",
         "pricing": "Paid"
-    },
-    {
-        "name": "AI Collection",
-        "link": "https://github.com/ai-collection/ai-collection",
-        "submission_link": "https://www.thataicollection.com/submit/",
-        "domain_rating": 7.0,
-        "monthly_visits": 1000,
-        "submission_experience": "Bad",
-        "pricing": "Free"
     },
     {
         "name": "AI combined",
@@ -138,8 +120,8 @@ export const directories: Directory[] = [
     },
     {
         "name": "AI Library",
-        "link": "https://library.phygital.plus/?ref=ailaunchlist",
-        "submission_link": "https://library.phygital.plus/?ref=ailaunchlist",
+        "link": "https://library.phygital.plus/?ref=aidirectories",
+        "submission_link": "https://library.phygital.plus/tool-submission?ref=aidirectories",
         "domain_rating": 17.0,
         "monthly_visits": 25000,
         "submission_experience": "Good",
@@ -157,18 +139,9 @@ export const directories: Directory[] = [
     {
         "name": "AI News Guru",
         "link": "https://ainews.guru/apps/",
-        "submission_link": "https://ainews.guru/contact/",
+        "submission_link": "https://ainews.guru/ai-app-submission/",
         "domain_rating": 10.0,
         "monthly_visits": 5000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "AI of the Day",
-        "link": "https://aioftheday.com",
-        "submission_link": "https://aioftheday.com/submit",
-        "domain_rating": 10.0,
-        "monthly_visits": 50000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -187,15 +160,6 @@ export const directories: Directory[] = [
         "submission_link": "https://ai-search.io/submit",
         "domain_rating": 10.0,
         "monthly_visits": 4000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "AI Spotter",
-        "link": "https://aispotter.io/",
-        "submission_link": "https://airtable.com/shrrzZ9O2fx7mCk94",
-        "domain_rating": 3.0,
-        "monthly_visits": 100,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -308,11 +272,11 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
-        "name": "Free AI Tools Directory",
-        "link": "https://free-ai-tools-directory.com/",
-        "submission_link": "https://free-ai-tools-directory.com/submit-request/",
-        "domain_rating": 11.0,
-        "monthly_visits": 23000,
+        "name": "AI Top Rank",
+        "link": "https://aitoprank.com/?ref=aidirectories",
+        "submission_link": "https://aitoprank.com/?ref=aidirectories",
+        "domain_rating": 8,
+        "monthly_visits": 5000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -387,33 +351,6 @@ export const directories: Directory[] = [
         "monthly_visits": 5000,
         "submission_experience": "",
         "pricing": "Paid"
-    },
-    {
-        "name": "AIcyclopedia",
-        "link": "www.aicyclopedia.com/",
-        "submission_link": "https://www.aicyclopedia.com/submit-your-tool",
-        "domain_rating": 20.0,
-        "monthly_visits": 290000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "AiSearchTool.",
-        "link": "https://www.aisearchtool.com/",
-        "submission_link": "https://www.aisearchtool.com/",
-        "domain_rating": 13.0,
-        "monthly_visits": 20000,
-        "submission_experience": "Bad",
-        "pricing": "Free"
-    },
-    {
-        "name": "AI Reverie",
-        "link": "https://aireverie.beehiiv.com/",
-        "submission_link": "https://aireverie.beehiiv.com/",
-        "domain_rating": 10,
-        "monthly_visits": 100,
-        "submission_experience": "Bad",
-        "pricing": "Free"
     },
     {
         "name": "All things AI",

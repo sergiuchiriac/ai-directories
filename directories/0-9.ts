@@ -12,15 +12,6 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
-        "name": "10 Words",
-        "link": "https://10words.io/",
-        "submission_link": "https://portal.10words.io/submissions/submit",
-        "domain_rating": 26,
-        "monthly_visits": 6000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
         "name": "100 AI Apps",
         "link": "https://100apps.org/",
         "submission_link": "https://100apps.org/",
