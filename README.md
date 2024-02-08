@@ -21,9 +21,9 @@
 | 100 AI Apps | [100 AI Apps](https://100apps.org/) | [Submit](https://100apps.org/) | 0.6 | 1000 | **🟢 Good** | **🔴 Paid** |
 | 1000 Tools | [1000 Tools](https://1000.tools/) | [Submit](https://1000.tools/my/tools/create) | 23 | 7500 | **🟢 Good** | **🔴 Paid** |
 | 1000gpt.shop | [1000gpt.shop](https://1000gpt.shop) | [Submit](https://buy.stripe.com/dR6eVi1lRgj9bsY4gg) | 1 | 1000 | **🟢 Good** | **🔴 Paid** |
-| AI Center | [AI Center](https://aicenter.ai/) | [Submit](https://aicenter.ai/products/submit) | 10 | 5000 | **🟢 Good** | **🔴 Paid** |
-| AI combined | [AI combined](https://aicombined.com) | [Submit](https://aicombined.com/add-listing/) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
-| AI Depot | [AI Depot](https://aidepot.co/) | [Submit](https://t.co/d7KH891ypL) | 11 | 30000 |  | **🔴 Paid** |
+| AI Center | [AI Center](https://aicenter.ai/?ref=aidirectories) | [Submit](https://aicenter.ai/products/submit?ref=aidirectories) | 10 | 5000 | **🟢 Good** | **🔴 Paid** |
+| AI combined | [AI combined](https://aicombined.com?ref=aidirectories) | [Submit](https://aicombined.com/add-listing?ref=aidirectories/) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
+| AI Depot | [AI Depot](https://aidepot.co/?ref=aidirectories) | [Submit](https://t.co/d7KH891ypL?ref=aidirectories) | 11 | 30000 |  | **🔴 Paid** |
 | AI Dir | [AI Dir](https://www.aidir.cc/) | [Submit](https://www.aidir.cc/submit/) | 10 | 100 | **🔴 Bad** |  |
 | AI Directory | [AI Directory](https://www.aidirectory.org) | [Submit](https://www.aidirectory.org/user-submit/) | 10 | 5700 | **🔴 Bad** |  |
 | AI Explorer | [AI Explorer](https://www.aiexplorer.app/) | [Submit](https://www.aiexplorer.app/) | 10 | 24000 | **🔴 Bad** |  |
@@ -55,12 +55,12 @@
 | AI Tools Guide | [AI Tools Guide](https://aitoolsguide.com/) | [Submit](https://aitoolsguide.com/contact/) | 10 | 5000 | **🔴 Bad** |  |
 | AI Tools Hunter | [AI Tools Hunter](https://ai-hunter.io/) | [Submit](https://ai-hunter.io/submit-ai-tool/) | 10 | 25000 | **🟢 Good** | **🟢 Free** |
 | AI Tools Wiki | [AI Tools Wiki](https://aitoolswiki.com/) | [Submit](https://aitoolswiki.com/contact-us/) | 10 | 9000 | **🔴 Bad** |  |
-| AI Top Picks | [AI Top Picks](https://www.aitoppicks.com/) | [Submit](https://www.aitoppicks.com/) | 10 | 5800 |  | **🔴 Paid** |
+| AI Top Picks | [AI Top Picks](https://www.aitoppicks.com/?ref=aidirectories) | [Submit](https://www.aitoppicks.com/?ref=aidirectories) | 10 | 5800 |  | **🔴 Paid** |
 | AI Top Rank | [AI Top Rank](https://aitoprank.com/?ref=aidirectories) | [Submit](https://aitoprank.com/?ref=aidirectories) | 8 | 5000 | **🟢 Good** | **🟢 Free** |
-| AI Top Tools | [AI Top Tools](https://aitoptools.com?ref=aidirectories) | [Submit](https://aitoptools.com?ref=aidirectories/account/submit-tool/) | 30 | 260000 | **🟢 Good** | **🔴 Paid** |
-| AI trendz | [AI trendz](https://aitrendz.xyz/) | [Submit](https://aitrendz.xyz/submit-ai-link/) | 8 | 90 |  | **🔴 Paid** |
-| AI Wizard | [AI Wizard](https://www.aiwizard.ai/) | [Submit](https://www.aiwizard.ai/submit) | 10 | 5000 |  | **🔴 Paid** |
-| All things AI | [All things AI](https://allthingsai.com/) | [Submit](https://allthingsai.com/submit) | 27 | 500000 | **🔴 Bad** |  |
+| AI Top Tools | [AI Top Tools](https://aitoptools.com?ref=aidirectories) | [Submit](https://aitoptools.com/account/submit-tool?ref=aidirectories) | 30 | 260000 | **🟢 Good** | **🔴 Paid** |
+| AI trendz | [AI trendz](https://aitrendz.xyz/?ref=aidirectories) | [Submit](https://aitrendz.xyz/submit-ai-link/?ref=aidirectories) | 8 | 90 |  | **🔴 Paid** |
+| AI Wizard | [AI Wizard](https://www.aiwizard.ai/?ref=aidirectories) | [Submit](https://www.aiwizard.ai/submit?ref=aidirectories) | 10 | 5000 |  | **🔴 Paid** |
+| All things AI | [All things AI](https://allthingsai.com/?ref=aidirectories) | [Submit](https://allthingsai.com/submit?ref=aidirectories) | 27 | 500000 | **🔴 Bad** |  |
 | All Top Startups | [All Top Startups](https://alltopstartups.com/) | [Submit](https://alltopstartups.com/submit-startup/) | 64 | 70000 |  | **🔴 Paid** |
 | Alternative | [Alternative](https://alternative.me/) | [Submit](https://alternative.me/how-to/submit-software/) | 77 | 2000000 | **🔴 Bad** | **🟢 Free** |
 | Alternatives.co | [Alternatives.co](https://alternatives.co/software/ai-tools/) | [Submit](https://alternatives.co/software/ai-tools/) | 12 | 19000 | **🔴 Bad** |  |

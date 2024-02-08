@@ -3,8 +3,8 @@ import {Directory} from "../types/directory";
 export const directories: Directory[] = [
     {
         "name": "AI Center",
-        "link": "https://aicenter.ai/",
-        "submission_link": "https://aicenter.ai/products/submit",
+        "link": "https://aicenter.ai/?ref=aidirectories",
+        "submission_link": "https://aicenter.ai/products/submit?ref=aidirectories",
         "domain_rating": 10.0,
         "monthly_visits": 5000,
         "submission_experience": "Good",
@@ -12,8 +12,8 @@ export const directories: Directory[] = [
     },
     {
         "name": "AI combined",
-        "link": "https://aicombined.com",
-        "submission_link": "https://aicombined.com/add-listing/",
+        "link": "https://aicombined.com?ref=aidirectories",
+        "submission_link": "https://aicombined.com/add-listing?ref=aidirectories/",
         "domain_rating": 10.0,
         "monthly_visits": 5000,
         "submission_experience": "Good",
@@ -21,8 +21,8 @@ export const directories: Directory[] = [
     },
     {
         "name": "AI Depot",
-        "link": "https://aidepot.co/",
-        "submission_link": "https://t.co/d7KH891ypL",
+        "link": "https://aidepot.co/?ref=aidirectories",
+        "submission_link": "https://t.co/d7KH891ypL?ref=aidirectories",
         "domain_rating": 11.0,
         "monthly_visits": 30000,
         "submission_experience": "",
@@ -318,8 +318,8 @@ export const directories: Directory[] = [
     },
     {
         "name": "AI Top Picks",
-        "link": "https://www.aitoppicks.com/",
-        "submission_link": "https://www.aitoppicks.com/",
+        "link": "https://www.aitoppicks.com/?ref=aidirectories",
+        "submission_link": "https://www.aitoppicks.com/?ref=aidirectories",
         "domain_rating": 10.0,
         "monthly_visits": 5800,
         "submission_experience": "",
@@ -328,7 +328,7 @@ export const directories: Directory[] = [
     {
         "name": "AI Top Tools",
         "link": "https://aitoptools.com?ref=aidirectories",
-        "submission_link": "https://aitoptools.com?ref=aidirectories/account/submit-tool/",
+        "submission_link": "https://aitoptools.com/account/submit-tool?ref=aidirectories",
         "domain_rating": 30,
         "monthly_visits": 260000,
         "submission_experience": "Good",
@@ -336,8 +336,8 @@ export const directories: Directory[] = [
     },
     {
         "name": "AI trendz",
-        "link": "https://aitrendz.xyz/",
-        "submission_link": "https://aitrendz.xyz/submit-ai-link/",
+        "link": "https://aitrendz.xyz/?ref=aidirectories",
+        "submission_link": "https://aitrendz.xyz/submit-ai-link/?ref=aidirectories",
         "domain_rating": 8.0,
         "monthly_visits": 90,
         "submission_experience": "",
@@ -345,8 +345,8 @@ export const directories: Directory[] = [
     },
     {
         "name": "AI Wizard",
-        "link": "https://www.aiwizard.ai/",
-        "submission_link": "https://www.aiwizard.ai/submit",
+        "link": "https://www.aiwizard.ai/?ref=aidirectories",
+        "submission_link": "https://www.aiwizard.ai/submit?ref=aidirectories",
         "domain_rating": 10.0,
         "monthly_visits": 5000,
         "submission_experience": "",
@@ -354,8 +354,8 @@ export const directories: Directory[] = [
     },
     {
         "name": "All things AI",
-        "link": "https://allthingsai.com/",
-        "submission_link": "https://allthingsai.com/submit",
+        "link": "https://allthingsai.com/?ref=aidirectories",
+        "submission_link": "https://allthingsai.com/submit?ref=aidirectories",
         "domain_rating": 27.0,
         "monthly_visits": 500000,
         "submission_experience": "Bad",
