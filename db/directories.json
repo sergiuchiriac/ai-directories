@@ -1,5 +1,5 @@
 {
-"count": 125,
+"count": 124,
 "data": [
     {
         "name": "aitools.fyi",
@@ -499,7 +499,7 @@
     {
         "name": "Chat AI Apps",
         "link": "https://www.chataiapps.com/",
-        "submission_link": "Email to hey@aiartapps.com",
+        "submission_link": "https://www.chataiapps.com/",
         "domain_rating": 10,
         "monthly_visits": 5000,
         "submission_experience": "",
@@ -831,8 +831,8 @@
     },
     {
         "name": "Next Gen Tools",
-        "link": "https://nextgentools.me/",
-        "submission_link": "https://nextgentools.me/",
+        "link": "https://nextgentools.me/?ref=aidirecories",
+        "submission_link": "https://nextgentools.me/submit-your-tool?ref=aidirecories",
         "domain_rating": 27,
         "monthly_visits": 47000,
         "submission_experience": "Good",
@@ -840,8 +840,8 @@
     },
     {
         "name": "Nextpedia",
-        "link": "https://www.nextpedia.io/",
-        "submission_link": "https://www.nextpedia.io/submit-tool/",
+        "link": "https://www.nextpedia.io/?ref=aidirecories",
+        "submission_link": "https://www.nextpedia.io/submit-tool/?ref=aidirecories",
         "domain_rating": 9,
         "monthly_visits": 8000,
         "submission_experience": "Bad",
@@ -898,15 +898,6 @@
         "submission_link": "https://www.saashub.com/submit",
         "domain_rating": 68,
         "monthly_visits": 1600000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "Serchen",
-        "link": "https://www.serchen.com/",
-        "submission_link": "https://www.serchen.com/get-listed/",
-        "domain_rating": 71,
-        "monthly_visits": 23000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -1121,8 +1112,8 @@
         "name": "Uneed Best",
         "link": "https://www.uneed.best/",
         "submission_link": "https://www.uneed.best/submit-a-tool",
-        "domain_rating": 21,
-        "monthly_visits": 2000,
+        "domain_rating": 26,
+        "monthly_visits": 252000,
         "submission_experience": "Good",
         "pricing": "Paid"
     },

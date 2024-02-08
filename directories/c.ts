@@ -4,7 +4,7 @@ export const directories: Directory[] = [
     {
         "name": "Chat AI Apps",
         "link": "https://www.chataiapps.com/",
-        "submission_link": "Email to hey@aiartapps.com",
+        "submission_link": "https://www.chataiapps.com/",
         "domain_rating": 10.0,
         "monthly_visits": 5000,
         "submission_experience": "",

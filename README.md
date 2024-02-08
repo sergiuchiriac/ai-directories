@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 125
+ ### Total directories: 124
 
  
 
@@ -70,7 +70,7 @@
 | Ben’s Bites News | [Ben’s Bites News](https://news.bensbites.co/) | [Submit](https://news.bensbites.co/) | 41 | 10000 | **🟢 Good** | **🔴 Paid** |
 | Best AI Tools | [Best AI Tools](https://www.startupaitools.com/) | [Submit](https://www.startupaitools.com/) | 10 | 900 | **🟢 Good** | **🟢 Free** |
 | Beta List | [Beta List](https://betalist.com/) | [Submit](https://betalist.com/submissions/new) | 70 | 180000 | **🔴 Bad** | **🟢 Free** |
-| Chat AI Apps | [Chat AI Apps](https://www.chataiapps.com/) | [Submit](Email to hey@aiartapps.com) | 10 | 5000 |  |  |
+| Chat AI Apps | [Chat AI Apps](https://www.chataiapps.com/) | [Submit](https://www.chataiapps.com/) | 10 | 5000 |  |  |
 | ChatGPT demo | [ChatGPT demo](https://chatgptdemo.com/) | [Submit](https://chatgptdemo.com/submit-a-product/) | 30 | 400000 | **🟢 Good** | **🟢 Free** |
 | Crazy About Startups | [Crazy About Startups](https://crazyaboutstartups.com/) | [Submit](https://crazyaboutstartups.com/share-your-startup-2) | 33 | 5000 | **🔴 Bad** |  |
 | Crozdesk | [Crozdesk](https://crozdesk.com/) | [Submit](https://vendor.softwareselect.com/) | 74 | 200000 |  |  |
@@ -107,15 +107,14 @@
 | Launching Next | [Launching Next](https://www.launchingnext.com/) | [Submit](https://www.launchingnext.com/submit/) | 51 | 13000 | **🟢 Good** | **🟢 Free** |
 | MadGenius | [MadGenius](https://madgenius.co/) | [Submit](https://madgenius.co/submit) | 10 | 5000 |  | **🔴 Paid** |
 | Mars AI directory | [Mars AI directory](https://www.marsx.dev/ai-startups) | [Submit](https://www.marsx.dev/ai-startups) | 30 | 90000 | **🟢 Good** | **🟢 Free** |
-| Next Gen Tools | [Next Gen Tools](https://nextgentools.me/) | [Submit](https://nextgentools.me/) | 27 | 47000 | **🟢 Good** | **🟢 Free** |
-| Nextpedia | [Nextpedia](https://www.nextpedia.io/) | [Submit](https://www.nextpedia.io/submit-tool/) | 9 | 8000 | **🔴 Bad** |  |
+| Next Gen Tools | [Next Gen Tools](https://nextgentools.me/?ref=aidirecories) | [Submit](https://nextgentools.me/submit-your-tool?ref=aidirecories) | 27 | 47000 | **🟢 Good** | **🟢 Free** |
+| Nextpedia | [Nextpedia](https://www.nextpedia.io/?ref=aidirecories) | [Submit](https://www.nextpedia.io/submit-tool/?ref=aidirecories) | 9 | 8000 | **🔴 Bad** |  |
 | One Hub AI | [One Hub AI](https://www.onehubai.com/) | [Submit](https://www.onehubai.com/) | 10 | 4600 | **🟢 Good** | **🔴 Paid** |
 | Post Make | [Post Make](https://postmake.io/) | [Submit](https://postmake.io/submit) | 29 | 10000 |  | **🔴 Paid** |
 | Product Hunt | [Product Hunt](https://www.producthunt.com/) | [Submit](https://www.producthunt.com/posts/new) | 75 | 6000000 | **🟢 Good** | **🟢 Free** |
 | Saas AI Tools | [Saas AI Tools](https://saasaitools.com/) | [Submit](https://saasaitools.com/submit/) | 33 | 73000 | **🟢 Good** | **🟢 Free** |
 | SaasBaba | [SaasBaba](https://saasbaba.com/) | [Submit](https://saasbaba.com/add-ai-tool/) | 10 | 9000 | **🟢 Good** | **🟢 Free** |
 | SaasHub | [SaasHub](https://www.saashub.com/) | [Submit](https://www.saashub.com/submit) | 68 | 1600000 | **🟢 Good** | **🟢 Free** |
-| Serchen | [Serchen](https://www.serchen.com/) | [Submit](https://www.serchen.com/get-listed/) | 71 | 23000 | **🟢 Good** | **🟢 Free** |
 | Sick Tools | [Sick Tools](https://www.sick.tools/) | [Submit](https://tally.so/r/wvY09d) | 0 | 100 | **🟢 Good** | **🟢 Free** |
 | Software Suggest | [Software Suggest](https://www.softwaresuggest.com/) | [Submit](https://www.softwaresuggest.com/artificial-intelligence-software) | 40 | 561000 | **🔴 Bad** |  |
 | Software World | [Software World](https://softwareworld.co/) | [Submit](https://softwareworld.co/get-listed/) | 75 | 65000 | **🟢 Good** | **🟢 Free** |
@@ -139,7 +138,7 @@
 | Toolspedia | [Toolspedia](https://www.toolspedia.io) | [Submit](https://www.toolspedia.io/submit-tool/) | 10 | 5000 |  | **🔴 Paid** |
 | Top AI tools | [Top AI tools](https://topai.tools/) | [Submit](https://topai.tools/submit) | 20 | 120000 |  | **🔴 Paid** |
 | Under1000MRR.tools | [Under1000MRR.tools](https://under1000mrr.tools/) | [Submit](https://under1000mrr.tools/submit-product) | 0 | 500 | **🟢 Good** | **🔴 Paid** |
-| Uneed Best | [Uneed Best](https://www.uneed.best/) | [Submit](https://www.uneed.best/submit-a-tool) | 21 | 2000 | **🟢 Good** | **🔴 Paid** |
+| Uneed Best | [Uneed Best](https://www.uneed.best/) | [Submit](https://www.uneed.best/submit-a-tool) | 26 | 252000 | **🟢 Good** | **🔴 Paid** |
 | Victrays | [Victrays](https://victrays.com/) | [Submit](https://victrays.com/submit-tool/) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
 | Warehouse AI | [Warehouse AI](https://www.thewarehouse.ai/) | [Submit](https://www.thewarehouse.ai/product-submission) | 10 | 15000 | **🟢 Good** | **🟢 Free** |
 | What the AI | [What the AI](https://whattheai.tech/) | [Submit](https://whattheai.tech/) | 9 | 99 |  |  |

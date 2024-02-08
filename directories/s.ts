@@ -29,15 +29,6 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
-        "name": "Serchen",
-        "link": "https://www.serchen.com/",
-        "submission_link": "https://www.serchen.com/get-listed/",
-        "domain_rating": 71.0,
-        "monthly_visits": 23000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
         "name": "Sick Tools",
         "link": "https://www.sick.tools/",
         "submission_link": "https://tally.so/r/wvY09d",
