@@ -37,7 +37,7 @@
 | AI Library | [AI Library](https://library.phygital.plus/?ref=aidirectories) | [Submit](https://library.phygital.plus/tool-submission?ref=aidirectories) | 17 | 25000 | **🟢 Good** | **🟢 Free** |
 | AI Marketing | [AI Marketing](https://aimarketing.directory/) | [Submit](https://aimarketing.directory/submit) | 12 | 9600 | **🟢 Good** | **🟢 Free** |
 | AI News Guru | [AI News Guru](https://ainews.guru/apps/) | [Submit](https://ainews.guru/ai-app-submission/) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
-| AI scout | [AI scout](https://aiscout.net/) | [Submit](https://aiscout.net/submit-listing/details/) | 10 | 100 | **🟢 Good** | **🔴 Paid** |
+| AI scout | [AI scout](https://aiscout.net/) | [Submit](https://aiscout.net/submit-listing/details/) | 43 | 5000 | **🟢 Good** | **🔴 Paid** |
 | AI Search | [AI Search](https://ai-search.io) | [Submit](https://ai-search.io/submit) | 10 | 4000 | **🟢 Good** | **🟢 Free** |
 | AI Spree | [AI Spree](https://aispree.com/) | [Submit](https://aispree.com/) | 5 | 700 | **🔴 Bad** |  |
 | AI Startups | [AI Startups](https://www.aistartups.net/) | [Submit](https://www.aistartups.net/submit/) | 12 | 37000 | **🔴 Bad** |  |

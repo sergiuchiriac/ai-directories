@@ -2,9 +2,18 @@
 "count": 124,
 "data": [
     {
+        "name": "Open Tools",
+        "link": "https://opentools.ai/?ref=aidirectories",
+        "submission_link": "https://opentools.ai/?ref=aidirectories",
+        "domain_rating": 37,
+        "monthly_visits": 26000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
         "name": "aitools.fyi",
-        "link": "https://aitools.fyi/",
-        "submission_link": "https://aitools.fyi/submit",
+        "link": "https://aitools.fyi/?ref=aidirectories",
+        "submission_link": "https://aitools.fyi/submit?ref=aidirectories",
         "domain_rating": 27,
         "monthly_visits": 500000,
         "submission_experience": "Good",
@@ -12,8 +21,8 @@
     },
     {
         "name": "Invent List",
-        "link": "https://inventlist.com/",
-        "submission_link": "https://inventlist.com/sites/new",
+        "link": "https://inventlist.com/?ref=aidirectories",
+        "submission_link": "https://inventlist.com/sites/new?ref=aidirectories",
         "domain_rating": 0,
         "monthly_visits": 200,
         "submission_experience": "Good",
@@ -21,8 +30,8 @@
     },
     {
         "name": "Human or Not",
-        "link": "https://www.humanornot.co/",
-        "submission_link": "https://www.humanornot.co/submit-tool",
+        "link": "https://www.humanornot.co/?ref=aidirectories",
+        "submission_link": "https://www.humanornot.co/submit-tool?ref=aidirectories",
         "domain_rating": 1,
         "monthly_visits": 10000,
         "submission_experience": "Good",
@@ -203,8 +212,8 @@
         "name": "AI scout",
         "link": "https://aiscout.net/",
         "submission_link": "https://aiscout.net/submit-listing/details/",
-        "domain_rating": 10,
-        "monthly_visits": 100,
+        "domain_rating": 43,
+        "monthly_visits": 5000,
         "submission_experience": "Good",
         "pricing": "Paid"
     },

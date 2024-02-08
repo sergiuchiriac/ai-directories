@@ -149,8 +149,8 @@ export const directories: Directory[] = [
         "name": "AI scout",
         "link": "https://aiscout.net/",
         "submission_link": "https://aiscout.net/submit-listing/details/",
-        "domain_rating": 10.0,
-        "monthly_visits": 100,
+        "domain_rating": 43,
+        "monthly_visits": 5000,
         "submission_experience": "Good",
         "pricing": "Paid"
     },
