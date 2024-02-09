@@ -46,4 +46,13 @@ export const directories: Directory[] = [
     "submission_experience": "",
     "pricing": "Paid"
   },
+  {
+    "name": "GPTs Hunter",
+    "link": "https://www.gptshunter.com/?ref=aidirectories",
+    "submission_link": "https://www.gptshunter.com/submit-gpt?ref=aidirectories",
+    "domain_rating": 59.0,
+    "monthly_visits": 400000,
+    "submission_experience": "Good",
+    "pricing": "Free"
+  },
 ]
