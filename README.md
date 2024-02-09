@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 127
+ ### Total directories: 128
 
  
 
@@ -100,6 +100,7 @@
 | Gpt Forge | [Gpt Forge](https://gptforge.net/?ref=aidirectories) | [Submit](https://forms.gle/8h1SokDHfcPwkbaZ8?ref=aidirectories) | 14 | 41000 | **🟢 Good** | **🟢 Free** |
 | GPT Stack | [GPT Stack](https://www.gpt-stack.com?ref=aidirectories) | [Submit](https://www.gpt-stack.com/add-resourc?ref=aidirectoriese) | 10 | 100 | **🟢 Good** | **🟢 Free** |
 | GPTE | [GPTE](https://gpte.ai/?ref=aidirectories) | [Submit](https://gpte.ai/submit-a-tool/?ref=aidirectories) | 31 | 1400000 |  | **🔴 Paid** |
+| GPTs Hunter | [GPTs Hunter](https://www.gptshunter.com/?ref=aidirectories) | [Submit](https://www.gptshunter.com/submit-gpt?ref=aidirectories) | 59 | 400000 | **🟢 Good** | **🟢 Free** |
 | Hacker News | [Hacker News](https://hackernews.com/) | [Submit](https://hackernews.com/) | 44 | 300000 |  |  |
 | I Lib | [I Lib](https://www.ilib.com/) | [Submit](https://www.ilib.com/) | 10 | 200 | **🟢 Good** | **🟢 Free** |
 | Igniter | [Igniter](https://www.igniter.ai/) | [Submit](https://haroonchoudery499974.typeform.com/to/FpdvtLml?typeform-source=www.igniter.ai) | 10 | 100 | **🔴 Bad** |  |

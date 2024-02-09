@@ -1,5 +1,5 @@
 {
-"count": 127,
+"count": 128,
 "data": [
     {
         "name": "Open Tools",
@@ -25,15 +25,6 @@
         "submission_link": "https://inventlist.com/sites/new?ref=aidirectories",
         "domain_rating": 0,
         "monthly_visits": 200,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "Human or Not",
-        "link": "https://www.humanornot.co/?ref=aidirectories",
-        "submission_link": "https://www.humanornot.co/submit-tool?ref=aidirectories",
-        "domain_rating": 1,
-        "monthly_visits": 10000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -774,6 +765,15 @@
         "monthly_visits": 1400000,
         "submission_experience": "",
         "pricing": "Paid"
+    },
+    {
+        "name": "GPTs Hunter",
+        "link": "https://www.gptshunter.com/?ref=aidirectories",
+        "submission_link": "https://www.gptshunter.com/submit-gpt?ref=aidirectories",
+        "domain_rating": 59,
+        "monthly_visits": 400000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "Hacker News",
