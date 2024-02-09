@@ -353,6 +353,15 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
+        "name": "AIX Collection",
+        "link": "https://aixcollection.com/?ref=aidirectories",
+        "submission_link": "https://aixcollection.com/submit?ref=aidirectories",
+        "domain_rating": 10.0,
+        "monthly_visits": 100,
+        "submission_experience": "Good",
+        "pricing": "Free",
+    },
+    {
         "name": "All things AI",
         "link": "https://allthingsai.com/?ref=aidirectories",
         "submission_link": "https://allthingsai.com/submit?ref=aidirectories",
@@ -403,6 +412,15 @@ export const directories: Directory[] = [
         "submission_link": "https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html",
         "domain_rating": 18.0,
         "monthly_visits": 6000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Afford Hunt",
+        "link": "https://affordhunt.com?ref=aidirectories",
+        "submission_link": "https://t.co/zZB1Yxgf8s",
+        "domain_rating":56,
+        "monthly_visits":80000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

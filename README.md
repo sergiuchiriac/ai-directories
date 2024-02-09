@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 124
+ ### Total directories: 127
 
  
 
@@ -21,6 +21,7 @@
 | 100 AI Apps | [100 AI Apps](https://100apps.org/) | [Submit](https://100apps.org/) | 0.6 | 1000 | **🟢 Good** | **🔴 Paid** |
 | 1000 Tools | [1000 Tools](https://1000.tools/) | [Submit](https://1000.tools/my/tools/create) | 23 | 7500 | **🟢 Good** | **🔴 Paid** |
 | 1000gpt.shop | [1000gpt.shop](https://1000gpt.shop) | [Submit](https://buy.stripe.com/dR6eVi1lRgj9bsY4gg) | 1 | 1000 | **🟢 Good** | **🔴 Paid** |
+| Afford Hunt | [Afford Hunt](https://affordhunt.com?ref=aidirectories) | [Submit](https://t.co/zZB1Yxgf8s) | 56 | 80000 | **🟢 Good** | **🟢 Free** |
 | AI Center | [AI Center](https://aicenter.ai/?ref=aidirectories) | [Submit](https://aicenter.ai/products/submit?ref=aidirectories) | 10 | 5000 | **🟢 Good** | **🔴 Paid** |
 | AI combined | [AI combined](https://aicombined.com?ref=aidirectories) | [Submit](https://aicombined.com/add-listing?ref=aidirectories/) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
 | AI Depot | [AI Depot](https://aidepot.co/?ref=aidirectories) | [Submit](https://t.co/d7KH891ypL?ref=aidirectories) | 11 | 30000 |  | **🔴 Paid** |
@@ -60,6 +61,7 @@
 | AI Top Tools | [AI Top Tools](https://aitoptools.com?ref=aidirectories) | [Submit](https://aitoptools.com/account/submit-tool?ref=aidirectories) | 30 | 260000 | **🟢 Good** | **🔴 Paid** |
 | AI trendz | [AI trendz](https://aitrendz.xyz/?ref=aidirectories) | [Submit](https://aitrendz.xyz/submit-ai-link/?ref=aidirectories) | 8 | 90 |  | **🔴 Paid** |
 | AI Wizard | [AI Wizard](https://www.aiwizard.ai/?ref=aidirectories) | [Submit](https://www.aiwizard.ai/submit?ref=aidirectories) | 10 | 5000 |  | **🔴 Paid** |
+| AIX Collection | [AIX Collection](https://aixcollection.com/?ref=aidirectories) | [Submit](https://aixcollection.com/submit?ref=aidirectories) | 10 | 100 | **🟢 Good** | **🟢 Free** |
 | All things AI | [All things AI](https://allthingsai.com/?ref=aidirectories) | [Submit](https://allthingsai.com/submit?ref=aidirectories) | 27 | 500000 | **🔴 Bad** |  |
 | All Top Startups | [All Top Startups](https://alltopstartups.com/) | [Submit](https://alltopstartups.com/submit-startup/) | 64 | 70000 |  | **🔴 Paid** |
 | Alternative | [Alternative](https://alternative.me/) | [Submit](https://alternative.me/how-to/submit-software/) | 77 | 2000000 | **🔴 Bad** | **🟢 Free** |
@@ -93,10 +95,11 @@
 | Future AGI tools | [Future AGI tools](https://www.futureagitools.com) | [Submit](https://www.futureagitools.com/submit-a-site) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
 | Future Tools | [Future Tools](https://www.futuretools.io/) | [Submit](https://www.futuretools.io/submit-a-tool) | 44 | 3000000 | **🟢 Good** | **🟢 Free** |
 | Futurepedia | [Futurepedia](https://www.futurepedia.io/) | [Submit](https://www.futurepedia.io/submit-tool) | 62 | 5000000 | **🟢 Good** | **🔴 Paid** |
-| GPT Academy | [GPT Academy](https://www.gptacademy.co/) | [Submit](https://www.gptacademy.co/submit) | 14 | 24000 | **🟢 Good** | **🔴 Paid** |
-| Gpt Forge | [Gpt Forge](https://gptforge.net/) | [Submit](https://forms.gle/8h1SokDHfcPwkbaZ8) | 14 | 41000 | **🟢 Good** | **🟢 Free** |
-| GPT Stack | [GPT Stack](https://www.gpt-stack.com) | [Submit](https://www.gpt-stack.com/add-resource) | 10 | 100 | **🟢 Good** | **🟢 Free** |
-| GPTE | [GPTE](https://gpte.ai/) | [Submit](https://gpte.ai/submit-a-tool/) | 31 | 1400000 |  | **🔴 Paid** |
+| GetByte | [GetByte](https://getbyte.tech?ref=aidirectories) | [Submit](https://getbyte.tech/listing/basic-product-details?ref=aidirectories) | 1.3 | 2000 | **🟢 Good** | **🔴 Paid** |
+| GPT Academy | [GPT Academy](https://www.gptacademy.co/?ref=aidirectories) | [Submit](https://www.gptacademy.co/submit?ref=aidirectories) | 14 | 24000 | **🟢 Good** | **🔴 Paid** |
+| Gpt Forge | [Gpt Forge](https://gptforge.net/?ref=aidirectories) | [Submit](https://forms.gle/8h1SokDHfcPwkbaZ8?ref=aidirectories) | 14 | 41000 | **🟢 Good** | **🟢 Free** |
+| GPT Stack | [GPT Stack](https://www.gpt-stack.com?ref=aidirectories) | [Submit](https://www.gpt-stack.com/add-resourc?ref=aidirectoriese) | 10 | 100 | **🟢 Good** | **🟢 Free** |
+| GPTE | [GPTE](https://gpte.ai/?ref=aidirectories) | [Submit](https://gpte.ai/submit-a-tool/?ref=aidirectories) | 31 | 1400000 |  | **🔴 Paid** |
 | Hacker News | [Hacker News](https://hackernews.com/) | [Submit](https://hackernews.com/) | 44 | 300000 |  |  |
 | I Lib | [I Lib](https://www.ilib.com/) | [Submit](https://www.ilib.com/) | 10 | 200 | **🟢 Good** | **🟢 Free** |
 | Igniter | [Igniter](https://www.igniter.ai/) | [Submit](https://haroonchoudery499974.typeform.com/to/FpdvtLml?typeform-source=www.igniter.ai) | 10 | 100 | **🔴 Bad** |  |

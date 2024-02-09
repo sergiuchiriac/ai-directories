@@ -1,5 +1,5 @@
 {
-"count": 124,
+"count": 127,
 "data": [
     {
         "name": "Open Tools",
@@ -63,6 +63,15 @@
         "monthly_visits": 1000,
         "submission_experience": "Good",
         "pricing": "Paid"
+    },
+    {
+        "name": "Afford Hunt",
+        "link": "https://affordhunt.com?ref=aidirectories",
+        "submission_link": "https://t.co/zZB1Yxgf8s",
+        "domain_rating": 56,
+        "monthly_visits": 80000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "AI Center",
@@ -416,6 +425,15 @@
         "pricing": "Paid"
     },
     {
+        "name": "AIX Collection",
+        "link": "https://aixcollection.com/?ref=aidirectories",
+        "submission_link": "https://aixcollection.com/submit?ref=aidirectories",
+        "domain_rating": 10,
+        "monthly_visits": 100,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "All things AI",
         "link": "https://allthingsai.com/?ref=aidirectories",
         "submission_link": "https://allthingsai.com/submit?ref=aidirectories",
@@ -713,9 +731,18 @@
         "pricing": "Paid"
     },
     {
+        "name": "GetByte",
+        "link": "https://getbyte.tech?ref=aidirectories",
+        "submission_link": "https://getbyte.tech/listing/basic-product-details?ref=aidirectories",
+        "domain_rating": 1.3,
+        "monthly_visits": 2000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
         "name": "GPT Academy",
-        "link": "https://www.gptacademy.co/",
-        "submission_link": "https://www.gptacademy.co/submit",
+        "link": "https://www.gptacademy.co/?ref=aidirectories",
+        "submission_link": "https://www.gptacademy.co/submit?ref=aidirectories",
         "domain_rating": 14,
         "monthly_visits": 24000,
         "submission_experience": "Good",
@@ -723,8 +750,8 @@
     },
     {
         "name": "Gpt Forge",
-        "link": "https://gptforge.net/",
-        "submission_link": "https://forms.gle/8h1SokDHfcPwkbaZ8",
+        "link": "https://gptforge.net/?ref=aidirectories",
+        "submission_link": "https://forms.gle/8h1SokDHfcPwkbaZ8?ref=aidirectories",
         "domain_rating": 14,
         "monthly_visits": 41000,
         "submission_experience": "Good",
@@ -732,8 +759,8 @@
     },
     {
         "name": "GPT Stack",
-        "link": "https://www.gpt-stack.com",
-        "submission_link": "https://www.gpt-stack.com/add-resource",
+        "link": "https://www.gpt-stack.com?ref=aidirectories",
+        "submission_link": "https://www.gpt-stack.com/add-resourc?ref=aidirectoriese",
         "domain_rating": 10,
         "monthly_visits": 100,
         "submission_experience": "Good",
@@ -741,8 +768,8 @@
     },
     {
         "name": "GPTE",
-        "link": "https://gpte.ai/",
-        "submission_link": "https://gpte.ai/submit-a-tool/",
+        "link": "https://gpte.ai/?ref=aidirectories",
+        "submission_link": "https://gpte.ai/submit-a-tool/?ref=aidirectories",
         "domain_rating": 31,
         "monthly_visits": 1400000,
         "submission_experience": "",
