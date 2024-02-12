@@ -146,7 +146,7 @@
 | Tools.so | [Tools.so](https://tools.so/) | [Submit](https://tools.so/) | 15 | 1000 | **🟢 Good** | **🟢 Free** |
 | ToolScout | [ToolScout](https://toolscout.ai/) | [Submit](https://toolscout.ai/submit) | 10 | 23000 | **🟢 Good** | **🟢 Free** |
 | Toolspedia | [Toolspedia](https://www.toolspedia.io) | [Submit](https://www.toolspedia.io/submit-tool/) | 10 | 5000 |  | **🔴 Paid** |
-| Top AI tools | [Top AI tools](https://topai.tools/) | [Submit](https://topai.tools/submit) | 20 | 120000 | **🟢 Good** | **🔴 Paid** |
+| Top AI Tools | [Top AI Tools](https://topai.tools/?aff=8Mjlz) | [Submit](https://topai.tools/submit/?aff=8Mjlz) | 53 | 2400000 | **🟢 Good** | **🔴 Paid** |
 | Under1000MRR.tools | [Under1000MRR.tools](https://under1000mrr.tools/) | [Submit](https://under1000mrr.tools/submit-product) | 0 | 500 | **🟢 Good** | **🔴 Paid** |
 | Uneed Best | [Uneed Best](https://www.uneed.best/) | [Submit](https://www.uneed.best/submit-a-tool) | 26 | 252000 | **🟢 Good** | **🔴 Paid** |
 | Victrays | [Victrays](https://victrays.com/) | [Submit](https://victrays.com/submit-tool/) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
