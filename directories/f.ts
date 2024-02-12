@@ -12,11 +12,11 @@ export const directories: Directory[] = [
     },
     {
         "name": "Find My AI Tool",
-        "link": "https://findmyaitool.com/",
-        "submission_link": "https://findmyaitool.com/submit-tool/",
-        "domain_rating": 19.0,
-        "monthly_visits": 10000,
-        "submission_experience": "",
+        "link": "https://findmyaitool.com/?ref=aidirectori.es",
+        "submission_link": "https://findmyaitool.com/submit-tool/?ref=aidirectori.es",
+        "domain_rating": 36,
+        "monthly_visits": 69000,
+        "submission_experience": "Good",
         "pricing": "Paid"
     },
     {

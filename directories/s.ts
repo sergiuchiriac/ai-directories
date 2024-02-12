@@ -101,6 +101,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "Startup AI Tools",
+        "link": "https://www.startups.fyi/",
+        "submission_link": "https://tally.so/r/3lOGLk",
+        "domain_rating": 22,
+        "monthly_visits": 13000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Super Tools",
         "link": "https://supertools.therundown.ai/",
         "submission_link": "https://supertools.therundown.ai/submit",

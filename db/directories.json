@@ -1,10 +1,10 @@
 {
-"count": 128,
+"count": 134,
 "data": [
     {
         "name": "Open Tools",
-        "link": "https://opentools.ai/?ref=aidirectories",
-        "submission_link": "https://opentools.ai/?ref=aidirectories",
+        "link": "https://opentools.ai/?ref=aidirectori.es",
+        "submission_link": "https://opentools.ai/?ref=aidirectori.es",
         "domain_rating": 37,
         "monthly_visits": 91000,
         "submission_experience": "Good",
@@ -12,8 +12,8 @@
     },
     {
         "name": "aitools.fyi",
-        "link": "https://aitools.fyi/?ref=aidirectories",
-        "submission_link": "https://aitools.fyi/submit?ref=aidirectories",
+        "link": "https://aitools.fyi/?ref=aidirectori.es",
+        "submission_link": "https://aitools.fyi/submit?ref=aidirectori.es",
         "domain_rating": 27,
         "monthly_visits": 500000,
         "submission_experience": "Good",
@@ -21,10 +21,19 @@
     },
     {
         "name": "Invent List",
-        "link": "https://inventlist.com/?ref=aidirectories",
-        "submission_link": "https://inventlist.com/sites/new?ref=aidirectories",
+        "link": "https://inventlist.com/?ref=aidirectori.es",
+        "submission_link": "https://inventlist.com/sites/new?ref=aidirectori.es",
         "domain_rating": 0,
         "monthly_visits": 200,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Human or Not",
+        "link": "https://www.humanornot.co/?ref=aidirectori.es",
+        "submission_link": "https://www.humanornot.co/submit-tool?ref=aidirectori.es",
+        "domain_rating": 1,
+        "monthly_visits": 10000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -362,6 +371,15 @@
         "pricing": "Free"
     },
     {
+        "name": "AI Tools Up",
+        "link": "https://aitoolsup.com/?ref=aidirectori.es",
+        "submission_link": "https://aitoolsup.com/submit-tool/?ref=aidirectori.es",
+        "domain_rating": 2,
+        "monthly_visits": 700,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "AI Tools Wiki",
         "link": "https://aitoolswiki.com/",
         "submission_link": "https://aitoolswiki.com/contact-us/",
@@ -372,8 +390,8 @@
     },
     {
         "name": "AI Top Picks",
-        "link": "https://www.aitoppicks.com/?ref=aidirectories",
-        "submission_link": "https://www.aitoppicks.com/?ref=aidirectories",
+        "link": "https://www.aitoppicks.com/?ref=aidirectori.es",
+        "submission_link": "https://www.aitoppicks.com/?ref=aidirectori.es",
         "domain_rating": 10,
         "monthly_visits": 5800,
         "submission_experience": "",
@@ -669,11 +687,11 @@
     },
     {
         "name": "Find My AI Tool",
-        "link": "https://findmyaitool.com/",
-        "submission_link": "https://findmyaitool.com/submit-tool/",
-        "domain_rating": 19,
-        "monthly_visits": 10000,
-        "submission_experience": "",
+        "link": "https://findmyaitool.com/?ref=aidirectori.es",
+        "submission_link": "https://findmyaitool.com/submit-tool/?ref=aidirectori.es",
+        "domain_rating": 36,
+        "monthly_visits": 69000,
+        "submission_experience": "Good",
         "pricing": "Paid"
     },
     {
@@ -768,8 +786,8 @@
     },
     {
         "name": "GPTs Hunter",
-        "link": "https://www.gptshunter.com/?ref=aidirectories",
-        "submission_link": "https://www.gptshunter.com/submit-gpt?ref=aidirectories",
+        "link": "https://www.gptshunter.com/?ref=aidirectori.es",
+        "submission_link": "https://www.gptshunter.com/submit-gpt?ref=aidirectori.es",
         "domain_rating": 59,
         "monthly_visits": 400000,
         "submission_experience": "Good",
@@ -848,6 +866,24 @@
         "pricing": "Free"
     },
     {
+        "name": "Live Apps",
+        "link": "https://liveapps.ai/?ref=aidirectori.es",
+        "submission_link": "https://liveapps.ai/become-a-partner/?ref=aidirectori.es",
+        "domain_rating": 12,
+        "monthly_visits": 500,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Look AI Tools",
+        "link": "https://lookaitools.com/?ref=aidirectori.es",
+        "submission_link": "https://lookaitools.com/submission-service/?ref=aidirectori.es",
+        "domain_rating": 6,
+        "monthly_visits": 130,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "MadGenius",
         "link": "https://madgenius.co/",
         "submission_link": "https://madgenius.co/submit",
@@ -891,6 +927,15 @@
         "monthly_visits": 4600,
         "submission_experience": "Good",
         "pricing": "Paid"
+    },
+    {
+        "name": "Open Future",
+        "link": "https://openfuture.ai/?ref=aidirectori.es",
+        "submission_link": "https://openfuture.ai/submit-tool/?ref=aidirectori.es",
+        "domain_rating": 31,
+        "monthly_visits": 496000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "Post Make",
@@ -970,6 +1015,15 @@
         "submission_link": "https://spsfeed.com/",
         "domain_rating": 0,
         "monthly_visits": 0,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Startup AI Tools",
+        "link": "https://www.startups.fyi/",
+        "submission_link": "https://tally.so/r/3lOGLk",
+        "domain_rating": 22,
+        "monthly_visits": 13000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -1055,6 +1109,15 @@
         "pricing": "Paid"
     },
     {
+        "name": "Tool Directory",
+        "link": "https://tooldirectory.ai/?ref=aidirectori.es",
+        "submission_link": "https://https://tooldirectory.ai/submit-tool?ref=aidirectori.es",
+        "domain_rating": 50,
+        "monthly_visits": 4000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Tool Pilot",
         "link": "https://www.toolpilot.ai/",
         "submission_link": "https://www.toolpilot.ai/pages/submit-your-ai-tool",
@@ -1083,8 +1146,8 @@
     },
     {
         "name": "Tools Directory",
-        "link": "https://aitoolsdirectory.com/",
-        "submission_link": "https://aitoolsdirectory.com/submit-tool",
+        "link": "https://aitoolsdirectory.com/?ref=aidirectori.es",
+        "submission_link": "https://aitoolsdirectory.com/submit-tool?ref=aidirectori.es",
         "domain_rating": 10,
         "monthly_visits": 100,
         "submission_experience": "Good",
@@ -1132,7 +1195,7 @@
         "submission_link": "https://topai.tools/submit",
         "domain_rating": 20,
         "monthly_visits": 120000,
-        "submission_experience": "",
+        "submission_experience": "Good",
         "pricing": "Paid"
     },
     {

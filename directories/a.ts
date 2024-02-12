@@ -317,9 +317,18 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
+        "name": "AI Tools Up",
+        "link": "https://aitoolsup.com/?ref=aidirectori.es",
+        "submission_link": "https://aitoolsup.com/submit-tool/?ref=aidirectori.es",
+        "domain_rating": 2,
+        "monthly_visits": 700,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "AI Top Picks",
-        "link": "https://www.aitoppicks.com/?ref=aidirectories",
-        "submission_link": "https://www.aitoppicks.com/?ref=aidirectories",
+        "link": "https://www.aitoppicks.com/?ref=aidirectori.es",
+        "submission_link": "https://www.aitoppicks.com/?ref=aidirectori.es",
         "domain_rating": 10.0,
         "monthly_visits": 5800,
         "submission_experience": "",

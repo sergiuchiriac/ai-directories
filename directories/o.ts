@@ -10,4 +10,13 @@ export const directories: Directory[] = [
         "submission_experience": "Good",
         "pricing": "Paid"
     },
+    {
+        "name": "Open Future",
+        "link": "https://openfuture.ai/?ref=aidirectori.es",
+        "submission_link": "https://openfuture.ai/submit-tool/?ref=aidirectori.es",
+        "domain_rating": 31,
+        "monthly_visits": 496000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
 ]

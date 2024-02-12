@@ -57,10 +57,19 @@ export const directories: Directory[] = [
     },
     {
         "name": "Tools Directory",
-        "link": "https://aitoolsdirectory.com/",
-        "submission_link": "https://aitoolsdirectory.com/submit-tool",
+        "link": "https://aitoolsdirectory.com/?ref=aidirectori.es",
+        "submission_link": "https://aitoolsdirectory.com/submit-tool?ref=aidirectori.es",
         "domain_rating": 10.0,
         "monthly_visits": 100,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Tool Directory",
+        "link": "https://tooldirectory.ai/?ref=aidirectori.es",
+        "submission_link": "https://https://tooldirectory.ai/submit-tool?ref=aidirectori.es",
+        "domain_rating": 50,
+        "monthly_visits": 4000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -106,7 +115,7 @@ export const directories: Directory[] = [
         "submission_link": "https://topai.tools/submit",
         "domain_rating": 20.0,
         "monthly_visits": 120000,
-        "submission_experience": "",
+        "submission_experience": "Good",
         "pricing": "Paid"
     },
     {

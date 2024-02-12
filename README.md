@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 128
+ ### Total directories: 134
 
  
 
@@ -55,8 +55,9 @@
 | AI tools for Marketing | [AI tools for Marketing](https://airadar.getinference.com/) | [Submit](https://airadar.getinference.com/) | 14 | 50000 | **🟢 Good** | **🟢 Free** |
 | AI Tools Guide | [AI Tools Guide](https://aitoolsguide.com/) | [Submit](https://aitoolsguide.com/contact/) | 10 | 5000 | **🔴 Bad** |  |
 | AI Tools Hunter | [AI Tools Hunter](https://ai-hunter.io/) | [Submit](https://ai-hunter.io/submit-ai-tool/) | 10 | 25000 | **🟢 Good** | **🟢 Free** |
+| AI Tools Up | [AI Tools Up](https://aitoolsup.com/?ref=aidirectori.es) | [Submit](https://aitoolsup.com/submit-tool/?ref=aidirectori.es) | 2 | 700 | **🟢 Good** | **🟢 Free** |
 | AI Tools Wiki | [AI Tools Wiki](https://aitoolswiki.com/) | [Submit](https://aitoolswiki.com/contact-us/) | 10 | 9000 | **🔴 Bad** |  |
-| AI Top Picks | [AI Top Picks](https://www.aitoppicks.com/?ref=aidirectories) | [Submit](https://www.aitoppicks.com/?ref=aidirectories) | 10 | 5800 |  | **🔴 Paid** |
+| AI Top Picks | [AI Top Picks](https://www.aitoppicks.com/?ref=aidirectori.es) | [Submit](https://www.aitoppicks.com/?ref=aidirectori.es) | 10 | 5800 |  | **🔴 Paid** |
 | AI Top Rank | [AI Top Rank](https://aitoprank.com/?ref=aidirectories) | [Submit](https://aitoprank.com/?ref=aidirectories) | 8 | 5000 | **🟢 Good** | **🟢 Free** |
 | AI Top Tools | [AI Top Tools](https://aitoptools.com?ref=aidirectories) | [Submit](https://aitoptools.com/account/submit-tool?ref=aidirectories) | 30 | 260000 | **🟢 Good** | **🔴 Paid** |
 | AI trendz | [AI trendz](https://aitrendz.xyz/?ref=aidirectories) | [Submit](https://aitrendz.xyz/submit-ai-link/?ref=aidirectories) | 8 | 90 |  | **🔴 Paid** |
@@ -89,7 +90,7 @@
 | eBool | [eBool](https://www.ebool.com/) | [Submit](https://www.ebool.com/submit) | 62 | 25000 | **🟢 Good** | **🔴 Paid** |
 | Every AI | [Every AI](https://every-ai.com) | [Submit](https://every-ai.com/submit-tool/) | 7 | 100 |  |  |
 | Faind AI | [Faind AI](https://faind.ai/) | [Submit](https://faind.ai/submit-a-tool/) | 10 | 5000 | **🔴 Bad** | **🟢 Free** |
-| Find My AI Tool | [Find My AI Tool](https://findmyaitool.com/) | [Submit](https://findmyaitool.com/submit-tool/) | 19 | 10000 |  | **🔴 Paid** |
+| Find My AI Tool | [Find My AI Tool](https://findmyaitool.com/?ref=aidirectori.es) | [Submit](https://findmyaitool.com/submit-tool/?ref=aidirectori.es) | 36 | 69000 | **🟢 Good** | **🔴 Paid** |
 | Flip Bytes | [Flip Bytes](https://www.flipbytes.com/) | [Submit](https://www.flipbytes.com/) | 10 | 70 |  |  |
 | Free AI Tools Directory | [Free AI Tools Directory](https://free-ai-tools-directory.com/?ref=aidirectories) | [Submit](https://free-ai-tools-directory.com/submit-request/?ref=aidirectories) | 11 | 23000 | **🟢 Good** | **🟢 Free** |
 | Future AGI tools | [Future AGI tools](https://www.futureagitools.com) | [Submit](https://www.futureagitools.com/submit-a-site) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
@@ -100,7 +101,7 @@
 | Gpt Forge | [Gpt Forge](https://gptforge.net/?ref=aidirectories) | [Submit](https://forms.gle/8h1SokDHfcPwkbaZ8?ref=aidirectories) | 14 | 41000 | **🟢 Good** | **🟢 Free** |
 | GPT Stack | [GPT Stack](https://www.gpt-stack.com?ref=aidirectories) | [Submit](https://www.gpt-stack.com/add-resourc?ref=aidirectoriese) | 10 | 100 | **🟢 Good** | **🟢 Free** |
 | GPTE | [GPTE](https://gpte.ai/?ref=aidirectories) | [Submit](https://gpte.ai/submit-a-tool/?ref=aidirectories) | 31 | 1400000 |  | **🔴 Paid** |
-| GPTs Hunter | [GPTs Hunter](https://www.gptshunter.com/?ref=aidirectories) | [Submit](https://www.gptshunter.com/submit-gpt?ref=aidirectories) | 59 | 400000 | **🟢 Good** | **🟢 Free** |
+| GPTs Hunter | [GPTs Hunter](https://www.gptshunter.com/?ref=aidirectori.es) | [Submit](https://www.gptshunter.com/submit-gpt?ref=aidirectori.es) | 59 | 400000 | **🟢 Good** | **🟢 Free** |
 | Hacker News | [Hacker News](https://hackernews.com/) | [Submit](https://hackernews.com/) | 44 | 300000 |  |  |
 | I Lib | [I Lib](https://www.ilib.com/) | [Submit](https://www.ilib.com/) | 10 | 200 | **🟢 Good** | **🟢 Free** |
 | Igniter | [Igniter](https://www.igniter.ai/) | [Submit](https://haroonchoudery499974.typeform.com/to/FpdvtLml?typeform-source=www.igniter.ai) | 10 | 100 | **🔴 Bad** |  |
@@ -109,11 +110,14 @@
 | Joinly | [Joinly](https://www.joinly.xyz/) | [Submit](https://www.joinly.xyz/submit-startup) | 25 | 5000 | **🟢 Good** | **🔴 Paid** |
 | Launched | [Launched](https://launched.io/) | [Submit](https://launched.io/SubmitStartup) | 38 | 2400 | **🟢 Good** | **🟢 Free** |
 | Launching Next | [Launching Next](https://www.launchingnext.com/) | [Submit](https://www.launchingnext.com/submit/) | 51 | 13000 | **🟢 Good** | **🟢 Free** |
+| Live Apps | [Live Apps](https://liveapps.ai/?ref=aidirectori.es) | [Submit](https://liveapps.ai/become-a-partner/?ref=aidirectori.es) | 12 | 500 | **🟢 Good** | **🟢 Free** |
+| Look AI Tools | [Look AI Tools](https://lookaitools.com/?ref=aidirectori.es) | [Submit](https://lookaitools.com/submission-service/?ref=aidirectori.es) | 6 | 130 | **🟢 Good** | **🟢 Free** |
 | MadGenius | [MadGenius](https://madgenius.co/) | [Submit](https://madgenius.co/submit) | 10 | 5000 |  | **🔴 Paid** |
 | Mars AI directory | [Mars AI directory](https://www.marsx.dev/ai-startups) | [Submit](https://www.marsx.dev/ai-startups) | 30 | 90000 | **🟢 Good** | **🟢 Free** |
 | Next Gen Tools | [Next Gen Tools](https://nextgentools.me/?ref=aidirecories) | [Submit](https://nextgentools.me/submit-your-tool?ref=aidirecories) | 27 | 47000 | **🟢 Good** | **🟢 Free** |
 | Nextpedia | [Nextpedia](https://www.nextpedia.io/?ref=aidirecories) | [Submit](https://www.nextpedia.io/submit-tool/?ref=aidirecories) | 9 | 8000 | **🔴 Bad** |  |
 | One Hub AI | [One Hub AI](https://www.onehubai.com/) | [Submit](https://www.onehubai.com/) | 10 | 4600 | **🟢 Good** | **🔴 Paid** |
+| Open Future | [Open Future](https://openfuture.ai/?ref=aidirectori.es) | [Submit](https://openfuture.ai/submit-tool/?ref=aidirectori.es) | 31 | 496000 | **🟢 Good** | **🟢 Free** |
 | Post Make | [Post Make](https://postmake.io/) | [Submit](https://postmake.io/submit) | 29 | 10000 |  | **🔴 Paid** |
 | Product Hunt | [Product Hunt](https://www.producthunt.com/) | [Submit](https://www.producthunt.com/posts/new) | 75 | 6000000 | **🟢 Good** | **🟢 Free** |
 | Saas AI Tools | [Saas AI Tools](https://saasaitools.com/) | [Submit](https://saasaitools.com/submit/) | 33 | 73000 | **🟢 Good** | **🟢 Free** |
@@ -123,6 +127,7 @@
 | Software Suggest | [Software Suggest](https://www.softwaresuggest.com/) | [Submit](https://www.softwaresuggest.com/artificial-intelligence-software) | 40 | 561000 | **🔴 Bad** |  |
 | Software World | [Software World](https://softwareworld.co/) | [Submit](https://softwareworld.co/get-listed/) | 75 | 65000 | **🟢 Good** | **🟢 Free** |
 | spsFeed | [spsFeed](https://spsfeed.com/) | [Submit](https://spsfeed.com/) | 0 | 0 | **🟢 Good** | **🟢 Free** |
+| Startup AI Tools | [Startup AI Tools](https://www.startups.fyi/) | [Submit](https://tally.so/r/3lOGLk) | 22 | 13000 | **🟢 Good** | **🟢 Free** |
 | Startup Base | [Startup Base](https://startupbase.io/) | [Submit](https://startupbase.io/promote) | 50 | 3000 |  | **🔴 Paid** |
 | Startup Buffer | [Startup Buffer](https://startupbuffer.com/) | [Submit](https://startupbuffer.com/site/submit) | 36 | 16000 | **🟢 Good** | **🟢 Free** |
 | Startup Stash | [Startup Stash](https://startupstash.com/) | [Submit](https://startupstash.com/add-listing/) | 65 | 370000 | **🟢 Good** | **🔴 Paid** |
@@ -132,15 +137,16 @@
 | The ai Generation | [The ai Generation](https://www.theaigeneration.com/) | [Submit](https://www.theaigeneration.com/add/) | 11 | 77000 | **🟢 Good** | **🟢 Free** |
 | The Hack Stack | [The Hack Stack](https://thehackstack.com/) | [Submit](https://thehackstack.com/register) | 10 | 5000 | **🔴 Bad** | **🟢 Free** |
 | There is an AI for that | [There is an AI for that](https://theresanaiforthat.com/) | [Submit](https://theresanaiforthat.com/get-featured/#opt_submit) | 45 | 3200000 | **🟢 Good** | **🔴 Paid** |
+| Tool Directory | [Tool Directory](https://tooldirectory.ai/?ref=aidirectori.es) | [Submit](https://https://tooldirectory.ai/submit-tool?ref=aidirectori.es) | 50 | 4000 | **🟢 Good** | **🟢 Free** |
 | Tool Pilot | [Tool Pilot](https://www.toolpilot.ai/) | [Submit](https://www.toolpilot.ai/pages/submit-your-ai-tool) | 12 | 5000 | **🟢 Good** | **🟢 Free** |
 | Toolify.ai | [Toolify.ai](https://www.toolify.ai/) | [Submit](https://www.toolify.ai/login?from=%2Fsubmit) | 13 | 340000 |  | **🔴 Paid** |
 | Tools AI | [Tools AI](https://toolsai.net/) | [Submit](https://toolsai.net/add-listing/) | 19 | 60000 | **🔴 Bad** |  |
-| Tools Directory | [Tools Directory](https://aitoolsdirectory.com/) | [Submit](https://aitoolsdirectory.com/submit-tool) | 10 | 100 | **🟢 Good** | **🟢 Free** |
+| Tools Directory | [Tools Directory](https://aitoolsdirectory.com/?ref=aidirectori.es) | [Submit](https://aitoolsdirectory.com/submit-tool?ref=aidirectori.es) | 10 | 100 | **🟢 Good** | **🟢 Free** |
 | Tools Nocode | [Tools Nocode](https://www.toolsnocode.com/ai) | [Submit](https://www.toolsnocode.com/ai#form1) | 10 | 5000 |  |  |
 | Tools.so | [Tools.so](https://tools.so/) | [Submit](https://tools.so/) | 15 | 1000 | **🟢 Good** | **🟢 Free** |
 | ToolScout | [ToolScout](https://toolscout.ai/) | [Submit](https://toolscout.ai/submit) | 10 | 23000 | **🟢 Good** | **🟢 Free** |
 | Toolspedia | [Toolspedia](https://www.toolspedia.io) | [Submit](https://www.toolspedia.io/submit-tool/) | 10 | 5000 |  | **🔴 Paid** |
-| Top AI tools | [Top AI tools](https://topai.tools/) | [Submit](https://topai.tools/submit) | 20 | 120000 |  | **🔴 Paid** |
+| Top AI tools | [Top AI tools](https://topai.tools/) | [Submit](https://topai.tools/submit) | 20 | 120000 | **🟢 Good** | **🔴 Paid** |
 | Under1000MRR.tools | [Under1000MRR.tools](https://under1000mrr.tools/) | [Submit](https://under1000mrr.tools/submit-product) | 0 | 500 | **🟢 Good** | **🔴 Paid** |
 | Uneed Best | [Uneed Best](https://www.uneed.best/) | [Submit](https://www.uneed.best/submit-a-tool) | 26 | 252000 | **🟢 Good** | **🔴 Paid** |
 | Victrays | [Victrays](https://victrays.com/) | [Submit](https://victrays.com/submit-tool/) | 10 | 5000 | **🟢 Good** | **🟢 Free** |

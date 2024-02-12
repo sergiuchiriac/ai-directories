@@ -19,4 +19,22 @@ export const directories: Directory[] = [
         "submission_experience": "Good",
         "pricing": "Free"
     },
+    {
+        "name": "Look AI Tools",
+        "link": "https://lookaitools.com/?ref=aidirectori.es",
+        "submission_link": "https://lookaitools.com/submission-service/?ref=aidirectori.es",
+        "domain_rating": 6,
+        "monthly_visits": 130,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Live Apps",
+        "link": "https://liveapps.ai/?ref=aidirectori.es",
+        "submission_link": "https://liveapps.ai/become-a-partner/?ref=aidirectori.es",
+        "domain_rating": 12,
+        "monthly_visits": 500,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
 ]
