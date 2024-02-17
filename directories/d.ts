@@ -12,12 +12,12 @@ export const directories: Directory[] = [
     },
     {
         "name": "Dang AI",
-        "link": "https://dang.ai/",
-        "submission_link": "https://dang.ai/",
-        "domain_rating": 10.0,
-        "monthly_visits": 100,
-        "submission_experience": "",
-        "pricing": ""
+        "link": "https://dang.ai/?ref=aidirectori.es",
+        "submission_link": "https://dang.ai/?ref=aidirectori.es",
+        "domain_rating": 45,
+        "monthly_visits": 27700,
+        "submission_experience": "Good",
+        "pricing": "Paid"
     },
     {
         "name": "Dev Pages",

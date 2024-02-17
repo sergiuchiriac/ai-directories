@@ -4,7 +4,7 @@
     {
         "name": "Open Tools",
         "link": "https://opentools.ai/?ref=aidirectori.es",
-        "submission_link": "https://opentools.ai/?ref=aidirectori.es",
+        "submission_link": "http://friends.opentools.ai?ref=aidirectori.es",
         "domain_rating": 37,
         "monthly_visits": 91000,
         "submission_experience": "Good",
@@ -219,8 +219,8 @@
     },
     {
         "name": "AI scout",
-        "link": "https://aiscout.net/",
-        "submission_link": "https://aiscout.net/submit-listing/details/",
+        "link": "https://aiscout.net/ref=aidirectori.es",
+        "submission_link": "https://aiscout.net/submit-listing/details/ref=aidirectori.es",
         "domain_rating": 43,
         "monthly_visits": 5000,
         "submission_experience": "Good",
@@ -588,12 +588,12 @@
     },
     {
         "name": "Dang AI",
-        "link": "https://dang.ai/",
-        "submission_link": "https://dang.ai/",
-        "domain_rating": 10,
-        "monthly_visits": 100,
-        "submission_experience": "",
-        "pricing": ""
+        "link": "https://dang.ai/?ref=aidirectori.es",
+        "submission_link": "https://dang.ai/?ref=aidirectori.es",
+        "domain_rating": 45,
+        "monthly_visits": 27700,
+        "submission_experience": "Good",
+        "pricing": "Paid"
     },
     {
         "name": "Dev Pages",
@@ -1192,7 +1192,7 @@
     {
         "name": "Top AI Tools",
         "link": "https://topai.tools/?aff=8Mjlz",
-        "submission_link": "https://topai.tools/submit/?aff=8Mjlz",
+        "submission_link": "https://topai.tools/submit?aff=8Mjlz",
         "domain_rating": 53,
         "monthly_visits": 2400000,
         "submission_experience": "Good",

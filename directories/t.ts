@@ -112,7 +112,7 @@ export const directories: Directory[] = [
     {
         "name": "Top AI Tools",
         "link": "https://topai.tools/?aff=8Mjlz",
-        "submission_link": "https://topai.tools/submit/?aff=8Mjlz",
+        "submission_link": "https://topai.tools/submit?aff=8Mjlz",
         "domain_rating": 53,
         "monthly_visits": 2400000,
         "submission_experience": "Good",

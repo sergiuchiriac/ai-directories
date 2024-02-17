@@ -38,7 +38,7 @@
 | AI Library | [AI Library](https://library.phygital.plus/?ref=aidirectories) | [Submit](https://library.phygital.plus/tool-submission?ref=aidirectories) | 17 | 25000 | **🟢 Good** | **🟢 Free** |
 | AI Marketing | [AI Marketing](https://aimarketing.directory/) | [Submit](https://aimarketing.directory/submit) | 12 | 9600 | **🟢 Good** | **🟢 Free** |
 | AI News Guru | [AI News Guru](https://ainews.guru/apps/) | [Submit](https://ainews.guru/ai-app-submission/) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
-| AI scout | [AI scout](https://aiscout.net/) | [Submit](https://aiscout.net/submit-listing/details/) | 43 | 5000 | **🟢 Good** | **🔴 Paid** |
+| AI scout | [AI scout](https://aiscout.net/ref=aidirectori.es) | [Submit](https://aiscout.net/submit-listing/details/ref=aidirectori.es) | 43 | 5000 | **🟢 Good** | **🔴 Paid** |
 | AI Search | [AI Search](https://ai-search.io) | [Submit](https://ai-search.io/submit) | 10 | 4000 | **🟢 Good** | **🟢 Free** |
 | AI Spree | [AI Spree](https://aispree.com/) | [Submit](https://aispree.com/) | 5 | 700 | **🔴 Bad** |  |
 | AI Startups | [AI Startups](https://www.aistartups.net/) | [Submit](https://www.aistartups.net/submit/) | 12 | 37000 | **🔴 Bad** |  |
@@ -79,7 +79,7 @@
 | Crozdesk | [Crozdesk](https://crozdesk.com/) | [Submit](https://vendor.softwareselect.com/) | 74 | 200000 |  |  |
 | Crunchbase | [Crunchbase](https://crunchbase.com) | [Submit](https://crunchbase.com) | 80 | 10000000 |  |  |
 | Daily tech AI | [Daily tech AI](https://www.dailytech.ai/) | [Submit](https://www.dailytech.ai/submit-service) | 11 | 23000 | **🟢 Good** | **🟢 Free** |
-| Dang AI | [Dang AI](https://dang.ai/) | [Submit](https://dang.ai/) | 10 | 100 |  |  |
+| Dang AI | [Dang AI](https://dang.ai/?ref=aidirectori.es) | [Submit](https://dang.ai/?ref=aidirectori.es) | 45 | 27700 | **🟢 Good** | **🔴 Paid** |
 | Dev Pages | [Dev Pages](https://www.devpages.io/) | [Submit](https://www.devpages.io/submit-a-tool) | 10 | 50000 | **🟢 Good** | **🟢 Free** |
 | DEV Resources | [DEV Resources](https://devresourc.es/) | [Submit](https://github.com/marcelscruz/dev-resources) | 31 | 2700 | **🟢 Good** | **🟢 Free** |
 | DevPost | [DevPost](https://devpost.com/software) | [Submit](https://devpost.com/software/new) | 86 | 1000000 | **🟢 Good** | **🟢 Free** |
@@ -146,7 +146,7 @@
 | Tools.so | [Tools.so](https://tools.so/) | [Submit](https://tools.so/) | 15 | 1000 | **🟢 Good** | **🟢 Free** |
 | ToolScout | [ToolScout](https://toolscout.ai/) | [Submit](https://toolscout.ai/submit) | 10 | 23000 | **🟢 Good** | **🟢 Free** |
 | Toolspedia | [Toolspedia](https://www.toolspedia.io) | [Submit](https://www.toolspedia.io/submit-tool/) | 10 | 5000 |  | **🔴 Paid** |
-| Top AI Tools | [Top AI Tools](https://topai.tools/?aff=8Mjlz) | [Submit](https://topai.tools/submit/?aff=8Mjlz) | 53 | 2400000 | **🟢 Good** | **🔴 Paid** |
+| Top AI Tools | [Top AI Tools](https://topai.tools/?aff=8Mjlz) | [Submit](https://topai.tools/submit?aff=8Mjlz) | 53 | 2400000 | **🟢 Good** | **🔴 Paid** |
 | Under1000MRR.tools | [Under1000MRR.tools](https://under1000mrr.tools/) | [Submit](https://under1000mrr.tools/submit-product) | 0 | 500 | **🟢 Good** | **🔴 Paid** |
 | Uneed Best | [Uneed Best](https://www.uneed.best/) | [Submit](https://www.uneed.best/submit-a-tool) | 26 | 252000 | **🟢 Good** | **🔴 Paid** |
 | Victrays | [Victrays](https://victrays.com/) | [Submit](https://victrays.com/submit-tool/) | 10 | 5000 | **🟢 Good** | **🟢 Free** |

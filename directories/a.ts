@@ -147,8 +147,8 @@ export const directories: Directory[] = [
     },
     {
         "name": "AI scout",
-        "link": "https://aiscout.net/",
-        "submission_link": "https://aiscout.net/submit-listing/details/",
+        "link": "https://aiscout.net/ref=aidirectori.es",
+        "submission_link": "https://aiscout.net/submit-listing/details/ref=aidirectori.es",
         "domain_rating": 43,
         "monthly_visits": 5000,
         "submission_experience": "Good",
