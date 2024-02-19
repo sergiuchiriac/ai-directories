@@ -8,7 +8,9 @@
         "domain_rating": 37,
         "monthly_visits": 91000,
         "submission_experience": "Good",
-        "pricing": "Paid"
+        "pricing": "Paid",
+        "dealCode": "DIRECTORIES20",
+        "dealText": "20% off at checkout"
     },
     {
         "name": "aitools.fyi",
@@ -36,6 +38,17 @@
         "monthly_visits": 10000,
         "submission_experience": "Good",
         "pricing": "Free"
+    },
+    {
+        "name": "Top AI Tools",
+        "link": "https://topai.tools/?aff=8Mjlz",
+        "submission_link": "https://topai.tools/submit?aff=8Mjlz",
+        "domain_rating": 53,
+        "monthly_visits": 2400000,
+        "submission_experience": "Good",
+        "pricing": "Paid",
+        "dealCode": "Q3ODY5NA",
+        "dealText": "10% off at checkout"
     },
     {
         "name": "100 AI Apps",
