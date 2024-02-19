@@ -19,7 +19,9 @@
         "domain_rating": 27,
         "monthly_visits": 500000,
         "submission_experience": "Good",
-        "pricing": "Paid"
+        "pricing": "Paid",
+        "dealCode": "AID30",
+        "dealText": "30% off at checkout"
     },
     {
         "name": "Invent List",
