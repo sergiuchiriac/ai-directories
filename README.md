@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 134
+ ### Total directories: 132
 
  
 
@@ -59,7 +59,6 @@
 | AI Tools Wiki | [AI Tools Wiki](https://aitoolswiki.com/) | [Submit](https://aitoolswiki.com/contact-us/) | 10 | 9000 | **🔴 Bad** |  |
 | AI Top Picks | [AI Top Picks](https://www.aitoppicks.com/?ref=aidirectori.es) | [Submit](https://www.aitoppicks.com/?ref=aidirectori.es) | 10 | 5800 |  | **🔴 Paid** |
 | AI Top Rank | [AI Top Rank](https://aitoprank.com/?ref=aidirectories) | [Submit](https://aitoprank.com/?ref=aidirectories) | 8 | 5000 | **🟢 Good** | **🟢 Free** |
-| AI Top Tools | [AI Top Tools](https://aitoptools.com?ref=aidirectories) | [Submit](https://aitoptools.com/account/submit-tool?ref=aidirectories) | 30 | 260000 | **🟢 Good** | **🔴 Paid** |
 | AI trendz | [AI trendz](https://aitrendz.xyz/?ref=aidirectories) | [Submit](https://aitrendz.xyz/submit-ai-link/?ref=aidirectories) | 8 | 90 |  | **🔴 Paid** |
 | AI Wizard | [AI Wizard](https://www.aiwizard.ai/?ref=aidirectories) | [Submit](https://www.aiwizard.ai/submit?ref=aidirectories) | 10 | 5000 |  | **🔴 Paid** |
 | AIX Collection | [AIX Collection](https://aixcollection.com/?ref=aidirectories) | [Submit](https://aixcollection.com/submit?ref=aidirectories) | 10 | 100 | **🟢 Good** | **🟢 Free** |
@@ -146,7 +145,6 @@
 | Tools.so | [Tools.so](https://tools.so/) | [Submit](https://tools.so/) | 15 | 1000 | **🟢 Good** | **🟢 Free** |
 | ToolScout | [ToolScout](https://toolscout.ai/) | [Submit](https://toolscout.ai/submit) | 10 | 23000 | **🟢 Good** | **🟢 Free** |
 | Toolspedia | [Toolspedia](https://www.toolspedia.io) | [Submit](https://www.toolspedia.io/submit-tool/) | 10 | 5000 |  | **🔴 Paid** |
-| Top AI Tools | [Top AI Tools](https://topai.tools/?aff=8Mjlz) | [Submit](https://topai.tools/submit?aff=8Mjlz) | 53 | 2400000 | **🟢 Good** | **🔴 Paid** |
 | Under1000MRR.tools | [Under1000MRR.tools](https://under1000mrr.tools/) | [Submit](https://under1000mrr.tools/submit-product) | 0 | 500 | **🟢 Good** | **🔴 Paid** |
 | Uneed Best | [Uneed Best](https://www.uneed.best/) | [Submit](https://www.uneed.best/submit-a-tool) | 26 | 252000 | **🟢 Good** | **🔴 Paid** |
 | Victrays | [Victrays](https://victrays.com/) | [Submit](https://victrays.com/submit-tool/) | 10 | 5000 | **🟢 Good** | **🟢 Free** |

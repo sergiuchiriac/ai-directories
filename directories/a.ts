@@ -335,15 +335,6 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
-        "name": "AI Top Tools",
-        "link": "https://aitoptools.com?ref=aidirectories",
-        "submission_link": "https://aitoptools.com/account/submit-tool?ref=aidirectories",
-        "domain_rating": 30,
-        "monthly_visits": 260000,
-        "submission_experience": "Good",
-        "pricing": "Paid"
-    },
-    {
         "name": "AI trendz",
         "link": "https://aitrendz.xyz/?ref=aidirectories",
         "submission_link": "https://aitrendz.xyz/submit-ai-link/?ref=aidirectories",

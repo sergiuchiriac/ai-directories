@@ -1,5 +1,5 @@
 {
-"count": 134,
+"count": 132,
 "data": [
     {
         "name": "Open Tools",
@@ -51,6 +51,17 @@
         "pricing": "Paid",
         "dealCode": "Q3ODY5NA",
         "dealText": "10% off at checkout"
+    },
+    {
+        "name": "AI Top Tools",
+        "link": "https://aitoptools.com?ref=aidirectories",
+        "submission_link": "https://aitoptools.com/account/submit-tool?ref=aidirectories",
+        "domain_rating": 30,
+        "monthly_visits": 260000,
+        "submission_experience": "Good",
+        "pricing": "Paid",
+        "dealCode": "AID20",
+        "dealText": "20% off at checkout"
     },
     {
         "name": "100 AI Apps",
@@ -420,15 +431,6 @@
         "monthly_visits": 5000,
         "submission_experience": "Good",
         "pricing": "Free"
-    },
-    {
-        "name": "AI Top Tools",
-        "link": "https://aitoptools.com?ref=aidirectories",
-        "submission_link": "https://aitoptools.com/account/submit-tool?ref=aidirectories",
-        "domain_rating": 30,
-        "monthly_visits": 260000,
-        "submission_experience": "Good",
-        "pricing": "Paid"
     },
     {
         "name": "AI trendz",
@@ -1202,15 +1204,6 @@
         "domain_rating": 10,
         "monthly_visits": 5000,
         "submission_experience": "",
-        "pricing": "Paid"
-    },
-    {
-        "name": "Top AI Tools",
-        "link": "https://topai.tools/?aff=8Mjlz",
-        "submission_link": "https://topai.tools/submit?aff=8Mjlz",
-        "domain_rating": 53,
-        "monthly_visits": 2400000,
-        "submission_experience": "Good",
         "pricing": "Paid"
     },
     {
