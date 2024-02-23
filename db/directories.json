@@ -1,5 +1,5 @@
 {
-"count": 132,
+"count": 134,
 "data": [
     {
         "name": "Open Tools",
@@ -695,11 +695,20 @@
     },
     {
         "name": "Faind AI",
-        "link": "https://faind.ai/",
-        "submission_link": "https://faind.ai/submit-a-tool/",
+        "link": "https://faind.ai/?ref=aidirectori.es",
+        "submission_link": "https://faind.ai/submit-a-tool/?ref=aidirectori.es",
         "domain_rating": 10,
         "monthly_visits": 5000,
         "submission_experience": "Bad",
+        "pricing": "Free"
+    },
+    {
+        "name": "Fazier",
+        "link": "https://fazier.com/?ref=aidirectori.es",
+        "submission_link": "https://fazier.com/submit?ref=aidirectori.es",
+        "domain_rating": 5,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
         "pricing": "Free"
     },
     {
@@ -713,8 +722,8 @@
     },
     {
         "name": "Flip Bytes",
-        "link": "https://www.flipbytes.com/",
-        "submission_link": "https://www.flipbytes.com/",
+        "link": "https://www.flipbytes.com/?ref=aidirectori.es",
+        "submission_link": "https://www.flipbytes.com/?ref=aidirectori.es",
         "domain_rating": 10,
         "monthly_visits": 70,
         "submission_experience": "",
@@ -731,8 +740,8 @@
     },
     {
         "name": "Future AGI tools",
-        "link": "https://www.futureagitools.com",
-        "submission_link": "https://www.futureagitools.com/submit-a-site",
+        "link": "https://www.futureagitools.com?ref=aidirectori.es",
+        "submission_link": "https://www.futureagitools.com/submit-a-site?ref=aidirectori.es",
         "domain_rating": 10,
         "monthly_visits": 5000,
         "submission_experience": "Good",
@@ -740,8 +749,8 @@
     },
     {
         "name": "Future Tools",
-        "link": "https://www.futuretools.io/",
-        "submission_link": "https://www.futuretools.io/submit-a-tool",
+        "link": "https://www.futuretools.io/?ref=aidirectori.es",
+        "submission_link": "https://www.futuretools.io/submit-a-tool?ref=aidirectori.es",
         "domain_rating": 44,
         "monthly_visits": 3000000,
         "submission_experience": "Good",
@@ -749,8 +758,8 @@
     },
     {
         "name": "Futurepedia",
-        "link": "https://www.futurepedia.io/",
-        "submission_link": "https://www.futurepedia.io/submit-tool",
+        "link": "https://www.futurepedia.io/?ref=aidirectori.es",
+        "submission_link": "https://www.futurepedia.io/submit-tool?ref=aidirectori.es",
         "domain_rating": 62,
         "monthly_visits": 5000000,
         "submission_experience": "Good",
@@ -915,6 +924,15 @@
         "submission_link": "https://www.marsx.dev/ai-startups",
         "domain_rating": 30,
         "monthly_visits": 90000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "MicroLaunch",
+        "link": "https://microlaunch.net",
+        "submission_link": "https://tally.so/r/mYaR6N",
+        "domain_rating": 2,
+        "monthly_visits": 10000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

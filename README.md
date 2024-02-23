@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 132
+ ### Total directories: 134
 
  
 
@@ -88,13 +88,14 @@
 | Easy with AI | [Easy with AI](https://easywithai.com/) | [Submit](https://easywithai.com/submit-tool/) | 33 | 922000 | **🟢 Good** | **🔴 Paid** |
 | eBool | [eBool](https://www.ebool.com/) | [Submit](https://www.ebool.com/submit) | 62 | 25000 | **🟢 Good** | **🔴 Paid** |
 | Every AI | [Every AI](https://every-ai.com) | [Submit](https://every-ai.com/submit-tool/) | 7 | 100 |  |  |
-| Faind AI | [Faind AI](https://faind.ai/) | [Submit](https://faind.ai/submit-a-tool/) | 10 | 5000 | **🔴 Bad** | **🟢 Free** |
+| Faind AI | [Faind AI](https://faind.ai/?ref=aidirectori.es) | [Submit](https://faind.ai/submit-a-tool/?ref=aidirectori.es) | 10 | 5000 | **🔴 Bad** | **🟢 Free** |
+| Fazier | [Fazier](https://fazier.com/?ref=aidirectori.es) | [Submit](https://fazier.com/submit?ref=aidirectori.es) | 5 | 5000 | **🟢 Good** | **🟢 Free** |
 | Find My AI Tool | [Find My AI Tool](https://findmyaitool.com/?ref=aidirectori.es) | [Submit](https://findmyaitool.com/submit-tool/?ref=aidirectori.es) | 36 | 69000 | **🟢 Good** | **🔴 Paid** |
-| Flip Bytes | [Flip Bytes](https://www.flipbytes.com/) | [Submit](https://www.flipbytes.com/) | 10 | 70 |  |  |
+| Flip Bytes | [Flip Bytes](https://www.flipbytes.com/?ref=aidirectori.es) | [Submit](https://www.flipbytes.com/?ref=aidirectori.es) | 10 | 70 |  |  |
 | Free AI Tools Directory | [Free AI Tools Directory](https://free-ai-tools-directory.com/?ref=aidirectories) | [Submit](https://free-ai-tools-directory.com/submit-request/?ref=aidirectories) | 11 | 23000 | **🟢 Good** | **🟢 Free** |
-| Future AGI tools | [Future AGI tools](https://www.futureagitools.com) | [Submit](https://www.futureagitools.com/submit-a-site) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
-| Future Tools | [Future Tools](https://www.futuretools.io/) | [Submit](https://www.futuretools.io/submit-a-tool) | 44 | 3000000 | **🟢 Good** | **🟢 Free** |
-| Futurepedia | [Futurepedia](https://www.futurepedia.io/) | [Submit](https://www.futurepedia.io/submit-tool) | 62 | 5000000 | **🟢 Good** | **🔴 Paid** |
+| Future AGI tools | [Future AGI tools](https://www.futureagitools.com?ref=aidirectori.es) | [Submit](https://www.futureagitools.com/submit-a-site?ref=aidirectori.es) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
+| Future Tools | [Future Tools](https://www.futuretools.io/?ref=aidirectori.es) | [Submit](https://www.futuretools.io/submit-a-tool?ref=aidirectori.es) | 44 | 3000000 | **🟢 Good** | **🟢 Free** |
+| Futurepedia | [Futurepedia](https://www.futurepedia.io/?ref=aidirectori.es) | [Submit](https://www.futurepedia.io/submit-tool?ref=aidirectori.es) | 62 | 5000000 | **🟢 Good** | **🔴 Paid** |
 | GetByte | [GetByte](https://getbyte.tech?ref=aidirectories) | [Submit](https://getbyte.tech/listing/basic-product-details?ref=aidirectories) | 1.3 | 2000 | **🟢 Good** | **🔴 Paid** |
 | GPT Academy | [GPT Academy](https://www.gptacademy.co/?ref=aidirectories) | [Submit](https://www.gptacademy.co/submit?ref=aidirectories) | 14 | 24000 | **🟢 Good** | **🔴 Paid** |
 | Gpt Forge | [Gpt Forge](https://gptforge.net/?ref=aidirectories) | [Submit](https://forms.gle/8h1SokDHfcPwkbaZ8?ref=aidirectories) | 14 | 41000 | **🟢 Good** | **🟢 Free** |
@@ -113,6 +114,7 @@
 | Look AI Tools | [Look AI Tools](https://lookaitools.com/?ref=aidirectori.es) | [Submit](https://lookaitools.com/submission-service/?ref=aidirectori.es) | 6 | 130 | **🟢 Good** | **🟢 Free** |
 | MadGenius | [MadGenius](https://madgenius.co/) | [Submit](https://madgenius.co/submit) | 10 | 5000 |  | **🔴 Paid** |
 | Mars AI directory | [Mars AI directory](https://www.marsx.dev/ai-startups) | [Submit](https://www.marsx.dev/ai-startups) | 30 | 90000 | **🟢 Good** | **🟢 Free** |
+| MicroLaunch | [MicroLaunch](https://microlaunch.net) | [Submit](https://tally.so/r/mYaR6N) | 2 | 10000 | **🟢 Good** | **🟢 Free** |
 | Next Gen Tools | [Next Gen Tools](https://nextgentools.me/?ref=aidirecories) | [Submit](https://nextgentools.me/submit-your-tool?ref=aidirecories) | 27 | 47000 | **🟢 Good** | **🟢 Free** |
 | Nextpedia | [Nextpedia](https://www.nextpedia.io/?ref=aidirecories) | [Submit](https://www.nextpedia.io/submit-tool/?ref=aidirecories) | 9 | 8000 | **🔴 Bad** |  |
 | One Hub AI | [One Hub AI](https://www.onehubai.com/) | [Submit](https://www.onehubai.com/) | 10 | 4600 | **🟢 Good** | **🔴 Paid** |

@@ -3,11 +3,20 @@ import {Directory} from "../types/directory";
 export const directories: Directory[] = [
     {
         "name": "Faind AI",
-        "link": "https://faind.ai/",
-        "submission_link": "https://faind.ai/submit-a-tool/",
+        "link": "https://faind.ai/?ref=aidirectori.es",
+        "submission_link": "https://faind.ai/submit-a-tool/?ref=aidirectori.es",
         "domain_rating": 10.0,
         "monthly_visits": 5000,
         "submission_experience": "Bad",
+        "pricing": "Free"
+    },
+    {
+        "name": "Fazier",
+        "link": "https://fazier.com/?ref=aidirectori.es",
+        "submission_link": "https://fazier.com/submit?ref=aidirectori.es",
+        "domain_rating": 5,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
         "pricing": "Free"
     },
     {
@@ -21,8 +30,8 @@ export const directories: Directory[] = [
     },
     {
         "name": "Flip Bytes",
-        "link": "https://www.flipbytes.com/",
-        "submission_link": "https://www.flipbytes.com/",
+        "link": "https://www.flipbytes.com/?ref=aidirectori.es",
+        "submission_link": "https://www.flipbytes.com/?ref=aidirectori.es",
         "domain_rating": 10.0,
         "monthly_visits": 70,
         "submission_experience": "",
@@ -30,8 +39,8 @@ export const directories: Directory[] = [
     },
     {
         "name": "Future AGI tools",
-        "link": "https://www.futureagitools.com",
-        "submission_link": "https://www.futureagitools.com/submit-a-site",
+        "link": "https://www.futureagitools.com?ref=aidirectori.es",
+        "submission_link": "https://www.futureagitools.com/submit-a-site?ref=aidirectori.es",
         "domain_rating": 10.0,
         "monthly_visits": 5000,
         "submission_experience": "Good",
@@ -39,8 +48,8 @@ export const directories: Directory[] = [
     },
     {
         "name": "Future Tools",
-        "link": "https://www.futuretools.io/",
-        "submission_link": "https://www.futuretools.io/submit-a-tool",
+        "link": "https://www.futuretools.io/?ref=aidirectori.es",
+        "submission_link": "https://www.futuretools.io/submit-a-tool?ref=aidirectori.es",
         "domain_rating": 44.0,
         "monthly_visits": 3000000,
         "submission_experience": "Good",
@@ -48,8 +57,8 @@ export const directories: Directory[] = [
     },
     {
         "name": "Futurepedia",
-        "link": "https://www.futurepedia.io/",
-        "submission_link": "https://www.futurepedia.io/submit-tool",
+        "link": "https://www.futurepedia.io/?ref=aidirectori.es",
+        "submission_link": "https://www.futurepedia.io/submit-tool?ref=aidirectori.es",
         "domain_rating": 62.0,
         "monthly_visits": 5000000,
         "submission_experience": "Good",
