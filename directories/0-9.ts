@@ -29,4 +29,13 @@ export const directories: Directory[] = [
         "submission_experience": "Good",
         "pricing": "Paid"
     },
+    {
+        "name": "1payment Tools",
+        "link": "https://1payment.tools/",
+        "submission_link": "https://1payment.tools/cabinet/apps/new",
+        "domain_rating": 0.8,
+        "monthly_visits": 1000,
+        "submission_experience": "",
+        "pricing": "Paid"
+    },
 ]
