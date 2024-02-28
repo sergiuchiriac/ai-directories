@@ -18,10 +18,10 @@
 ### AI Directories
 | Name | Link | Submission Link | Domain Rating | Monthly Visits | Submission Experience | Pricing |
 |---|---|---|---|---|---|---|
-| 100 AI Apps | [100 AI Apps](https://100apps.org/) | [Submit](https://100apps.org/) | 0.6 | 1000 | **🟢 Good** | **🔴 Paid** |
-| 1000 Tools | [1000 Tools](https://1000.tools/) | [Submit](https://1000.tools/my/tools/create) | 23 | 7500 | **🟢 Good** | **🔴 Paid** |
-| 1000gpt.shop | [1000gpt.shop](https://1000gpt.shop) | [Submit](https://buy.stripe.com/dR6eVi1lRgj9bsY4gg) | 1 | 1000 | **🟢 Good** | **🔴 Paid** |
-| 1payment Tools | [1payment Tools](https://1payment.tools/) | [Submit](https://1payment.tools/cabinet/apps/new) | 0.8 | 1000 |  | **🔴 Paid** |
+| 100 AI Apps | [100 AI Apps](https://100apps.org/?ref=aidirectori.es) | [Submit](https://100apps.org/?ref=aidirectori.es) | 0.6 | 1000 | **🟢 Good** | **🔴 Paid** |
+| 1000 Tools | [1000 Tools](https://1000.tools/?ref=aidirectori.es) | [Submit](https://1000.tools/my/tools/create?ref=aidirectori.es) | 23 | 7500 | **🟢 Good** | **🔴 Paid** |
+| 1000gpt.shop | [1000gpt.shop](https://1000gpt.shop/?ref=aidirectori.es) | [Submit](https://buy.stripe.com/dR6eVi1lRgj9bsY4gg) | 1 | 1000 | **🟢 Good** | **🔴 Paid** |
+| 1payment Tools | [1payment Tools](https://1payment.tools/?ref=aidirectori.es) | [Submit](https://1payment.tools/cabinet/apps/new?ref=aidirectori.es) | 0.8 | 1000 | **🟢 Good** | **🔴 Paid** |
 | Afford Hunt | [Afford Hunt](https://affordhunt.com?ref=aidirectories) | [Submit](https://t.co/zZB1Yxgf8s) | 56 | 80000 | **🟢 Good** | **🟢 Free** |
 | AI Center | [AI Center](https://aicenter.ai/?ref=aidirectories) | [Submit](https://aicenter.ai/products/submit?ref=aidirectories) | 10 | 5000 | **🟢 Good** | **🔴 Paid** |
 | AI combined | [AI combined](https://aicombined.com?ref=aidirectories) | [Submit](https://aicombined.com/add-listing?ref=aidirectories/) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
