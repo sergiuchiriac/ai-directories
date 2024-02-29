@@ -10,7 +10,7 @@
         "submission_experience": "Good",
         "pricing": "Paid",
         "dealCode": "DIRECTORIES20",
-        "dealText": "20% off at checkout"
+        "dealText": "20% Discount"
     },
     {
         "name": "aitools.fyi",
@@ -21,7 +21,7 @@
         "submission_experience": "Good",
         "pricing": "Paid",
         "dealCode": "AID30",
-        "dealText": "30% off at checkout"
+        "dealText": "30% Discount"
     },
     {
         "name": "Invent List",
@@ -50,7 +50,7 @@
         "submission_experience": "Good",
         "pricing": "Paid",
         "dealCode": "Q3ODY5NA",
-        "dealText": "10% off at checkout"
+        "dealText": "10% Discount"
     },
     {
         "name": "AI Top Tools",
@@ -61,7 +61,7 @@
         "submission_experience": "Good",
         "pricing": "Paid",
         "dealCode": "AID20",
-        "dealText": "20% off at checkout"
+        "dealText": "20% Discount"
     },
     {
         "name": "Uneed Best",
@@ -70,7 +70,9 @@
         "domain_rating": 26,
         "monthly_visits": 252000,
         "submission_experience": "Good",
-        "pricing": "Paid"
+        "pricing": "Paid",
+        "dealCode": "AIDIRECTORIES",
+        "dealText": "20% Discount"
     },
     {
         "name": "100 AI Apps",
