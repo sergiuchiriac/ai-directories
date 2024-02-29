@@ -1,5 +1,5 @@
 {
-"count": 135,
+"count": 134,
 "data": [
     {
         "name": "Open Tools",
@@ -62,6 +62,15 @@
         "pricing": "Paid",
         "dealCode": "AID20",
         "dealText": "20% off at checkout"
+    },
+    {
+        "name": "Uneed Best",
+        "link": "https://www.uneed.best/",
+        "submission_link": "https://uneed.lemonsqueezy.com/?aff=8Mjlz",
+        "domain_rating": 26,
+        "monthly_visits": 252000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
     },
     {
         "name": "100 AI Apps",
@@ -1239,15 +1248,6 @@
         "submission_link": "https://under1000mrr.tools/submit-product",
         "domain_rating": 0,
         "monthly_visits": 500,
-        "submission_experience": "Good",
-        "pricing": "Paid"
-    },
-    {
-        "name": "Uneed Best",
-        "link": "https://www.uneed.best/",
-        "submission_link": "https://www.uneed.best/submit-a-tool",
-        "domain_rating": 26,
-        "monthly_visits": 252000,
         "submission_experience": "Good",
         "pricing": "Paid"
     },
