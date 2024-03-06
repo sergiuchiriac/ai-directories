@@ -182,15 +182,6 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
-        "name": "aitools.fyi",
-        "link": "https://aitools.fyi/?ref=aidirectori.es",
-        "submission_link": "https://aitools.fyi/submit?ref=aidirectori.es",
-        "domain_rating": 27,
-        "monthly_visits": 500000,
-        "submission_experience": "Good",
-        "pricing": "Paid",
-    },
-    {
         "name": "AI Tool Board",
         "link": "https://aitoolboard.com/",
         "submission_link": "https://aitoolboard.com/submit-ai-tool",
