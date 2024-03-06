@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 135
+ ### Total directories: 137
 
  
 
@@ -29,7 +29,6 @@
 | AI Dir | [AI Dir](https://www.aidir.cc/) | [Submit](https://www.aidir.cc/submit/) | 10 | 100 | **🔴 Bad** |  |
 | AI Directory | [AI Directory](https://www.aidirectory.org) | [Submit](https://www.aidirectory.org/user-submit/) | 10 | 5700 | **🔴 Bad** |  |
 | AI Explorer | [AI Explorer](https://www.aiexplorer.app/) | [Submit](https://www.aiexplorer.app/) | 10 | 24000 | **🔴 Bad** |  |
-| AI finder | [AI finder](https://aifinder.info/) | [Submit](https://aifinder.info/contact/) | 10 | 3000 | **🔴 Bad** |  |
 | AI Finder | [AI Finder](https://ai-finder.net/) | [Submit](https://ai-finder.net/add) | 54 | 263000 | **🟢 Good** | **🟢 Free** |
 | AI Gadget | [AI Gadget](https://aigadget.io/) | [Submit](https://aigadget.io/) | 12 | 23000 | **🔴 Bad** |  |
 | AI Hub | [AI Hub](https://www.aihub.fyi/) | [Submit](https://www.aihub.fyi/form) | 22 | 1300 | **🟢 Good** | **🟢 Free** |
@@ -62,6 +61,7 @@
 | AI Top Rank | [AI Top Rank](https://aitoprank.com/?ref=aidirectories) | [Submit](https://aitoprank.com/?ref=aidirectories) | 8 | 5000 | **🟢 Good** | **🟢 Free** |
 | AI trendz | [AI trendz](https://aitrendz.xyz/?ref=aidirectories) | [Submit](https://aitrendz.xyz/submit-ai-link/?ref=aidirectories) | 8 | 90 |  | **🔴 Paid** |
 | AI Wizard | [AI Wizard](https://www.aiwizard.ai/?ref=aidirectories) | [Submit](https://www.aiwizard.ai/submit?ref=aidirectories) | 10 | 5000 |  | **🔴 Paid** |
+| aitools.fyi | [aitools.fyi](https://aitools.fyi/?ref=aidirectori.es) | [Submit](https://aitools.fyi/submit?ref=aidirectori.es) | 27 | 500000 | **🟢 Good** | **🔴 Paid** |
 | AIX Collection | [AIX Collection](https://aixcollection.com/?ref=aidirectories) | [Submit](https://aixcollection.com/submit?ref=aidirectories) | 10 | 100 | **🟢 Good** | **🟢 Free** |
 | All things AI | [All things AI](https://allthingsai.com/?ref=aidirectories) | [Submit](https://allthingsai.com/submit?ref=aidirectories) | 27 | 500000 | **🔴 Bad** |  |
 | All Top Startups | [All Top Startups](https://alltopstartups.com/) | [Submit](https://alltopstartups.com/submit-startup/) | 64 | 70000 |  | **🔴 Paid** |
@@ -77,7 +77,7 @@
 | ChatGPT demo | [ChatGPT demo](https://chatgptdemo.com/) | [Submit](https://chatgptdemo.com/submit-a-product/) | 30 | 400000 | **🟢 Good** | **🟢 Free** |
 | Crazy About Startups | [Crazy About Startups](https://crazyaboutstartups.com/) | [Submit](https://crazyaboutstartups.com/share-your-startup-2) | 33 | 5000 | **🔴 Bad** |  |
 | Crozdesk | [Crozdesk](https://crozdesk.com/) | [Submit](https://vendor.softwareselect.com/) | 74 | 200000 |  |  |
-| Crunchbase | [Crunchbase](https://crunchbase.com) | [Submit](https://crunchbase.com) | 80 | 10000000 |  |  |
+| Crunchbase | [Crunchbase](https://www.crunchbase.com/?ref=aidirectori.es) | [Submit](https://www.crunchbase.com/add-new/?ref=aidirectori.es) | 80 | 10000000 | **🟢 Good** | **🟢 Free** |
 | Daily tech AI | [Daily tech AI](https://www.dailytech.ai/) | [Submit](https://www.dailytech.ai/submit-service) | 11 | 23000 | **🟢 Good** | **🟢 Free** |
 | Dang AI | [Dang AI](https://dang.ai/?ref=aidirectori.es) | [Submit](https://dang.ai/?ref=aidirectori.es) | 45 | 27700 | **🟢 Good** | **🔴 Paid** |
 | Dev Pages | [Dev Pages](https://www.devpages.io/) | [Submit](https://www.devpages.io/submit-a-tool) | 10 | 50000 | **🟢 Good** | **🟢 Free** |
@@ -92,6 +92,7 @@
 | Faind AI | [Faind AI](https://faind.ai/?ref=aidirectori.es) | [Submit](https://faind.ai/submit-a-tool/?ref=aidirectori.es) | 10 | 5000 | **🔴 Bad** | **🟢 Free** |
 | Fazier | [Fazier](https://fazier.com/?ref=aidirectori.es) | [Submit](https://fazier.com/submit?ref=aidirectori.es) | 5 | 5000 | **🟢 Good** | **🟢 Free** |
 | Find My AI Tool | [Find My AI Tool](https://findmyaitool.com/?ref=aidirectori.es) | [Submit](https://findmyaitool.com/submit-tool/?ref=aidirectori.es) | 36 | 69000 | **🟢 Good** | **🔴 Paid** |
+| First 100 users | [First 100 users](https://www.first100users.com/?ref=aidirectori.es) | [Submit](https://www.first100users.com/submit/?ref=aidirectori.es) | 18 | 200 | **🟢 Good** | **🟢 Free** |
 | Flip Bytes | [Flip Bytes](https://www.flipbytes.com/?ref=aidirectori.es) | [Submit](https://www.flipbytes.com/?ref=aidirectori.es) | 10 | 70 |  |  |
 | Free AI Tools Directory | [Free AI Tools Directory](https://free-ai-tools-directory.com/?ref=aidirectories) | [Submit](https://free-ai-tools-directory.com/submit-request/?ref=aidirectories) | 11 | 23000 | **🟢 Good** | **🟢 Free** |
 | Future AGI tools | [Future AGI tools](https://www.futureagitools.com?ref=aidirectori.es) | [Submit](https://www.futureagitools.com/submit-a-site?ref=aidirectori.es) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
@@ -104,6 +105,7 @@
 | GPTE | [GPTE](https://gpte.ai/?ref=aidirectories) | [Submit](https://gpte.ai/submit-a-tool/?ref=aidirectories) | 31 | 1400000 |  | **🔴 Paid** |
 | GPTs Hunter | [GPTs Hunter](https://www.gptshunter.com/?ref=aidirectori.es) | [Submit](https://www.gptshunter.com/submit-gpt?ref=aidirectori.es) | 59 | 400000 | **🟢 Good** | **🟢 Free** |
 | Hacker News | [Hacker News](https://hackernews.com/) | [Submit](https://hackernews.com/) | 44 | 300000 |  |  |
+| Human or Not | [Human or Not](https://www.humanornot.co/?ref=aidirectori.es) | [Submit](https://www.humanornot.co/submit-tool?ref=aidirectori.es) | 1 | 10000 | **🟢 Good** | **🟢 Free** |
 | I Lib | [I Lib](https://www.ilib.com/) | [Submit](https://www.ilib.com/) | 10 | 200 | **🟢 Good** | **🟢 Free** |
 | Igniter | [Igniter](https://www.igniter.ai/) | [Submit](https://haroonchoudery499974.typeform.com/to/FpdvtLml?typeform-source=www.igniter.ai) | 10 | 100 | **🔴 Bad** |  |
 | Insidr AI | [Insidr AI](https://www.insidr.ai/) | [Submit](https://www.insidr.ai/submit-tools/) | 15 | 100000 | **🟢 Good** | **🔴 Paid** |
@@ -116,6 +118,7 @@
 | MadGenius | [MadGenius](https://madgenius.co/) | [Submit](https://madgenius.co/submit) | 10 | 5000 |  | **🔴 Paid** |
 | Mars AI directory | [Mars AI directory](https://www.marsx.dev/ai-startups) | [Submit](https://www.marsx.dev/ai-startups) | 30 | 90000 | **🟢 Good** | **🟢 Free** |
 | MicroLaunch | [MicroLaunch](https://microlaunch.net) | [Submit](https://tally.so/r/mYaR6N) | 2 | 10000 | **🟢 Good** | **🟢 Free** |
+| MicroStartups | [MicroStartups](https://www.microstartups.co/?ref=aidirectori.es) | [Submit](https://www.microstartups.co/list-your-startup/?ref=aidirectori.es) | 3.1 | 0 | **🟢 Good** | **🟢 Free** |
 | Next Gen Tools | [Next Gen Tools](https://nextgentools.me/?ref=aidirecories) | [Submit](https://nextgentools.me/submit-your-tool?ref=aidirecories) | 27 | 47000 | **🟢 Good** | **🟢 Free** |
 | Nextpedia | [Nextpedia](https://www.nextpedia.io/?ref=aidirecories) | [Submit](https://www.nextpedia.io/submit-tool/?ref=aidirecories) | 9 | 8000 | **🔴 Bad** |  |
 | One Hub AI | [One Hub AI](https://www.onehubai.com/) | [Submit](https://www.onehubai.com/) | 10 | 4600 | **🟢 Good** | **🔴 Paid** |
@@ -149,7 +152,6 @@
 | ToolScout | [ToolScout](https://toolscout.ai/) | [Submit](https://toolscout.ai/submit) | 10 | 23000 | **🟢 Good** | **🟢 Free** |
 | Toolspedia | [Toolspedia](https://www.toolspedia.io) | [Submit](https://www.toolspedia.io/submit-tool/) | 10 | 5000 |  | **🔴 Paid** |
 | Under1000MRR.tools | [Under1000MRR.tools](https://under1000mrr.tools/) | [Submit](https://under1000mrr.tools/submit-product) | 0 | 500 | **🟢 Good** | **🔴 Paid** |
-| Uneed Best | [Uneed Best](https://www.uneed.best/) | [Submit](https://www.uneed.best/submit-a-tool) | 26 | 252000 | **🟢 Good** | **🔴 Paid** |
 | Victrays | [Victrays](https://victrays.com/) | [Submit](https://victrays.com/submit-tool/) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
 | Warehouse AI | [Warehouse AI](https://www.thewarehouse.ai/) | [Submit](https://www.thewarehouse.ai/product-submission) | 10 | 15000 | **🟢 Good** | **🟢 Free** |
 | What the AI | [What the AI](https://whattheai.tech/) | [Submit](https://whattheai.tech/) | 9 | 99 |  |  |

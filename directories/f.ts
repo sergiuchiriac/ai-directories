@@ -29,6 +29,15 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
+        "name": "First 100 users",
+        "link": "https://www.first100users.com/?ref=aidirectori.es",
+        "submission_link": "https://www.first100users.com/submit/?ref=aidirectori.es",
+        "domain_rating": 18,
+        "monthly_visits": 200,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Flip Bytes",
         "link": "https://www.flipbytes.com/?ref=aidirectori.es",
         "submission_link": "https://www.flipbytes.com/?ref=aidirectori.es",

@@ -65,15 +65,6 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
-        "name": "AI finder",
-        "link": "https://aifinder.info/",
-        "submission_link": "https://aifinder.info/contact/",
-        "domain_rating": 10.0,
-        "monthly_visits": 3000,
-        "submission_experience": "Bad",
-        "pricing": ""
-    },
-    {
         "name": "AI Gadget",
         "link": "https://aigadget.io/",
         "submission_link": "https://aigadget.io/",
@@ -189,6 +180,15 @@ export const directories: Directory[] = [
         "monthly_visits": 15000,
         "submission_experience": "Good",
         "pricing": "Paid"
+    },
+    {
+        "name": "aitools.fyi",
+        "link": "https://aitools.fyi/?ref=aidirectori.es",
+        "submission_link": "https://aitools.fyi/submit?ref=aidirectori.es",
+        "domain_rating": 27,
+        "monthly_visits": 500000,
+        "submission_experience": "Good",
+        "pricing": "Paid",
     },
     {
         "name": "AI Tool Board",

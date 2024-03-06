@@ -28,4 +28,13 @@ export const directories: Directory[] = [
     "submission_experience": "Good",
     "pricing": "Free"
   },
+  {
+    "name": "MicroStartups",
+    "link": "https://www.microstartups.co/?ref=aidirectori.es",
+    "submission_link": "https://www.microstartups.co/list-your-startup/?ref=aidirectori.es",
+    "domain_rating": 3.1,
+    "monthly_visits":0,
+    "submission_experience": "Good",
+    "pricing": "Free"
+  },
 ]
