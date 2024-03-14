@@ -93,9 +93,9 @@ export const directories: Directory[] = [
     },
     {
         "name": "Startups.fyi",
-        "link": "https://www.startups.fyi/",
+        "link": "https://www.startups.fyi/?ref=aidirectori.es",
         "submission_link": "https://tally.so/r/3lOGLk",
-        "domain_rating": 22,
+        "domain_rating": 25,
         "monthly_visits": 13000,
         "submission_experience": "Good",
         "pricing": "Free"

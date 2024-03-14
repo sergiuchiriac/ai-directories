@@ -1,5 +1,5 @@
 {
-"count": 137,
+"count": 138,
 "data": [
     {
         "name": "Open Tools",
@@ -64,6 +64,15 @@
         "pricing": "Paid",
         "dealCode": "AIDIRECTORIES",
         "dealText": "20% Discount"
+    },
+    {
+        "name": "100 AI Apps",
+        "link": "https://100apps.org/?ref=aidirectori.es",
+        "submission_link": "https://100apps.org/?ref=aidirectori.es",
+        "domain_rating": 0.6,
+        "monthly_visits": 1000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
     },
     {
         "name": "100 AI Apps",
@@ -450,15 +459,6 @@
         "domain_rating": 10,
         "monthly_visits": 5000,
         "submission_experience": "",
-        "pricing": "Paid"
-    },
-    {
-        "name": "aitools.fyi",
-        "link": "https://aitools.fyi/?ref=aidirectori.es",
-        "submission_link": "https://aitools.fyi/submit?ref=aidirectori.es",
-        "domain_rating": 27,
-        "monthly_visits": 500000,
-        "submission_experience": "Good",
         "pricing": "Paid"
     },
     {
@@ -876,6 +876,15 @@
         "pricing": ""
     },
     {
+        "name": "Insanely Cool Tools",
+        "link": "https://www.insanelycooltools.com/?ref=aidirectori.es",
+        "submission_link": "https://tally.so/r/31kxN1",
+        "domain_rating": 35,
+        "monthly_visits": 8400,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Insidr AI",
         "link": "https://www.insidr.ai/",
         "submission_link": "https://www.insidr.ai/submit-tools/",
@@ -1129,9 +1138,9 @@
     },
     {
         "name": "Startups.fyi",
-        "link": "https://www.startups.fyi/",
+        "link": "https://www.startups.fyi/?ref=aidirectori.es",
         "submission_link": "https://tally.so/r/3lOGLk",
-        "domain_rating": 22,
+        "domain_rating": 25,
         "monthly_visits": 13000,
         "submission_experience": "Good",
         "pricing": "Free"
@@ -1180,6 +1189,15 @@
         "monthly_visits": 3200000,
         "submission_experience": "Good",
         "pricing": "Paid"
+    },
+    {
+        "name": "Tiny Startups",
+        "link": "https://www.tinystartups.co/?ref=aidirectori.es",
+        "submission_link": "https://tally.so/r/wMzP8X",
+        "domain_rating": 4.4,
+        "monthly_visits": 100,
+        "submission_experience": "Bad",
+        "pricing": ""
     },
     {
         "name": "Tool Directory",

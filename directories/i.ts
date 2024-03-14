@@ -37,5 +37,14 @@ export const directories: Directory[] = [
         "submission_experience": "Bad",
         "pricing": ""
     },
+    {
+        "name": "Insanely Cool Tools",
+        "link": "https://www.insanelycooltools.com/?ref=aidirectori.es",
+        "submission_link": "https://tally.so/r/31kxN1",
+        "domain_rating": 35,
+        "monthly_visits": 8400,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
 
 ]

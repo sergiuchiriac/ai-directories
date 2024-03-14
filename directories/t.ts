@@ -118,4 +118,13 @@ export const directories: Directory[] = [
         "submission_experience": "Bad",
         "pricing": ""
     },
+    {
+        "name": "Tiny Startups",
+        "link": "https://www.tinystartups.co/?ref=aidirectori.es",
+        "submission_link": "https://tally.so/r/wMzP8X",
+        "domain_rating": 4.4,
+        "monthly_visits": 100,
+        "submission_experience": "Bad",
+        "pricing": ""
+    },
 ]

@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 137
+ ### Total directories: 138
 
  
 
@@ -61,7 +61,6 @@
 | AI Top Rank | [AI Top Rank](https://aitoprank.com/?ref=aidirectories) | [Submit](https://aitoprank.com/?ref=aidirectories) | 8 | 5000 | **🟢 Good** | **🟢 Free** |
 | AI trendz | [AI trendz](https://aitrendz.xyz/?ref=aidirectories) | [Submit](https://aitrendz.xyz/submit-ai-link/?ref=aidirectories) | 8 | 90 |  | **🔴 Paid** |
 | AI Wizard | [AI Wizard](https://www.aiwizard.ai/?ref=aidirectories) | [Submit](https://www.aiwizard.ai/submit?ref=aidirectories) | 10 | 5000 |  | **🔴 Paid** |
-| aitools.fyi | [aitools.fyi](https://aitools.fyi/?ref=aidirectori.es) | [Submit](https://aitools.fyi/submit?ref=aidirectori.es) | 27 | 500000 | **🟢 Good** | **🔴 Paid** |
 | AIX Collection | [AIX Collection](https://aixcollection.com/?ref=aidirectories) | [Submit](https://aixcollection.com/submit?ref=aidirectories) | 10 | 100 | **🟢 Good** | **🟢 Free** |
 | All things AI | [All things AI](https://allthingsai.com/?ref=aidirectories) | [Submit](https://allthingsai.com/submit?ref=aidirectories) | 27 | 500000 | **🔴 Bad** |  |
 | All Top Startups | [All Top Startups](https://alltopstartups.com/) | [Submit](https://alltopstartups.com/submit-startup/) | 64 | 70000 |  | **🔴 Paid** |
@@ -108,6 +107,7 @@
 | Human or Not | [Human or Not](https://www.humanornot.co/?ref=aidirectori.es) | [Submit](https://www.humanornot.co/submit-tool?ref=aidirectori.es) | 1 | 10000 | **🟢 Good** | **🟢 Free** |
 | I Lib | [I Lib](https://www.ilib.com/) | [Submit](https://www.ilib.com/) | 10 | 200 | **🟢 Good** | **🟢 Free** |
 | Igniter | [Igniter](https://www.igniter.ai/) | [Submit](https://haroonchoudery499974.typeform.com/to/FpdvtLml?typeform-source=www.igniter.ai) | 10 | 100 | **🔴 Bad** |  |
+| Insanely Cool Tools | [Insanely Cool Tools](https://www.insanelycooltools.com/?ref=aidirectori.es) | [Submit](https://tally.so/r/31kxN1) | 35 | 8400 | **🟢 Good** | **🟢 Free** |
 | Insidr AI | [Insidr AI](https://www.insidr.ai/) | [Submit](https://www.insidr.ai/submit-tools/) | 15 | 100000 | **🟢 Good** | **🔴 Paid** |
 | Instant | [Instant](https://instantai.io/) | [Submit](https://instantai.io/submit-listing/) | 15 | 35000 | **🔴 Bad** |  |
 | Joinly | [Joinly](https://www.joinly.xyz/) | [Submit](https://www.joinly.xyz/submit-startup) | 25 | 5000 | **🟢 Good** | **🔴 Paid** |
@@ -136,12 +136,13 @@
 | Startup Base | [Startup Base](https://startupbase.io/) | [Submit](https://startupbase.io/promote) | 50 | 3000 |  | **🔴 Paid** |
 | Startup Buffer | [Startup Buffer](https://startupbuffer.com/) | [Submit](https://startupbuffer.com/site/submit) | 36 | 16000 | **🟢 Good** | **🟢 Free** |
 | Startup Stash | [Startup Stash](https://startupstash.com/) | [Submit](https://startupstash.com/add-listing/) | 65 | 370000 | **🟢 Good** | **🔴 Paid** |
-| Startups.fyi | [Startups.fyi](https://www.startups.fyi/) | [Submit](https://tally.so/r/3lOGLk) | 22 | 13000 | **🟢 Good** | **🟢 Free** |
+| Startups.fyi | [Startups.fyi](https://www.startups.fyi/?ref=aidirectori.es) | [Submit](https://tally.so/r/3lOGLk) | 25 | 13000 | **🟢 Good** | **🟢 Free** |
 | Super Tools | [Super Tools](https://supertools.therundown.ai/) | [Submit](https://supertools.therundown.ai/submit) | 20 | 380000 | **🟢 Good** | **🟢 Free** |
 | That AI Collection | [That AI Collection](https://github.com/ai-collection/ai-collection) | [Submit](https://www.thataicollection.com/submit/) | 32 | 34000 | **🔴 Bad** | **🟢 Free** |
 | The ai Generation | [The ai Generation](https://www.theaigeneration.com/) | [Submit](https://www.theaigeneration.com/add/) | 11 | 77000 | **🟢 Good** | **🟢 Free** |
 | The Hack Stack | [The Hack Stack](https://thehackstack.com/) | [Submit](https://thehackstack.com/register) | 10 | 5000 | **🔴 Bad** | **🟢 Free** |
 | There is an AI for that | [There is an AI for that](https://theresanaiforthat.com/) | [Submit](https://theresanaiforthat.com/get-featured/#opt_submit) | 45 | 3200000 | **🟢 Good** | **🔴 Paid** |
+| Tiny Startups | [Tiny Startups](https://www.tinystartups.co/?ref=aidirectori.es) | [Submit](https://tally.so/r/wMzP8X) | 4.4 | 100 | **🔴 Bad** |  |
 | Tool Directory | [Tool Directory](https://tooldirectory.ai/?ref=aidirectori.es) | [Submit](https://https://tooldirectory.ai/submit-tool?ref=aidirectori.es) | 50 | 4000 | **🟢 Good** | **🟢 Free** |
 | Tool Pilot | [Tool Pilot](https://www.toolpilot.ai/) | [Submit](https://www.toolpilot.ai/pages/submit-your-ai-tool) | 12 | 5000 | **🟢 Good** | **🟢 Free** |
 | Toolify.ai | [Toolify.ai](https://www.toolify.ai/) | [Submit](https://www.toolify.ai/login?from=%2Fsubmit) | 13 | 340000 |  | **🔴 Paid** |
