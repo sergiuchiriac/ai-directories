@@ -124,7 +124,7 @@ export const directories: Directory[] = [
         "submission_link": "https://tally.so/r/wMzP8X",
         "domain_rating": 4.4,
         "monthly_visits": 100,
-        "submission_experience": "Bad",
-        "pricing": ""
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
 ]

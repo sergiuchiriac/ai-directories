@@ -142,7 +142,7 @@
 | The ai Generation | [The ai Generation](https://www.theaigeneration.com/) | [Submit](https://www.theaigeneration.com/add/) | 11 | 77000 | **🟢 Good** | **🟢 Free** |
 | The Hack Stack | [The Hack Stack](https://thehackstack.com/) | [Submit](https://thehackstack.com/register) | 10 | 5000 | **🔴 Bad** | **🟢 Free** |
 | There is an AI for that | [There is an AI for that](https://theresanaiforthat.com/) | [Submit](https://theresanaiforthat.com/get-featured/#opt_submit) | 45 | 3200000 | **🟢 Good** | **🔴 Paid** |
-| Tiny Startups | [Tiny Startups](https://www.tinystartups.co/?ref=aidirectori.es) | [Submit](https://tally.so/r/wMzP8X) | 4.4 | 100 | **🔴 Bad** |  |
+| Tiny Startups | [Tiny Startups](https://www.tinystartups.co/?ref=aidirectori.es) | [Submit](https://tally.so/r/wMzP8X) | 4.4 | 100 | **🟢 Good** | **🟢 Free** |
 | Tool Directory | [Tool Directory](https://tooldirectory.ai/?ref=aidirectori.es) | [Submit](https://https://tooldirectory.ai/submit-tool?ref=aidirectori.es) | 50 | 4000 | **🟢 Good** | **🟢 Free** |
 | Tool Pilot | [Tool Pilot](https://www.toolpilot.ai/) | [Submit](https://www.toolpilot.ai/pages/submit-your-ai-tool) | 12 | 5000 | **🟢 Good** | **🟢 Free** |
 | Toolify.ai | [Toolify.ai](https://www.toolify.ai/) | [Submit](https://www.toolify.ai/login?from=%2Fsubmit) | 13 | 340000 |  | **🔴 Paid** |
