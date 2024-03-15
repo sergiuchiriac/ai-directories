@@ -2,13 +2,13 @@ import {Directory} from "../types/directory";
 
 export const directories: Directory[] = [
   {
-    "name": "GetByte",
-    "link": "https://getbyte.tech?ref=aidirectories",
-    "submission_link": "https://getbyte.tech/listing/basic-product-details?ref=aidirectories",
-    "domain_rating": 1.3,
-    "monthly_visits": 2000,
+    "name": "Getlatka",
+    "link": "https://getlatka.com/?ref=aidirectories",
+    "submission_link": "https://getlatka.com/saas-companies?ref=aidirectories",
+    "domain_rating": 71,
+    "monthly_visits": 20000,
     "submission_experience": "Good",
-    "pricing": "Paid"
+    "pricing": "Free"
   },
   {
     "name": "GPT Academy",

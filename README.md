@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 138
+ ### Total directories: 139
 
  
 
@@ -62,6 +62,7 @@
 | AI trendz | [AI trendz](https://aitrendz.xyz/?ref=aidirectories) | [Submit](https://aitrendz.xyz/submit-ai-link/?ref=aidirectories) | 8 | 90 |  | **🔴 Paid** |
 | AI Wizard | [AI Wizard](https://www.aiwizard.ai/?ref=aidirectories) | [Submit](https://www.aiwizard.ai/submit?ref=aidirectories) | 10 | 5000 |  | **🔴 Paid** |
 | AIX Collection | [AIX Collection](https://aixcollection.com/?ref=aidirectories) | [Submit](https://aixcollection.com/submit?ref=aidirectories) | 10 | 100 | **🟢 Good** | **🟢 Free** |
+| All Startups Info | [All Startups Info](https://www.allstartups.info/?ref=aidirectori.es) | [Submit](https://www.allstartups.info/Startups/Submit/?ref=aidirectori.es) | 33 | 99 | **🔴 Bad** | **🟢 Free** |
 | All things AI | [All things AI](https://allthingsai.com/?ref=aidirectories) | [Submit](https://allthingsai.com/submit?ref=aidirectories) | 27 | 500000 | **🔴 Bad** |  |
 | All Top Startups | [All Top Startups](https://alltopstartups.com/) | [Submit](https://alltopstartups.com/submit-startup/) | 64 | 70000 |  | **🔴 Paid** |
 | Alternative | [Alternative](https://alternative.me/) | [Submit](https://alternative.me/how-to/submit-software/) | 77 | 2000000 | **🔴 Bad** | **🟢 Free** |
@@ -97,7 +98,7 @@
 | Future AGI tools | [Future AGI tools](https://www.futureagitools.com?ref=aidirectori.es) | [Submit](https://www.futureagitools.com/submit-a-site?ref=aidirectori.es) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
 | Future Tools | [Future Tools](https://www.futuretools.io/?ref=aidirectori.es) | [Submit](https://www.futuretools.io/submit-a-tool?ref=aidirectori.es) | 44 | 3000000 | **🟢 Good** | **🟢 Free** |
 | Futurepedia | [Futurepedia](https://www.futurepedia.io/?ref=aidirectori.es) | [Submit](https://www.futurepedia.io/submit-tool?ref=aidirectori.es) | 62 | 5000000 | **🟢 Good** | **🔴 Paid** |
-| GetByte | [GetByte](https://getbyte.tech?ref=aidirectories) | [Submit](https://getbyte.tech/listing/basic-product-details?ref=aidirectories) | 1.3 | 2000 | **🟢 Good** | **🔴 Paid** |
+| Getlatka | [Getlatka](https://getlatka.com/?ref=aidirectories) | [Submit](https://getlatka.com/saas-companies?ref=aidirectories) | 71 | 20000 | **🟢 Good** | **🟢 Free** |
 | GPT Academy | [GPT Academy](https://www.gptacademy.co/?ref=aidirectories) | [Submit](https://www.gptacademy.co/submit?ref=aidirectories) | 14 | 24000 | **🟢 Good** | **🔴 Paid** |
 | Gpt Forge | [Gpt Forge](https://gptforge.net/?ref=aidirectories) | [Submit](https://forms.gle/8h1SokDHfcPwkbaZ8?ref=aidirectories) | 14 | 41000 | **🟢 Good** | **🟢 Free** |
 | GPT Stack | [GPT Stack](https://www.gpt-stack.com?ref=aidirectories) | [Submit](https://www.gpt-stack.com/add-resourc?ref=aidirectoriese) | 10 | 100 | **🟢 Good** | **🟢 Free** |
@@ -153,6 +154,6 @@
 | ToolScout | [ToolScout](https://toolscout.ai/) | [Submit](https://toolscout.ai/submit) | 10 | 23000 | **🟢 Good** | **🟢 Free** |
 | Toolspedia | [Toolspedia](https://www.toolspedia.io) | [Submit](https://www.toolspedia.io/submit-tool/) | 10 | 5000 |  | **🔴 Paid** |
 | Under1000MRR.tools | [Under1000MRR.tools](https://under1000mrr.tools/) | [Submit](https://under1000mrr.tools/submit-product) | 0 | 500 | **🟢 Good** | **🔴 Paid** |
-| Victrays | [Victrays](https://victrays.com/) | [Submit](https://victrays.com/submit-tool/) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
+| Victrays | [Victrays](https://victrays.com/) | [Submit](https://victrays.com/submit-tool/) | 10 | 5000 | **🟢 Good** | **🔴 Paid** |
 | Warehouse AI | [Warehouse AI](https://www.thewarehouse.ai/) | [Submit](https://www.thewarehouse.ai/product-submission) | 10 | 15000 | **🟢 Good** | **🟢 Free** |
 | What the AI | [What the AI](https://whattheai.tech/) | [Submit](https://whattheai.tech/) | 9 | 99 |  |  |

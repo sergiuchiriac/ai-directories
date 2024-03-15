@@ -1,5 +1,5 @@
 {
-"count": 138,
+"count": 139,
 "data": [
     {
         "name": "Open Tools",
@@ -64,6 +64,17 @@
         "pricing": "Paid",
         "dealCode": "AIDIRECTORIES",
         "dealText": "20% Discount"
+    },
+    {
+        "name": "GetByte",
+        "link": "https://getbyte.tech?ref=aidirectories",
+        "submission_link": "https://getbyte.tech/listing/basic-product-details?ref=aidirectories",
+        "domain_rating": 6,
+        "monthly_visits": 3500,
+        "submission_experience": "Good",
+        "pricing": "Paid",
+        "dealCode": "AIDIR40",
+        "dealText": "40% Discount"
     },
     {
         "name": "100 AI Apps",
@@ -462,6 +473,15 @@
         "pricing": "Free"
     },
     {
+        "name": "All Startups Info",
+        "link": "https://www.allstartups.info/?ref=aidirectori.es",
+        "submission_link": "https://www.allstartups.info/Startups/Submit/?ref=aidirectori.es",
+        "domain_rating": 33,
+        "monthly_visits": 99,
+        "submission_experience": "Bad",
+        "pricing": "Free"
+    },
+    {
         "name": "All things AI",
         "link": "https://allthingsai.com/?ref=aidirectories",
         "submission_link": "https://allthingsai.com/submit?ref=aidirectories",
@@ -777,13 +797,13 @@
         "pricing": "Paid"
     },
     {
-        "name": "GetByte",
-        "link": "https://getbyte.tech?ref=aidirectories",
-        "submission_link": "https://getbyte.tech/listing/basic-product-details?ref=aidirectories",
-        "domain_rating": 1.3,
-        "monthly_visits": 2000,
+        "name": "Getlatka",
+        "link": "https://getlatka.com/?ref=aidirectories",
+        "submission_link": "https://getlatka.com/saas-companies?ref=aidirectories",
+        "domain_rating": 71,
+        "monthly_visits": 20000,
         "submission_experience": "Good",
-        "pricing": "Paid"
+        "pricing": "Free"
     },
     {
         "name": "GPT Academy",
@@ -1287,7 +1307,7 @@
         "domain_rating": 10,
         "monthly_visits": 5000,
         "submission_experience": "Good",
-        "pricing": "Free"
+        "pricing": "Paid"
     },
     {
         "name": "Warehouse AI",

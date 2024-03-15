@@ -389,6 +389,15 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
+        "name": "All Startups Info",
+        "link": "https://www.allstartups.info/?ref=aidirectori.es",
+        "submission_link": "https://www.allstartups.info/Startups/Submit/?ref=aidirectori.es",
+        "domain_rating": 33,
+        "monthly_visits": 99,
+        "submission_experience": "Bad",
+        "pricing": "Free"
+    },
+    {
         "name": "Amaete AI",
         "link": "https://www.amaete.ai/",
         "submission_link": "https://www.amaete.ai/",
