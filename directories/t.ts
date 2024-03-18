@@ -133,7 +133,7 @@ export const directories: Directory[] = [
         "submission_link": "https://tipseason.com/ai-tools/submit",
         "domain_rating": 27,
         "monthly_visits": 30000,
-        "submission_experience": "Good",
+        "submission_experience": "",
         "pricing": "Free"
     },
 ]
