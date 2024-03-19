@@ -127,4 +127,13 @@ export const directories: Directory[] = [
         "submission_experience": "Good",
         "pricing": "Free"
     },
+    {
+        "name": "Trending AI Tools",
+        "link": "https://tipseason.com/ai-tools?ref=aidirectori.es",
+        "submission_link": "https://tipseason.com/ai-tools/submit",
+        "domain_rating": 27,
+        "monthly_visits": 30000,
+        "submission_experience": "",
+        "pricing": "Free"
+    },
 ]
