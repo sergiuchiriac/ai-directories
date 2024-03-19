@@ -1,5 +1,5 @@
 {
-"count": 139,
+"count": 140,
 "data": [
     {
         "name": "Open Tools",
@@ -16,8 +16,8 @@
         "name": "aitools.fyi",
         "link": "https://aitools.fyi/?ref=aidirectori.es",
         "submission_link": "https://aitools.fyi/submit?ref=aidirectori.es",
-        "domain_rating": 27,
-        "monthly_visits": 500000,
+        "domain_rating": 30,
+        "monthly_visits": 790000,
         "submission_experience": "Good",
         "pricing": "Paid",
         "dealCode": "AID30",
@@ -539,7 +539,7 @@
         "name": "AppSumo",
         "link": "https://appsumo.com/",
         "submission_link": "https://appsumo.com/",
-        "domain_rating": 67,
+        "domain_rating": 82,
         "monthly_visits": 3300000,
         "submission_experience": "",
         "pricing": ""
@@ -1196,7 +1196,7 @@
         "name": "There is an AI for that",
         "link": "https://theresanaiforthat.com/",
         "submission_link": "https://theresanaiforthat.com/get-featured/#opt_submit",
-        "domain_rating": 45,
+        "domain_rating": 75,
         "monthly_visits": 3200000,
         "submission_experience": "Good",
         "pricing": "Paid"
@@ -1207,6 +1207,15 @@
         "submission_link": "https://tally.so/r/wMzP8X",
         "domain_rating": 4.4,
         "monthly_visits": 100,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "TipSeason",
+        "link": "https://tipseason.com/ai-tools?ref=aidirectori.es",
+        "submission_link": "https://tipseason.com/ai-tools/submit",
+        "domain_rating": 27,
+        "monthly_visits": 30000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

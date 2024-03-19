@@ -23,7 +23,7 @@ export const directories: Directory[] = [
         "name": "There is an AI for that",
         "link": "https://theresanaiforthat.com/",
         "submission_link": "https://theresanaiforthat.com/get-featured/#opt_submit",
-        "domain_rating": 45.0,
+        "domain_rating": 75,
         "monthly_visits": 3200000,
         "submission_experience": "Good",
         "pricing": "Paid"
@@ -128,12 +128,12 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
-        "name": "Trending AI Tools",
+        "name": "TipSeason",
         "link": "https://tipseason.com/ai-tools?ref=aidirectori.es",
         "submission_link": "https://tipseason.com/ai-tools/submit",
         "domain_rating": 27,
         "monthly_visits": 30000,
-        "submission_experience": "",
+        "submission_experience": "Good",
         "pricing": "Free"
     },
 ]

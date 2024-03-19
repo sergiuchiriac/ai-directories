@@ -428,7 +428,7 @@ export const directories: Directory[] = [
         "name": "AppSumo",
         "link": "https://appsumo.com/",
         "submission_link": "https://appsumo.com/",
-        "domain_rating": 67.0,
+        "domain_rating": 82,
         "monthly_visits": 3300000,
         "submission_experience": "",
         "pricing": ""
