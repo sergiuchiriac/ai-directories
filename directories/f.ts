@@ -24,7 +24,7 @@ export const directories: Directory[] = [
         "link": "https://findcool.tools",
         "submission_link": "https://findcool.tools",
         "domain_rating": 10.0,
-        "monthly_visits": 23000,
+        "monthly_visits": 2300,
         "submission_experience": "Good",
         "pricing": "Free"
     },
