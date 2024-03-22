@@ -20,6 +20,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "Find Cool Tools",
+        "link": "https://findcool.tools",
+        "submission_link": "https://findcool.tools",
+        "domain_rating": 10.0,
+        "monthly_visits": 23000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Find My AI Tool",
         "link": "https://findmyaitool.com/?ref=aidirectori.es",
         "submission_link": "https://findmyaitool.com/submit-tool/?ref=aidirectori.es",
