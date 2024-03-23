@@ -1,5 +1,5 @@
 {
-"count": 140,
+"count": 142,
 "data": [
     {
         "name": "Open Tools",
@@ -734,6 +734,15 @@
         "pricing": "Free"
     },
     {
+        "name": "Find Cool Tools",
+        "link": "https://findcool.tools?ref=aidirectori.es",
+        "submission_link": "https://findcool.tools?ref=aidirectori.es",
+        "domain_rating": 10,
+        "monthly_visits": 2300,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Find My AI Tool",
         "link": "https://findmyaitool.com/?ref=aidirectori.es",
         "submission_link": "https://findmyaitool.com/submit-tool/?ref=aidirectori.es",
@@ -912,6 +921,15 @@
         "monthly_visits": 35000,
         "submission_experience": "Bad",
         "pricing": ""
+    },
+    {
+        "name": "Io Directory",
+        "link": "https://yo.directory/?ref=aidirectori.es",
+        "submission_link": "https://yo.directory/?ref=aidirectori.es",
+        "domain_rating": 35,
+        "monthly_visits": 8400,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "Joinly",
@@ -1122,11 +1140,11 @@
     },
     {
         "name": "Startup Base",
-        "link": "https://startupbase.io/",
-        "submission_link": "https://startupbase.io/promote",
+        "link": "https://startupbase.io/?ref=aidirectori.es",
+        "submission_link": "https://startupbase.io/submissions/start?ref=aidirectori.es",
         "domain_rating": 50,
         "monthly_visits": 3000,
-        "submission_experience": "",
+        "submission_experience": "Good",
         "pricing": "Paid"
     },
     {

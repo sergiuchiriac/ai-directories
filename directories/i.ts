@@ -46,5 +46,14 @@ export const directories: Directory[] = [
         "submission_experience": "Good",
         "pricing": "Free"
     },
+    {
+        "name": "Io Directory",
+        "link": "https://yo.directory/?ref=aidirectori.es",
+        "submission_link": "https://yo.directory/?ref=aidirectori.es",
+        "domain_rating": 35,
+        "monthly_visits": 8400,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
 
 ]

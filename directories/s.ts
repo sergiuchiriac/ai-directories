@@ -66,11 +66,11 @@ export const directories: Directory[] = [
     },
     {
         "name": "Startup Base",
-        "link": "https://startupbase.io/",
-        "submission_link": "https://startupbase.io/promote",
+        "link": "https://startupbase.io/?ref=aidirectori.es",
+        "submission_link": "https://startupbase.io/submissions/start?ref=aidirectori.es",
         "domain_rating": 50.0,
         "monthly_visits": 3000,
-        "submission_experience": "",
+        "submission_experience": "Good",
         "pricing": "Paid"
     },
     {

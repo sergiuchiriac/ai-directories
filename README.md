@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 140
+ ### Total directories: 142
 
  
 
@@ -91,6 +91,7 @@
 | Every AI | [Every AI](https://every-ai.com) | [Submit](https://every-ai.com/submit-tool/) | 7 | 100 |  |  |
 | Faind AI | [Faind AI](https://faind.ai/?ref=aidirectori.es) | [Submit](https://faind.ai/submit-a-tool/?ref=aidirectori.es) | 10 | 5000 | **🔴 Bad** | **🟢 Free** |
 | Fazier | [Fazier](https://fazier.com/?ref=aidirectori.es) | [Submit](https://fazier.com/submit?ref=aidirectori.es) | 5 | 5000 | **🟢 Good** | **🟢 Free** |
+| Find Cool Tools | [Find Cool Tools](https://findcool.tools?ref=aidirectori.es) | [Submit](https://findcool.tools?ref=aidirectori.es) | 10 | 2300 | **🟢 Good** | **🟢 Free** |
 | Find My AI Tool | [Find My AI Tool](https://findmyaitool.com/?ref=aidirectori.es) | [Submit](https://findmyaitool.com/submit-tool/?ref=aidirectori.es) | 36 | 69000 | **🟢 Good** | **🔴 Paid** |
 | First 100 users | [First 100 users](https://www.first100users.com/?ref=aidirectori.es) | [Submit](https://www.first100users.com/submit/?ref=aidirectori.es) | 18 | 200 | **🟢 Good** | **🟢 Free** |
 | Flip Bytes | [Flip Bytes](https://www.flipbytes.com/?ref=aidirectori.es) | [Submit](https://www.flipbytes.com/?ref=aidirectori.es) | 10 | 70 |  |  |
@@ -111,6 +112,7 @@
 | Insanely Cool Tools | [Insanely Cool Tools](https://www.insanelycooltools.com/?ref=aidirectori.es) | [Submit](https://tally.so/r/31kxN1) | 35 | 8400 | **🟢 Good** | **🟢 Free** |
 | Insidr AI | [Insidr AI](https://www.insidr.ai/) | [Submit](https://www.insidr.ai/submit-tools/) | 15 | 100000 | **🟢 Good** | **🔴 Paid** |
 | Instant | [Instant](https://instantai.io/) | [Submit](https://instantai.io/submit-listing/) | 15 | 35000 | **🔴 Bad** |  |
+| Io Directory | [Io Directory](https://yo.directory/?ref=aidirectori.es) | [Submit](https://yo.directory/?ref=aidirectori.es) | 35 | 8400 | **🟢 Good** | **🟢 Free** |
 | Joinly | [Joinly](https://www.joinly.xyz/) | [Submit](https://www.joinly.xyz/submit-startup) | 25 | 5000 | **🟢 Good** | **🔴 Paid** |
 | Launched | [Launched](https://launched.io/) | [Submit](https://launched.io/SubmitStartup) | 38 | 2400 | **🟢 Good** | **🟢 Free** |
 | Launching Next | [Launching Next](https://www.launchingnext.com/) | [Submit](https://www.launchingnext.com/submit/) | 51 | 13000 | **🟢 Good** | **🟢 Free** |
@@ -134,7 +136,7 @@
 | Software World | [Software World](https://softwareworld.co/) | [Submit](https://softwareworld.co/get-listed/) | 75 | 65000 | **🟢 Good** | **🟢 Free** |
 | spsFeed | [spsFeed](https://spsfeed.com/) | [Submit](https://spsfeed.com/) | 0 | 0 | **🟢 Good** | **🟢 Free** |
 | Startup AI Tools | [Startup AI Tools](https://www.startups.fyi/) | [Submit](https://tally.so/r/3lOGLk) | 22 | 13000 | **🟢 Good** | **🟢 Free** |
-| Startup Base | [Startup Base](https://startupbase.io/) | [Submit](https://startupbase.io/promote) | 50 | 3000 |  | **🔴 Paid** |
+| Startup Base | [Startup Base](https://startupbase.io/?ref=aidirectori.es) | [Submit](https://startupbase.io/submissions/start?ref=aidirectori.es) | 50 | 3000 | **🟢 Good** | **🔴 Paid** |
 | Startup Buffer | [Startup Buffer](https://startupbuffer.com/) | [Submit](https://startupbuffer.com/site/submit) | 36 | 16000 | **🟢 Good** | **🟢 Free** |
 | Startup Stash | [Startup Stash](https://startupstash.com/) | [Submit](https://startupstash.com/add-listing/) | 65 | 370000 | **🟢 Good** | **🔴 Paid** |
 | Startups.fyi | [Startups.fyi](https://www.startups.fyi/?ref=aidirectori.es) | [Submit](https://tally.so/r/3lOGLk) | 25 | 13000 | **🟢 Good** | **🟢 Free** |
