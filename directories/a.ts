@@ -407,6 +407,15 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
+        "name": "Ankore",
+        "link": "https://ankore.io?ref=aidirectori.es",
+        "submission_link": "https://ankore.io/submit/?ref=aidirectori.es",
+        "domain_rating": 0.4,
+        "monthly_visits": 1500,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
         "name": "Apps and Websites",
         "link": "https://appsandwebsites.com/",
         "submission_link": "https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html",

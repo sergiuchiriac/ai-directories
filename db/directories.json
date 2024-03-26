@@ -1,5 +1,5 @@
 {
-"count": 142,
+"count": 145,
 "data": [
     {
         "name": "Open Tools",
@@ -525,6 +525,15 @@
         "monthly_visits": 4000,
         "submission_experience": "Bad",
         "pricing": ""
+    },
+    {
+        "name": "Ankore",
+        "link": "https://ankore.io?ref=aidirectori.es",
+        "submission_link": "https://ankore.io/submit/?ref=aidirectori.es",
+        "domain_rating": 0.4,
+        "monthly_visits": 1500,
+        "submission_experience": "Good",
+        "pricing": "Paid"
     },
     {
         "name": "Apps and Websites",
@@ -1094,6 +1103,15 @@
         "pricing": "Free"
     },
     {
+        "name": "SaasWorthy",
+        "link": "https://www.saasworthy.com/?ref=aidirectori.es",
+        "submission_link": "https://mailchi.mp/caea48b0c7ac/saasworthy-product-listing",
+        "domain_rating": 72,
+        "monthly_visits": 172000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Sick Tools",
         "link": "https://www.sick.tools/",
         "submission_link": "https://tally.so/r/wvY09d",
@@ -1153,6 +1171,15 @@
         "submission_link": "https://startupbuffer.com/site/submit",
         "domain_rating": 36,
         "monthly_visits": 16000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Startup Stage",
+        "link": "https://startupstage.app/?ref=aidirectori.es",
+        "submission_link": "https://startupstage.app/startups/new?ref=aidirectori.es",
+        "domain_rating": 25,
+        "monthly_visits": 3000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

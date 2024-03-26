@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 142
+ ### Total directories: 145
 
  
 
@@ -68,6 +68,7 @@
 | Alternative | [Alternative](https://alternative.me/) | [Submit](https://alternative.me/how-to/submit-software/) | 77 | 2000000 | **🔴 Bad** | **🟢 Free** |
 | Alternatives.co | [Alternatives.co](https://alternatives.co/software/ai-tools/) | [Submit](https://alternatives.co/software/ai-tools/) | 12 | 19000 | **🔴 Bad** |  |
 | Amaete AI | [Amaete AI](https://www.amaete.ai/) | [Submit](https://www.amaete.ai/) | 11 | 4000 | **🔴 Bad** |  |
+| Ankore | [Ankore](https://ankore.io?ref=aidirectori.es) | [Submit](https://ankore.io/submit/?ref=aidirectori.es) | 0.4 | 1500 | **🟢 Good** | **🔴 Paid** |
 | Apps and Websites | [Apps and Websites](https://appsandwebsites.com/) | [Submit](https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html) | 18 | 6000 | **🟢 Good** | **🟢 Free** |
 | AppSumo | [AppSumo](https://appsumo.com/) | [Submit](https://appsumo.com/) | 82 | 3300000 |  |  |
 | Ben’s Bites News | [Ben’s Bites News](https://news.bensbites.co/) | [Submit](https://news.bensbites.co/) | 41 | 10000 | **🟢 Good** | **🔴 Paid** |
@@ -131,6 +132,7 @@
 | Saas AI Tools | [Saas AI Tools](https://saasaitools.com/) | [Submit](https://saasaitools.com/submit/) | 33 | 73000 | **🟢 Good** | **🟢 Free** |
 | SaasBaba | [SaasBaba](https://saasbaba.com/) | [Submit](https://saasbaba.com/add-ai-tool/) | 10 | 9000 | **🟢 Good** | **🟢 Free** |
 | SaasHub | [SaasHub](https://www.saashub.com/) | [Submit](https://www.saashub.com/submit) | 68 | 1600000 | **🟢 Good** | **🟢 Free** |
+| SaasWorthy | [SaasWorthy](https://www.saasworthy.com/?ref=aidirectori.es) | [Submit](https://mailchi.mp/caea48b0c7ac/saasworthy-product-listing) | 72 | 172000 | **🟢 Good** | **🟢 Free** |
 | Sick Tools | [Sick Tools](https://www.sick.tools/) | [Submit](https://tally.so/r/wvY09d) | 0 | 100 | **🟢 Good** | **🟢 Free** |
 | Software Suggest | [Software Suggest](https://www.softwaresuggest.com/) | [Submit](https://www.softwaresuggest.com/artificial-intelligence-software) | 40 | 561000 | **🔴 Bad** |  |
 | Software World | [Software World](https://softwareworld.co/) | [Submit](https://softwareworld.co/get-listed/) | 75 | 65000 | **🟢 Good** | **🟢 Free** |
@@ -138,6 +140,7 @@
 | Startup AI Tools | [Startup AI Tools](https://www.startups.fyi/) | [Submit](https://tally.so/r/3lOGLk) | 22 | 13000 | **🟢 Good** | **🟢 Free** |
 | Startup Base | [Startup Base](https://startupbase.io/?ref=aidirectori.es) | [Submit](https://startupbase.io/submissions/start?ref=aidirectori.es) | 50 | 3000 | **🟢 Good** | **🔴 Paid** |
 | Startup Buffer | [Startup Buffer](https://startupbuffer.com/) | [Submit](https://startupbuffer.com/site/submit) | 36 | 16000 | **🟢 Good** | **🟢 Free** |
+| Startup Stage | [Startup Stage](https://startupstage.app/?ref=aidirectori.es) | [Submit](https://startupstage.app/startups/new?ref=aidirectori.es) | 25 | 3000 | **🟢 Good** | **🟢 Free** |
 | Startup Stash | [Startup Stash](https://startupstash.com/) | [Submit](https://startupstash.com/add-listing/) | 65 | 370000 | **🟢 Good** | **🔴 Paid** |
 | Startups.fyi | [Startups.fyi](https://www.startups.fyi/?ref=aidirectori.es) | [Submit](https://tally.so/r/3lOGLk) | 25 | 13000 | **🟢 Good** | **🟢 Free** |
 | Super Tools | [Super Tools](https://supertools.therundown.ai/) | [Submit](https://supertools.therundown.ai/submit) | 20 | 380000 | **🟢 Good** | **🟢 Free** |

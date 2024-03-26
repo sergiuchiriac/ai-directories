@@ -29,6 +29,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "SaasWorthy",
+        "link": "https://www.saasworthy.com/?ref=aidirectori.es",
+        "submission_link": "https://mailchi.mp/caea48b0c7ac/saasworthy-product-listing",
+        "domain_rating": 72,
+        "monthly_visits": 172000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Sick Tools",
         "link": "https://www.sick.tools/",
         "submission_link": "https://tally.so/r/wvY09d",
@@ -97,6 +106,15 @@ export const directories: Directory[] = [
         "submission_link": "https://tally.so/r/3lOGLk",
         "domain_rating": 25,
         "monthly_visits": 13000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Startup Stage",
+        "link": "https://startupstage.app/?ref=aidirectori.es",
+        "submission_link": "https://startupstage.app/startups/new?ref=aidirectori.es",
+        "domain_rating": 25,
+        "monthly_visits": 3000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
