@@ -533,7 +533,9 @@
         "domain_rating": 0.4,
         "monthly_visits": 1500,
         "submission_experience": "Good",
-        "pricing": "Paid"
+        "pricing": "Paid",
+        "dealCode": "AID40",
+        "dealText": "40% Discount"
     },
     {
         "name": "Apps and Websites",
