@@ -263,15 +263,6 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
-        "name": "AI Top Rank",
-        "link": "https://aitoprank.com/?ref=aidirectories",
-        "submission_link": "https://aitoprank.com/?ref=aidirectories",
-        "domain_rating": 8,
-        "monthly_visits": 5000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
         "name": "AI tools for Marketing",
         "link": "https://airadar.getinference.com/",
         "submission_link": "https://airadar.getinference.com/",

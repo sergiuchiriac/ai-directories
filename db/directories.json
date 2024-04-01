@@ -1,5 +1,5 @@
 {
-"count": 144,
+"count": 143,
 "data": [
     {
         "name": "Open Tools",
@@ -84,6 +84,15 @@
         "pricing": "Paid",
         "dealCode": "AIDIR40",
         "dealText": "40% Discount"
+    },
+    {
+        "name": "AI Top Rank",
+        "link": "https://aitoprank.com/?ref=aidirectories",
+        "submission_link": "https://aitoprank.com/?ref=aidirectories",
+        "domain_rating": 10,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "100 AI Apps",
@@ -444,15 +453,6 @@
         "monthly_visits": 5800,
         "submission_experience": "",
         "pricing": "Paid"
-    },
-    {
-        "name": "AI Top Rank",
-        "link": "https://aitoprank.com/?ref=aidirectories",
-        "submission_link": "https://aitoprank.com/?ref=aidirectories",
-        "domain_rating": 8,
-        "monthly_visits": 5000,
-        "submission_experience": "Good",
-        "pricing": "Free"
     },
     {
         "name": "AI trendz",
