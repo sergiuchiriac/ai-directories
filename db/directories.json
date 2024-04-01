@@ -1,5 +1,5 @@
 {
-"count": 145,
+"count": 144,
 "data": [
     {
         "name": "Open Tools",
@@ -542,9 +542,7 @@
         "domain_rating": 0.4,
         "monthly_visits": 1500,
         "submission_experience": "Good",
-        "pricing": "Paid",
-        "dealCode": "AID40",
-        "dealText": "40% Discount"
+        "pricing": "Paid"
     },
     {
         "name": "Apps and Websites",
@@ -887,15 +885,6 @@
         "monthly_visits": 300000,
         "submission_experience": "",
         "pricing": ""
-    },
-    {
-        "name": "Human or Not",
-        "link": "https://www.humanornot.co/?ref=aidirectori.es",
-        "submission_link": "https://www.humanornot.co/submit-tool?ref=aidirectori.es",
-        "domain_rating": 1,
-        "monthly_visits": 10000,
-        "submission_experience": "Good",
-        "pricing": "Free"
     },
     {
         "name": "I Lib",
