@@ -25,6 +25,7 @@ export const directories: Directory[] = [
         "submission_link": "https://productivity.directory/s/submit",
         "domain_rating": 27,
         "monthly_visits": 42000,
+        "submission_experience": "Good",
         "pricing": "Free"
     },
 ]

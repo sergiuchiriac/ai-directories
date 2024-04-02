@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 145
+ ### Total directories: 144
 
  
 
@@ -58,7 +58,6 @@
 | AI Tools Up | [AI Tools Up](https://aitoolsup.com/?ref=aidirectori.es) | [Submit](https://aitoolsup.com/submit-tool/?ref=aidirectori.es) | 2 | 700 | **🟢 Good** | **🟢 Free** |
 | AI Tools Wiki | [AI Tools Wiki](https://aitoolswiki.com/) | [Submit](https://aitoolswiki.com/contact-us/) | 10 | 9000 | **🔴 Bad** |  |
 | AI Top Picks | [AI Top Picks](https://www.aitoppicks.com/?ref=aidirectori.es) | [Submit](https://www.aitoppicks.com/?ref=aidirectori.es) | 10 | 5800 |  | **🔴 Paid** |
-| AI Top Rank | [AI Top Rank](https://aitoprank.com/?ref=aidirectories) | [Submit](https://aitoprank.com/?ref=aidirectories) | 8 | 5000 | **🟢 Good** | **🟢 Free** |
 | AI trendz | [AI trendz](https://aitrendz.xyz/?ref=aidirectories) | [Submit](https://aitrendz.xyz/submit-ai-link/?ref=aidirectories) | 8 | 90 |  | **🔴 Paid** |
 | AI Wizard | [AI Wizard](https://www.aiwizard.ai/?ref=aidirectories) | [Submit](https://www.aiwizard.ai/submit?ref=aidirectories) | 10 | 5000 |  | **🔴 Paid** |
 | AIX Collection | [AIX Collection](https://aixcollection.com/?ref=aidirectories) | [Submit](https://aixcollection.com/submit?ref=aidirectories) | 10 | 100 | **🟢 Good** | **🟢 Free** |
@@ -107,7 +106,6 @@
 | GPTE | [GPTE](https://gpte.ai/?ref=aidirectories) | [Submit](https://gpte.ai/submit-a-tool/?ref=aidirectories) | 31 | 1400000 |  | **🔴 Paid** |
 | GPTs Hunter | [GPTs Hunter](https://www.gptshunter.com/?ref=aidirectori.es) | [Submit](https://www.gptshunter.com/submit-gpt?ref=aidirectori.es) | 59 | 400000 | **🟢 Good** | **🟢 Free** |
 | Hacker News | [Hacker News](https://hackernews.com/) | [Submit](https://hackernews.com/) | 44 | 300000 |  |  |
-| Human or Not | [Human or Not](https://www.humanornot.co/?ref=aidirectori.es) | [Submit](https://www.humanornot.co/submit-tool?ref=aidirectori.es) | 1 | 10000 | **🟢 Good** | **🟢 Free** |
 | I Lib | [I Lib](https://www.ilib.com/) | [Submit](https://www.ilib.com/) | 10 | 200 | **🟢 Good** | **🟢 Free** |
 | Igniter | [Igniter](https://www.igniter.ai/) | [Submit](https://haroonchoudery499974.typeform.com/to/FpdvtLml?typeform-source=www.igniter.ai) | 10 | 100 | **🔴 Bad** |  |
 | Insanely Cool Tools | [Insanely Cool Tools](https://www.insanelycooltools.com/?ref=aidirectori.es) | [Submit](https://tally.so/r/31kxN1) | 35 | 8400 | **🟢 Good** | **🟢 Free** |
@@ -129,6 +127,7 @@
 | Open Future | [Open Future](https://openfuture.ai/?ref=aidirectori.es) | [Submit](https://openfuture.ai/submit-tool/?ref=aidirectori.es) | 31 | 496000 | **🟢 Good** | **🟢 Free** |
 | Post Make | [Post Make](https://postmake.io/) | [Submit](https://postmake.io/submit) | 29 | 10000 |  | **🔴 Paid** |
 | Product Hunt | [Product Hunt](https://www.producthunt.com/) | [Submit](https://www.producthunt.com/posts/new) | 75 | 6000000 | **🟢 Good** | **🟢 Free** |
+| Productivity Directory | [Productivity Directory](https://productivity.directory/) | [Submit](https://productivity.directory/s/submit) | 27 | 42000 | **🟢 Good** | **🟢 Free** |
 | Saas AI Tools | [Saas AI Tools](https://saasaitools.com/) | [Submit](https://saasaitools.com/submit/) | 33 | 73000 | **🟢 Good** | **🟢 Free** |
 | SaasBaba | [SaasBaba](https://saasbaba.com/) | [Submit](https://saasbaba.com/add-ai-tool/) | 10 | 9000 | **🟢 Good** | **🟢 Free** |
 | SaasHub | [SaasHub](https://www.saashub.com/) | [Submit](https://www.saashub.com/submit) | 68 | 1600000 | **🟢 Good** | **🟢 Free** |

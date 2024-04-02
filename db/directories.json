@@ -1,5 +1,5 @@
 {
-"count": 143,
+"count": 144,
 "data": [
     {
         "name": "Open Tools",
@@ -1072,6 +1072,15 @@
         "submission_link": "https://www.producthunt.com/posts/new",
         "domain_rating": 75,
         "monthly_visits": 6000000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Productivity Directory",
+        "link": "https://productivity.directory/",
+        "submission_link": "https://productivity.directory/s/submit",
+        "domain_rating": 27,
+        "monthly_visits": 42000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
