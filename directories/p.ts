@@ -19,4 +19,12 @@ export const directories: Directory[] = [
         "submission_experience": "Good",
         "pricing": "Free"
     },
+    {
+        "name": "Productivity Directory",
+        "link": "https://productivity.directory/",
+        "submission_link": "https://productivity.directory/s/submit",
+        "domain_rating": 27,
+        "monthly_visits": 42000,
+        "pricing": "Free"
+    },
 ]
