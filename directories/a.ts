@@ -380,6 +380,15 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
+        "name": "Altern",
+        "link": "https://altern.ai",
+        "submission_link": "https://altern.ai/submit/",
+        "domain_rating": 25.0,
+        "monthly_visits": 180000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "All Startups Info",
         "link": "https://www.allstartups.info/?ref=aidirectori.es",
         "submission_link": "https://www.allstartups.info/Startups/Submit/?ref=aidirectori.es",
