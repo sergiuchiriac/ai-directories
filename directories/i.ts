@@ -47,6 +47,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "Invent List",
+        "link": "https://inventlist.com/?ref=aidirectori.es",
+        "submission_link": "https://inventlist.com/sites/new?ref=aidirectori.es",
+        "domain_rating": 0,
+        "monthly_visits": 200,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Io Directory",
         "link": "https://yo.directory/?ref=aidirectori.es",
         "submission_link": "https://yo.directory/?ref=aidirectori.es",
