@@ -380,6 +380,24 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
+        "name": "Altern AI",
+        "link": "https://altern.ai/?ref=aidirectori.es",
+        "submission_link": "https://altern.ai/dash/submit?ref=aidirectori.es",
+        "domain_rating": 25,
+        "monthly_visits": 180000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "AlternativeTo",
+        "link": "https://alternativeto.net/?ref=aidirectori.es",
+        "submission_link": "https://alternativeto.net/manage-item/?ref=aidirectori.es",
+        "domain_rating": 80,
+        "monthly_visits": 1300000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "All Startups Info",
         "link": "https://www.allstartups.info/?ref=aidirectori.es",
         "submission_link": "https://www.allstartups.info/Startups/Submit/?ref=aidirectori.es",

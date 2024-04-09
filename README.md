@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 144
+ ### Total directories: 146
 
  
 
@@ -64,8 +64,10 @@
 | All Startups Info | [All Startups Info](https://www.allstartups.info/?ref=aidirectori.es) | [Submit](https://www.allstartups.info/Startups/Submit/?ref=aidirectori.es) | 33 | 99 | **🔴 Bad** | **🟢 Free** |
 | All things AI | [All things AI](https://allthingsai.com/?ref=aidirectories) | [Submit](https://allthingsai.com/submit?ref=aidirectories) | 27 | 500000 | **🔴 Bad** |  |
 | All Top Startups | [All Top Startups](https://alltopstartups.com/) | [Submit](https://alltopstartups.com/submit-startup/) | 64 | 70000 |  | **🔴 Paid** |
+| Altern AI | [Altern AI](https://altern.ai/?ref=aidirectori.es) | [Submit](https://altern.ai/dash/submit?ref=aidirectori.es) | 25 | 180000 | **🟢 Good** | **🟢 Free** |
 | Alternative | [Alternative](https://alternative.me/) | [Submit](https://alternative.me/how-to/submit-software/) | 77 | 2000000 | **🔴 Bad** | **🟢 Free** |
 | Alternatives.co | [Alternatives.co](https://alternatives.co/software/ai-tools/) | [Submit](https://alternatives.co/software/ai-tools/) | 12 | 19000 | **🔴 Bad** |  |
+| AlternativeTo | [AlternativeTo](https://alternativeto.net/?ref=aidirectori.es) | [Submit](https://alternativeto.net/manage-item/?ref=aidirectori.es) | 80 | 1300000 | **🟢 Good** | **🟢 Free** |
 | Amaete AI | [Amaete AI](https://www.amaete.ai/) | [Submit](https://www.amaete.ai/) | 11 | 4000 | **🔴 Bad** |  |
 | Ankore | [Ankore](https://ankore.io?ref=aidirectori.es) | [Submit](https://ankore.io/submit/?ref=aidirectori.es) | 0.4 | 1500 | **🟢 Good** | **🔴 Paid** |
 | Apps and Websites | [Apps and Websites](https://appsandwebsites.com/) | [Submit](https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html) | 18 | 6000 | **🟢 Good** | **🟢 Free** |
