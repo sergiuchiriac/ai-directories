@@ -113,6 +113,7 @@
 | Insanely Cool Tools | [Insanely Cool Tools](https://www.insanelycooltools.com/?ref=aidirectori.es) | [Submit](https://tally.so/r/31kxN1) | 35 | 8400 | **🟢 Good** | **🟢 Free** |
 | Insidr AI | [Insidr AI](https://www.insidr.ai/) | [Submit](https://www.insidr.ai/submit-tools/) | 15 | 100000 | **🟢 Good** | **🔴 Paid** |
 | Instant | [Instant](https://instantai.io/) | [Submit](https://instantai.io/submit-listing/) | 15 | 35000 | **🔴 Bad** |  |
+| Invent List | [Invent List](https://inventlist.com/?ref=aidirectori.es) | [Submit](https://inventlist.com/sites/new?ref=aidirectori.es) | 0 | 200 | **🟢 Good** | **🟢 Free** |
 | Io Directory | [Io Directory](https://yo.directory/?ref=aidirectori.es) | [Submit](https://yo.directory/?ref=aidirectori.es) | 35 | 8400 | **🟢 Good** | **🟢 Free** |
 | Joinly | [Joinly](https://www.joinly.xyz/) | [Submit](https://www.joinly.xyz/submit-startup) | 25 | 5000 | **🟢 Good** | **🔴 Paid** |
 | Launched | [Launched](https://launched.io/) | [Submit](https://launched.io/SubmitStartup) | 38 | 2400 | **🟢 Good** | **🟢 Free** |
@@ -148,7 +149,6 @@
 | That AI Collection | [That AI Collection](https://github.com/ai-collection/ai-collection) | [Submit](https://www.thataicollection.com/submit/) | 32 | 34000 | **🔴 Bad** | **🟢 Free** |
 | The ai Generation | [The ai Generation](https://www.theaigeneration.com/) | [Submit](https://www.theaigeneration.com/add/) | 11 | 77000 | **🟢 Good** | **🟢 Free** |
 | The Hack Stack | [The Hack Stack](https://thehackstack.com/) | [Submit](https://thehackstack.com/register) | 10 | 5000 | **🔴 Bad** | **🟢 Free** |
-| There is an AI for that | [There is an AI for that](https://theresanaiforthat.com/) | [Submit](https://theresanaiforthat.com/get-featured/#opt_submit) | 75 | 3200000 | **🟢 Good** | **🔴 Paid** |
 | Tiny Startups | [Tiny Startups](https://www.tinystartups.co/?ref=aidirectori.es) | [Submit](https://tally.so/r/wMzP8X) | 4.4 | 100 | **🟢 Good** | **🟢 Free** |
 | TipSeason | [TipSeason](https://tipseason.com/ai-tools?ref=aidirectori.es) | [Submit](https://tipseason.com/ai-tools/submit) | 27 | 30000 | **🟢 Good** | **🟢 Free** |
 | Tool Directory | [Tool Directory](https://tooldirectory.ai/?ref=aidirectori.es) | [Submit](https://https://tooldirectory.ai/submit-tool?ref=aidirectori.es) | 50 | 4000 | **🟢 Good** | **🟢 Free** |

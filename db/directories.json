@@ -86,6 +86,15 @@
         "pricing": "Free"
     },
     {
+        "name": "There's An AI For That",
+        "link": "https://theresanaiforthat.com?via=aidirectories",
+        "submission_link": "https://theresanaiforthat.com/get-featured/#opt_submit?via=aidirectories",
+        "domain_rating": 75,
+        "monthly_visits": 5400000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
         "name": "100 AI Apps",
         "link": "https://100apps.org/?ref=aidirectori.es",
         "submission_link": "https://100apps.org/?ref=aidirectori.es",
@@ -941,6 +950,15 @@
         "pricing": ""
     },
     {
+        "name": "Invent List",
+        "link": "https://inventlist.com/?ref=aidirectori.es",
+        "submission_link": "https://inventlist.com/sites/new?ref=aidirectori.es",
+        "domain_rating": 0,
+        "monthly_visits": 200,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Io Directory",
         "link": "https://yo.directory/?ref=aidirectori.es",
         "submission_link": "https://yo.directory/?ref=aidirectori.es",
@@ -1254,15 +1272,6 @@
         "monthly_visits": 5000,
         "submission_experience": "Bad",
         "pricing": "Free"
-    },
-    {
-        "name": "There is an AI for that",
-        "link": "https://theresanaiforthat.com/",
-        "submission_link": "https://theresanaiforthat.com/get-featured/#opt_submit",
-        "domain_rating": 75,
-        "monthly_visits": 3200000,
-        "submission_experience": "Good",
-        "pricing": "Paid"
     },
     {
         "name": "Tiny Startups",
