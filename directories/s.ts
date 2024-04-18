@@ -136,4 +136,13 @@ export const directories: Directory[] = [
         "submission_experience": "Good",
         "pricing": "Free"
     },
+    {
+        "name": "SideProjectors",
+        "link": "https://www.sideprojectors.com/?ref=aidirectori.es",
+        "submission_link": "https://www.sideprojectors.com/?ref=aidirectori.es",
+        "domain_rating": 67,
+        "monthly_visits": 52600,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
 ]

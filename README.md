@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 146
+ ### Total directories: 148
 
  
 
@@ -37,7 +37,6 @@
 | AI Lib | [AI Lib](https://ailib.ru/) | [Submit](https://ailib.ru/) | 23 | 119000 | **🟢 Good** | **🟢 Free** |
 | AI Library | [AI Library](https://library.phygital.plus/?ref=aidirectories) | [Submit](https://library.phygital.plus/tool-submission?ref=aidirectories) | 17 | 25000 | **🟢 Good** | **🟢 Free** |
 | AI Marketing | [AI Marketing](https://aimarketing.directory/) | [Submit](https://aimarketing.directory/submit) | 12 | 9600 | **🟢 Good** | **🟢 Free** |
-| AI News Guru | [AI News Guru](https://ainews.guru/apps/) | [Submit](https://ainews.guru/ai-app-submission/) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
 | AI scout | [AI scout](https://aiscout.net/ref=aidirectori.es) | [Submit](https://aiscout.net/submit-listing/details/ref=aidirectori.es) | 43 | 5000 | **🟢 Good** | **🔴 Paid** |
 | AI Search | [AI Search](https://ai-search.io) | [Submit](https://ai-search.io/submit) | 10 | 4000 | **🟢 Good** | **🟢 Free** |
 | AI Spree | [AI Spree](https://aispree.com/) | [Submit](https://aispree.com/) | 5 | 700 | **🔴 Bad** |  |
@@ -61,9 +60,9 @@
 | AI trendz | [AI trendz](https://aitrendz.xyz/?ref=aidirectories) | [Submit](https://aitrendz.xyz/submit-ai-link/?ref=aidirectories) | 8 | 90 |  | **🔴 Paid** |
 | AI Wizard | [AI Wizard](https://www.aiwizard.ai/?ref=aidirectories) | [Submit](https://www.aiwizard.ai/submit?ref=aidirectories) | 10 | 5000 |  | **🔴 Paid** |
 | AIX Collection | [AIX Collection](https://aixcollection.com/?ref=aidirectories) | [Submit](https://aixcollection.com/submit?ref=aidirectories) | 10 | 100 | **🟢 Good** | **🟢 Free** |
-| All Startups Info | [All Startups Info](https://www.allstartups.info/?ref=aidirectori.es) | [Submit](https://www.allstartups.info/Startups/Submit/?ref=aidirectori.es) | 33 | 99 | **🔴 Bad** | **🟢 Free** |
 | All things AI | [All things AI](https://allthingsai.com/?ref=aidirectories) | [Submit](https://allthingsai.com/submit?ref=aidirectories) | 27 | 500000 | **🔴 Bad** |  |
 | All Top Startups | [All Top Startups](https://alltopstartups.com/) | [Submit](https://alltopstartups.com/submit-startup/) | 64 | 70000 |  | **🔴 Paid** |
+| AllStartups Info | [AllStartups Info](https://www.allstartups.info/?ref=aidirectori.es) | [Submit](https://www.allstartups.info/Startups/Submit?ref=aidirectories) | 33 | 17000 | **🟢 Good** | **🟢 Free** |
 | Altern AI | [Altern AI](https://altern.ai/?ref=aidirectori.es) | [Submit](https://altern.ai/dash/submit?ref=aidirectori.es) | 25 | 180000 | **🟢 Good** | **🟢 Free** |
 | Alternative | [Alternative](https://alternative.me/) | [Submit](https://alternative.me/how-to/submit-software/) | 77 | 2000000 | **🔴 Bad** | **🟢 Free** |
 | Alternatives.co | [Alternatives.co](https://alternatives.co/software/ai-tools/) | [Submit](https://alternatives.co/software/ai-tools/) | 12 | 19000 | **🔴 Bad** |  |
@@ -128,14 +127,17 @@
 | Nextpedia | [Nextpedia](https://www.nextpedia.io/?ref=aidirecories) | [Submit](https://www.nextpedia.io/submit-tool/?ref=aidirecories) | 9 | 8000 | **🔴 Bad** |  |
 | One Hub AI | [One Hub AI](https://www.onehubai.com/) | [Submit](https://www.onehubai.com/) | 10 | 4600 | **🟢 Good** | **🔴 Paid** |
 | Open Future | [Open Future](https://openfuture.ai/?ref=aidirectori.es) | [Submit](https://openfuture.ai/submit-tool/?ref=aidirectori.es) | 31 | 496000 | **🟢 Good** | **🟢 Free** |
+| PitchWall | [PitchWall](https://pitchwall.co/?ref=aidirectories) | [Submit](https://pitchwall.co/product/submit?ref=aidirectories) | 64 | 59000 | **🟢 Good** | **🟢 Free** |
 | Post Make | [Post Make](https://postmake.io/) | [Submit](https://postmake.io/submit) | 29 | 10000 |  | **🔴 Paid** |
 | Product Hunt | [Product Hunt](https://www.producthunt.com/) | [Submit](https://www.producthunt.com/posts/new) | 75 | 6000000 | **🟢 Good** | **🟢 Free** |
 | Productivity Directory | [Productivity Directory](https://productivity.directory/) | [Submit](https://productivity.directory/s/submit) | 27 | 42000 | **🟢 Good** | **🟢 Free** |
+| Robingood | [Robingood](https://tools.robingood.com/?ref=aidirecori.es) | [Submit](https://tools.robingood.com/?ref=aidirecori.es) | 33 | 5600 | **🟢 Good** | **🟢 Free** |
 | Saas AI Tools | [Saas AI Tools](https://saasaitools.com/) | [Submit](https://saasaitools.com/submit/) | 33 | 73000 | **🟢 Good** | **🟢 Free** |
 | SaasBaba | [SaasBaba](https://saasbaba.com/) | [Submit](https://saasbaba.com/add-ai-tool/) | 10 | 9000 | **🟢 Good** | **🟢 Free** |
 | SaasHub | [SaasHub](https://www.saashub.com/) | [Submit](https://www.saashub.com/submit) | 68 | 1600000 | **🟢 Good** | **🟢 Free** |
 | SaasWorthy | [SaasWorthy](https://www.saasworthy.com/?ref=aidirectori.es) | [Submit](https://mailchi.mp/caea48b0c7ac/saasworthy-product-listing) | 72 | 172000 | **🟢 Good** | **🟢 Free** |
 | Sick Tools | [Sick Tools](https://www.sick.tools/) | [Submit](https://tally.so/r/wvY09d) | 0 | 100 | **🟢 Good** | **🟢 Free** |
+| SideProjectors | [SideProjectors](https://www.sideprojectors.com/?ref=aidirectori.es) | [Submit](https://www.sideprojectors.com/?ref=aidirectori.es) | 67 | 52600 | **🟢 Good** | **🟢 Free** |
 | Software Suggest | [Software Suggest](https://www.softwaresuggest.com/) | [Submit](https://www.softwaresuggest.com/artificial-intelligence-software) | 40 | 561000 | **🔴 Bad** |  |
 | Software World | [Software World](https://softwareworld.co/) | [Submit](https://softwareworld.co/get-listed/) | 75 | 65000 | **🟢 Good** | **🟢 Free** |
 | spsFeed | [spsFeed](https://spsfeed.com/) | [Submit](https://spsfeed.com/) | 0 | 0 | **🟢 Good** | **🟢 Free** |

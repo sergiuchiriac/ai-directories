@@ -128,15 +128,6 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
-        "name": "AI News Guru",
-        "link": "https://ainews.guru/apps/",
-        "submission_link": "https://ainews.guru/ai-app-submission/",
-        "domain_rating": 10.0,
-        "monthly_visits": 5000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
         "name": "AI scout",
         "link": "https://aiscout.net/ref=aidirectori.es",
         "submission_link": "https://aiscout.net/submit-listing/details/ref=aidirectori.es",
@@ -362,6 +353,15 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
+        "name": "AllStartups Info",
+        "link": "https://www.allstartups.info/?ref=aidirectori.es",
+        "submission_link": "https://www.allstartups.info/Startups/Submit?ref=aidirectories",
+        "domain_rating": 33,
+        "monthly_visits": 17000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Alternative",
         "link": "https://alternative.me/",
         "submission_link": "https://alternative.me/how-to/submit-software/",
@@ -395,15 +395,6 @@ export const directories: Directory[] = [
         "domain_rating": 80,
         "monthly_visits": 1300000,
         "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "All Startups Info",
-        "link": "https://www.allstartups.info/?ref=aidirectori.es",
-        "submission_link": "https://www.allstartups.info/Startups/Submit/?ref=aidirectori.es",
-        "domain_rating": 33,
-        "monthly_visits": 99,
-        "submission_experience": "Bad",
         "pricing": "Free"
     },
     {

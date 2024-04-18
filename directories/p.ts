@@ -28,4 +28,13 @@ export const directories: Directory[] = [
         "submission_experience": "Good",
         "pricing": "Free"
     },
+    {
+        "name": "PitchWall",
+        "link": "https://pitchwall.co/?ref=aidirectories",
+        "submission_link": "https://pitchwall.co/product/submit?ref=aidirectories",
+        "domain_rating": 64,
+        "monthly_visits": 59000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
 ]

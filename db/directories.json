@@ -1,5 +1,5 @@
 {
-"count": 146,
+"count": 148,
 "data": [
     {
         "name": "Open Tools",
@@ -266,15 +266,6 @@
         "pricing": "Free"
     },
     {
-        "name": "AI News Guru",
-        "link": "https://ainews.guru/apps/",
-        "submission_link": "https://ainews.guru/ai-app-submission/",
-        "domain_rating": 10,
-        "monthly_visits": 5000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
         "name": "AI scout",
         "link": "https://aiscout.net/ref=aidirectori.es",
         "submission_link": "https://aiscout.net/submit-listing/details/ref=aidirectori.es",
@@ -482,15 +473,6 @@
         "pricing": "Free"
     },
     {
-        "name": "All Startups Info",
-        "link": "https://www.allstartups.info/?ref=aidirectori.es",
-        "submission_link": "https://www.allstartups.info/Startups/Submit/?ref=aidirectori.es",
-        "domain_rating": 33,
-        "monthly_visits": 99,
-        "submission_experience": "Bad",
-        "pricing": "Free"
-    },
-    {
         "name": "All things AI",
         "link": "https://allthingsai.com/?ref=aidirectories",
         "submission_link": "https://allthingsai.com/submit?ref=aidirectories",
@@ -507,6 +489,15 @@
         "monthly_visits": 70000,
         "submission_experience": "",
         "pricing": "Paid"
+    },
+    {
+        "name": "AllStartups Info",
+        "link": "https://www.allstartups.info/?ref=aidirectori.es",
+        "submission_link": "https://www.allstartups.info/Startups/Submit?ref=aidirectories",
+        "domain_rating": 33,
+        "monthly_visits": 17000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "Altern AI",
@@ -1085,6 +1076,15 @@
         "pricing": "Free"
     },
     {
+        "name": "PitchWall",
+        "link": "https://pitchwall.co/?ref=aidirectories",
+        "submission_link": "https://pitchwall.co/product/submit?ref=aidirectories",
+        "domain_rating": 64,
+        "monthly_visits": 59000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Post Make",
         "link": "https://postmake.io/",
         "submission_link": "https://postmake.io/submit",
@@ -1108,6 +1108,15 @@
         "submission_link": "https://productivity.directory/s/submit",
         "domain_rating": 27,
         "monthly_visits": 42000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Robingood",
+        "link": "https://tools.robingood.com/?ref=aidirecori.es",
+        "submission_link": "https://tools.robingood.com/?ref=aidirecori.es",
+        "domain_rating": 33,
+        "monthly_visits": 5600,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -1153,6 +1162,15 @@
         "submission_link": "https://tally.so/r/wvY09d",
         "domain_rating": 0,
         "monthly_visits": 100,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "SideProjectors",
+        "link": "https://www.sideprojectors.com/?ref=aidirectori.es",
+        "submission_link": "https://www.sideprojectors.com/?ref=aidirectori.es",
+        "domain_rating": 67,
+        "monthly_visits": 52600,
         "submission_experience": "Good",
         "pricing": "Free"
     },
