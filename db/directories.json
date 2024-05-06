@@ -1,5 +1,5 @@
 {
-"count": 148,
+"count": 153,
 "data": [
     {
         "name": "Open Tools",
@@ -183,6 +183,15 @@
         "monthly_visits": 5700,
         "submission_experience": "Bad",
         "pricing": ""
+    },
+    {
+        "name": "AI Dude Info",
+        "link": "https://www.aiwizard.ai/?ref=aidirectories",
+        "submission_link": "https://aidude.info/submit-your-tool?ref=aidirectories",
+        "domain_rating": 13,
+        "monthly_visits": 84700,
+        "submission_experience": "Good",
+        "pricing": "Paid"
     },
     {
         "name": "AI Explorer",
@@ -563,6 +572,15 @@
         "pricing": "Free"
     },
     {
+        "name": "Appscriber",
+        "link": "https://appscribed.com/",
+        "submission_link": "https://appscribed.com/product-list/?ref=aidirectori.es",
+        "domain_rating": 34,
+        "monthly_visits": 42100,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "AppSumo",
         "link": "https://appsumo.com/",
         "submission_link": "https://appsumo.com/",
@@ -577,6 +595,15 @@
         "submission_link": "https://news.bensbites.co/",
         "domain_rating": 41,
         "monthly_visits": 10000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
+        "name": "Best AI To",
+        "link": "https://bestaito.com/?ref=aidirectori.es",
+        "submission_link": "https://bestaito.com/submit-a-ai-tool/?ref=aidirectori.es",
+        "domain_rating": 12,
+        "monthly_visits": 162000,
         "submission_experience": "Good",
         "pricing": "Paid"
     },
@@ -624,6 +651,15 @@
         "monthly_visits": 5000,
         "submission_experience": "Bad",
         "pricing": ""
+    },
+    {
+        "name": "Creator Supply",
+        "link": "https://creator.supply/?ref=aidirecori.es",
+        "submission_link": "https://kevinbhagat.lemonsqueezy.com/buy/6747a484-e8ee-4302-a90a-af378cc72678/?ref=aidirecori.es",
+        "domain_rating": 21,
+        "monthly_visits": 1000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "Crozdesk",
@@ -705,15 +741,6 @@
         "monthly_visits": 45000,
         "submission_experience": "Bad",
         "pricing": "Paid"
-    },
-    {
-        "name": "Draeno",
-        "link": "https://draeno.io/",
-        "submission_link": "https://draeno.io/submit-a-tool/",
-        "domain_rating": 17,
-        "monthly_visits": 40000,
-        "submission_experience": "Good",
-        "pricing": "Free"
     },
     {
         "name": "Easy with AI",
@@ -1112,6 +1139,15 @@
         "pricing": "Free"
     },
     {
+        "name": "Resource fyi",
+        "link": "https://resource.fyi/?ref=aidirecori.es",
+        "submission_link": "https://resource.fyi/account/submit/?ref=aidirecori.es",
+        "domain_rating": 39,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Robingood",
         "link": "https://tools.robingood.com/?ref=aidirecori.es",
         "submission_link": "https://tools.robingood.com/?ref=aidirecori.es",
@@ -1425,5 +1461,14 @@
         "monthly_visits": 99,
         "submission_experience": "",
         "pricing": ""
+    },
+    {
+        "name": "Your Story",
+        "link": "https://yourstory.com/?ref=aidirecori.es",
+        "submission_link": "https://eu.frms.link/g4juley/?ref=aidirecori.es",
+        "domain_rating": 86,
+        "monthly_visits": 8758000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     }
 ]}

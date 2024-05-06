@@ -64,13 +64,4 @@ export const directories: Directory[] = [
         "submission_experience": "Bad",
         "pricing": "Paid"
     },
-    {
-        "name": "Draeno",
-        "link": "https://draeno.io/",
-        "submission_link": "https://draeno.io/submit-a-tool/",
-        "domain_rating": 17.0,
-        "monthly_visits": 40000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
 ]

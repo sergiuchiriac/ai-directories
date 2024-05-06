@@ -20,6 +20,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "Best AI To",
+        "link": "https://bestaito.com/?ref=aidirectori.es",
+        "submission_link": "https://bestaito.com/submit-a-ai-tool/?ref=aidirectori.es",
+        "domain_rating": 12,
+        "monthly_visits": 162000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
         "name": "Beta List",
         "link": "https://betalist.com/",
         "submission_link": "https://betalist.com/submissions/new",

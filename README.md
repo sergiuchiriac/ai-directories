@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 148
+ ### Total directories: 153
 
  
 
@@ -28,6 +28,7 @@
 | AI Depot | [AI Depot](https://aidepot.co/?ref=aidirectories) | [Submit](https://t.co/d7KH891ypL?ref=aidirectories) | 11 | 30000 |  | **🔴 Paid** |
 | AI Dir | [AI Dir](https://www.aidir.cc/) | [Submit](https://www.aidir.cc/submit/) | 10 | 100 | **🔴 Bad** |  |
 | AI Directory | [AI Directory](https://www.aidirectory.org) | [Submit](https://www.aidirectory.org/user-submit/) | 10 | 5700 | **🔴 Bad** |  |
+| AI Dude Info | [AI Dude Info](https://www.aiwizard.ai/?ref=aidirectories) | [Submit](https://aidude.info/submit-your-tool?ref=aidirectories) | 13 | 84700 | **🟢 Good** | **🔴 Paid** |
 | AI Explorer | [AI Explorer](https://www.aiexplorer.app/) | [Submit](https://www.aiexplorer.app/) | 10 | 24000 | **🔴 Bad** |  |
 | AI Finder | [AI Finder](https://ai-finder.net/) | [Submit](https://ai-finder.net/add) | 54 | 263000 | **🟢 Good** | **🟢 Free** |
 | AI Gadget | [AI Gadget](https://aigadget.io/) | [Submit](https://aigadget.io/) | 12 | 23000 | **🔴 Bad** |  |
@@ -70,13 +71,16 @@
 | Amaete AI | [Amaete AI](https://www.amaete.ai/) | [Submit](https://www.amaete.ai/) | 11 | 4000 | **🔴 Bad** |  |
 | Ankore | [Ankore](https://ankore.io?ref=aidirectori.es) | [Submit](https://ankore.io/submit/?ref=aidirectori.es) | 0.4 | 1500 | **🟢 Good** | **🔴 Paid** |
 | Apps and Websites | [Apps and Websites](https://appsandwebsites.com/) | [Submit](https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html) | 18 | 6000 | **🟢 Good** | **🟢 Free** |
+| Appscriber | [Appscriber](https://appscribed.com/) | [Submit](https://appscribed.com/product-list/?ref=aidirectori.es) | 34 | 42100 | **🟢 Good** | **🟢 Free** |
 | AppSumo | [AppSumo](https://appsumo.com/) | [Submit](https://appsumo.com/) | 82 | 3300000 |  |  |
 | Ben’s Bites News | [Ben’s Bites News](https://news.bensbites.co/) | [Submit](https://news.bensbites.co/) | 41 | 10000 | **🟢 Good** | **🔴 Paid** |
+| Best AI To | [Best AI To](https://bestaito.com/?ref=aidirectori.es) | [Submit](https://bestaito.com/submit-a-ai-tool/?ref=aidirectori.es) | 12 | 162000 | **🟢 Good** | **🔴 Paid** |
 | Best AI Tools | [Best AI Tools](https://www.startupaitools.com/) | [Submit](https://www.startupaitools.com/) | 10 | 900 | **🟢 Good** | **🟢 Free** |
 | Beta List | [Beta List](https://betalist.com/) | [Submit](https://betalist.com/submissions/new) | 70 | 180000 | **🔴 Bad** | **🟢 Free** |
 | Chat AI Apps | [Chat AI Apps](https://www.chataiapps.com/) | [Submit](https://www.chataiapps.com/) | 10 | 5000 |  |  |
 | ChatGPT demo | [ChatGPT demo](https://chatgptdemo.com/) | [Submit](https://chatgptdemo.com/submit-a-product/) | 30 | 400000 | **🟢 Good** | **🟢 Free** |
 | Crazy About Startups | [Crazy About Startups](https://crazyaboutstartups.com/) | [Submit](https://crazyaboutstartups.com/share-your-startup-2) | 33 | 5000 | **🔴 Bad** |  |
+| Creator Supply | [Creator Supply](https://creator.supply/?ref=aidirecori.es) | [Submit](https://kevinbhagat.lemonsqueezy.com/buy/6747a484-e8ee-4302-a90a-af378cc72678/?ref=aidirecori.es) | 21 | 1000 | **🟢 Good** | **🟢 Free** |
 | Crozdesk | [Crozdesk](https://crozdesk.com/) | [Submit](https://vendor.softwareselect.com/) | 74 | 200000 |  |  |
 | Crunchbase | [Crunchbase](https://www.crunchbase.com/?ref=aidirectori.es) | [Submit](https://www.crunchbase.com/add-new/?ref=aidirectori.es) | 80 | 10000000 | **🟢 Good** | **🟢 Free** |
 | Daily tech AI | [Daily tech AI](https://www.dailytech.ai/) | [Submit](https://www.dailytech.ai/submit-service) | 11 | 23000 | **🟢 Good** | **🟢 Free** |
@@ -86,7 +90,6 @@
 | DevPost | [DevPost](https://devpost.com/software) | [Submit](https://devpost.com/software/new) | 86 | 1000000 | **🟢 Good** | **🟢 Free** |
 | Digi Pro Tools | [Digi Pro Tools](https://digiprotoolz.com/) | [Submit](https://digiprotoolz.com/contact-us/) | 10 | 17000 | **🔴 Bad** |  |
 | DoMore | [DoMore](https://domore.ai/) | [Submit](https://domore.ai/contact-us) | 5 | 45000 | **🔴 Bad** | **🔴 Paid** |
-| Draeno | [Draeno](https://draeno.io/) | [Submit](https://draeno.io/submit-a-tool/) | 17 | 40000 | **🟢 Good** | **🟢 Free** |
 | Easy with AI | [Easy with AI](https://easywithai.com/) | [Submit](https://easywithai.com/submit-tool/) | 33 | 922000 | **🟢 Good** | **🔴 Paid** |
 | eBool | [eBool](https://www.ebool.com/) | [Submit](https://www.ebool.com/submit) | 62 | 25000 | **🟢 Good** | **🔴 Paid** |
 | Every AI | [Every AI](https://every-ai.com) | [Submit](https://every-ai.com/submit-tool/) | 7 | 100 |  |  |
@@ -131,6 +134,7 @@
 | Post Make | [Post Make](https://postmake.io/) | [Submit](https://postmake.io/submit) | 29 | 10000 |  | **🔴 Paid** |
 | Product Hunt | [Product Hunt](https://www.producthunt.com/) | [Submit](https://www.producthunt.com/posts/new) | 75 | 6000000 | **🟢 Good** | **🟢 Free** |
 | Productivity Directory | [Productivity Directory](https://productivity.directory/) | [Submit](https://productivity.directory/s/submit) | 27 | 42000 | **🟢 Good** | **🟢 Free** |
+| Resource fyi | [Resource fyi](https://resource.fyi/?ref=aidirecori.es) | [Submit](https://resource.fyi/account/submit/?ref=aidirecori.es) | 39 | 5000 | **🟢 Good** | **🟢 Free** |
 | Robingood | [Robingood](https://tools.robingood.com/?ref=aidirecori.es) | [Submit](https://tools.robingood.com/?ref=aidirecori.es) | 33 | 5600 | **🟢 Good** | **🟢 Free** |
 | Saas AI Tools | [Saas AI Tools](https://saasaitools.com/) | [Submit](https://saasaitools.com/submit/) | 33 | 73000 | **🟢 Good** | **🟢 Free** |
 | SaasBaba | [SaasBaba](https://saasbaba.com/) | [Submit](https://saasbaba.com/add-ai-tool/) | 10 | 9000 | **🟢 Good** | **🟢 Free** |
@@ -166,3 +170,4 @@
 | Victrays | [Victrays](https://victrays.com/) | [Submit](https://victrays.com/submit-tool/) | 10 | 5000 | **🟢 Good** | **🔴 Paid** |
 | Warehouse AI | [Warehouse AI](https://www.thewarehouse.ai/) | [Submit](https://www.thewarehouse.ai/product-submission) | 10 | 15000 | **🟢 Good** | **🟢 Free** |
 | What the AI | [What the AI](https://whattheai.tech/) | [Submit](https://whattheai.tech/) | 9 | 99 |  |  |
+| Your Story | [Your Story](https://yourstory.com/?ref=aidirecori.es) | [Submit](https://eu.frms.link/g4juley/?ref=aidirecori.es) | 86 | 8758000 | **🟢 Good** | **🟢 Free** |

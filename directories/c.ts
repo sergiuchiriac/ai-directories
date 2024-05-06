@@ -29,6 +29,15 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
+        "name": "Creator Supply",
+        "link": "https://creator.supply/?ref=aidirecori.es",
+        "submission_link": "https://kevinbhagat.lemonsqueezy.com/buy/6747a484-e8ee-4302-a90a-af378cc72678/?ref=aidirecori.es",
+        "domain_rating": 21,
+        "monthly_visits": 1000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Crozdesk",
         "link": "https://crozdesk.com/",
         "submission_link": "https://vendor.softwareselect.com/",
