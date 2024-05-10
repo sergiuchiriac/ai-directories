@@ -20,6 +20,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "Favird",
+        "link": "https://favird.com/?ref=aidirectori.es",
+        "submission_link": "https://favird.com/?ref=aidirectori.es",
+        "domain_rating": 26,
+        "monthly_visits": 30000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Find Cool Tools",
         "link": "https://findcool.tools?ref=aidirectori.es",
         "submission_link": "https://findcool.tools?ref=aidirectori.es",
@@ -88,6 +97,24 @@ export const directories: Directory[] = [
         "submission_link": "https://free-ai-tools-directory.com/submit-request/?ref=aidirectories",
         "domain_rating": 11.0,
         "monthly_visits": 23000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Free AI Apps",
+        "link": "https://freeappsai.com?ref=aidirectories",
+        "submission_link": "https://freeappsai.com/add?ref=aidirectories",
+        "domain_rating": 1.5,
+        "monthly_visits": 400,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "FinancesOnline",
+        "link": "https://financesonline.com/?ref=aidirectories",
+        "submission_link": "https://financesonline.com/add-product/?ref=aidirectories",
+        "domain_rating": 87,
+        "monthly_visits": 1200000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

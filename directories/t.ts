@@ -2,6 +2,15 @@ import {Directory} from "../types/directory";
 
 export const directories: Directory[] = [
     {
+        "name": "Tekpon",
+        "link": "https://tekpon.com/get-listed/?ref=aidirectori.es",
+        "submission_link": "https://tekpon.com/get-listed/?ref=aidirectori.es",
+        "domain_rating": 54,
+        "monthly_visits": 134000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "The ai Generation",
         "link": "https://www.theaigeneration.com/",
         "submission_link": "https://www.theaigeneration.com/add/",
@@ -95,9 +104,9 @@ export const directories: Directory[] = [
         "name": "Toolspedia",
         "link": "https://www.toolspedia.io",
         "submission_link": "https://www.toolspedia.io/submit-tool/",
-        "domain_rating": 10.0,
-        "monthly_visits": 5000,
-        "submission_experience": "",
+        "domain_rating": 21,
+        "monthly_visits": 26000,
+        "submission_experience": "Good",
         "pricing": "Paid"
     },
     {
@@ -108,6 +117,42 @@ export const directories: Directory[] = [
         "monthly_visits": 60000,
         "submission_experience": "Bad",
         "pricing": ""
+    },
+    {
+        "name": "Tools AI Online",
+        "link": "https://www.tools-ai.online/?ref=aidirectories",
+        "submission_link": "https://www.tools-ai.online/tool-submit?ref=aidirectories",
+        "domain_rating": 11,
+        "monthly_visits": 67000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "ToolsFine",
+        "link": "https://toolsfine.com/?ref=aidirectories",
+        "submission_link": "https://tally.so/r/3qVzOG",
+        "domain_rating": 38,
+        "monthly_visits": 34000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Tool AI",
+        "link": "https://toolai.io/?ref=aidirectories",
+        "submission_link": "https://toolai.io/en/submit?ref=aidirectories",
+        "domain_rating": 7,
+        "monthly_visits": 75000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Top Apps AI",
+        "link": "https://topapps.ai/?ref=aidirectories",
+        "submission_link": "https://topapps.ai/submit?ref=aidirectories",
+        "domain_rating": 32,
+        "monthly_visits": 890000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "Tiny Startups",

@@ -47,6 +47,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "Dev Hunt",
+        "link": "https://devhunt.org/?ref=aidirectori.es",
+        "submission_link": "https://devhunt.org/account/tools/new?ref=aidirectori.es",
+        "domain_rating": 56,
+        "monthly_visits": 65000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Digi Pro Tools",
         "link": "https://digiprotoolz.com/",
         "submission_link": "https://digiprotoolz.com/contact-us/",
@@ -54,6 +63,15 @@ export const directories: Directory[] = [
         "monthly_visits": 17000,
         "submission_experience": "Bad",
         "pricing": ""
+    },
+    {
+        "name": "Digital Agency Network",
+        "link": "https://digitalagencynetwork.com/?ref=aidirecotri.es",
+        "submission_link": "https://digitalagencynetwork.com/join-free-listing-tools/",
+        "domain_rating": 76,
+        "monthly_visits": 528000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "DoMore",

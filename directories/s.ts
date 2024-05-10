@@ -38,11 +38,38 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "Saas Surf",
+        "link": "https://saassurf.com/?ref=aidirectori.es",
+        "submission_link": "https://saassurf.com/submit-a-product#submit?ref=aidirectori.es",
+        "domain_rating": 21,
+        "monthly_visits": 31000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Saas Po",
+        "link": "https://www.saaspo.com/?ref=aidirectori.es",
+        "submission_link": "https://www.saaspo.com/submit?ref=aidirectori.es",
+        "domain_rating": 29,
+        "monthly_visits": 69000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
         "name": "Sick Tools",
         "link": "https://www.sick.tools/",
         "submission_link": "https://tally.so/r/wvY09d",
         "domain_rating": 0,
         "monthly_visits": 100,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Sidebar",
+        "link": "https://sidebar.io/?ref=aidirectori.es",
+        "submission_link": "https://sidebar.io/submit?ref=aidirectori.es",
+        "domain_rating": 71,
+        "monthly_visits": 68000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -128,6 +155,69 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "Startup Ranking",
+        "link": "https://www.startupranking.com/?ref=aidirectori.es",
+        "submission_link": "https://www.startupranking.com/startup/create/url-validation?ref=aidirectori.es",
+        "domain_rating": 67,
+        "monthly_visits": 25000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Startup Pitch",
+        "link": "https://thestartuppitch.com/?ref=aidirectories",
+        "submission_link": "https://thestartuppitch.com/post-a-pitch/",
+        "domain_rating": 40,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
+        "name": "Startup Collections",
+        "link": "https://startupcollections.com/?ref=aidirectories",
+        "submission_link": "https://startupcollections.com/submit-product/?ref=aidirectories",
+        "domain_rating": 22,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Startup Roulette",
+        "link": "https://startuproulette.com/?ref=aidirectories",
+        "submission_link": "https://startuproulette.com/promote-my-startup/?ref=aidirectories",
+        "domain_rating": 21,
+        "monthly_visits": 0,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Startup88",
+        "link": "https://startup88.com/?ref=aidirectories",
+        "submission_link": "https://startup88.typeform.com/to/CRjWqM?typeform-source=startup88.com",
+        "domain_rating": 25,
+        "monthly_visits": 300,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Stackshare",
+        "link": "https://stackshare.io/?ref=aidirectories",
+        "submission_link": "https://stackshare.io/submit/?ref=aidirectories",
+        "domain_rating": 79,
+        "monthly_visits": 1600000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Source Forge",
+        "link": "https://sourceforge.net/?ref=aidirectori.es",
+        "submission_link": "https://sourceforge.net/create/?ref=aidirectori.es",
+        "domain_rating": 92,
+        "monthly_visits": 2500000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Super Tools",
         "link": "https://supertools.therundown.ai/",
         "submission_link": "https://supertools.therundown.ai/submit",
@@ -142,6 +232,24 @@ export const directories: Directory[] = [
         "submission_link": "https://www.sideprojectors.com/?ref=aidirectori.es",
         "domain_rating": 67,
         "monthly_visits": 52600,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Synoptica",
+        "link": "https://synoptica.com/?ref=aidirectori.es",
+        "submission_link": "https://synoptica.com/submit-an-ai-tool/?ref=aidirectori.es",
+        "domain_rating": 17,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Smart Tools",
+        "link": "https://www.smart-tools.ai/?ref=aidirectori.es",
+        "submission_link": "https://www.smart-tools.ai/en/submit/?ref=aidirectori.es",
+        "domain_rating": 11,
+        "monthly_visits": 123000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

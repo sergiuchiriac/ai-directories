@@ -2,6 +2,15 @@ import {Directory} from "../types/directory";
 
 export const directories: Directory[] = [
   {
+    "name": "Gate2AI",
+    "link": "https://www.gate2ai.com/?ref=aidirectories",
+    "submission_link": "https://www.gate2ai.com/submit-tool?ref=aidirectories",
+    "domain_rating": 27,
+    "monthly_visits": 129000,
+    "submission_experience": "Good",
+    "pricing": "Free"
+  },
+  {
     "name": "Getlatka",
     "link": "https://getlatka.com/?ref=aidirectories",
     "submission_link": "https://getlatka.com/saas-companies?ref=aidirectories",

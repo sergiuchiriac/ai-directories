@@ -2,6 +2,15 @@ import {Directory} from "../types/directory";
 
 export const directories: Directory[] = [
     {
+        "name": "Paggu",
+        "link": "https://www.paggu.com/",
+        "submission_link": "https://www.paggu.com/submit-your-startup/",
+        "domain_rating": 35,
+        "monthly_visits": 1000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Post Make",
         "link": "https://postmake.io/",
         "submission_link": "https://postmake.io/submit",
@@ -25,6 +34,15 @@ export const directories: Directory[] = [
         "submission_link": "https://productivity.directory/s/submit",
         "domain_rating": 27,
         "monthly_visits": 42000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "PureFuture",
+        "link": "https://purefuture.net/?ref=aidirectories",
+        "submission_link": "https://purefuture.net/contact/",
+        "domain_rating": 13,
+        "monthly_visits": 22000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

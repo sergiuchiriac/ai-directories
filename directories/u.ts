@@ -10,4 +10,13 @@ export const directories: Directory[] = [
         "submission_experience": "Good",
         "pricing": "Paid"
     },
+    {
+        "name": "Unloc.tools",
+        "link": "https://www.unloc.tools/",
+        "submission_link": "https://www.unloc.tools/submit-tool",
+        "domain_rating": 20,
+        "monthly_visits": 1000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
 ]

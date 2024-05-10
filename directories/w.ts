@@ -13,10 +13,19 @@ export const directories: Directory[] = [
     {
         "name": "What the AI",
         "link": "https://whattheai.tech/",
-        "submission_link": "https://whattheai.tech/",
-        "domain_rating": 9.0,
-        "monthly_visits": 99,
-        "submission_experience": "",
-        "pricing": ""
+        "submission_link": "https://whattheai.tech/submit-a-tool/",
+        "domain_rating": 28,
+        "monthly_visits": 50000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Whatsthebigdata",
+        "link": "https://whatsthebigdata.com/",
+        "submission_link": "https://whatsthebigdata.com/submit-new-ai-tool/?ref=aidirectori.es",
+        "domain_rating": 60,
+        "monthly_visits": 2700000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     }
 ]

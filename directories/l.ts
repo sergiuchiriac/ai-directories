@@ -20,6 +20,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "Lachief",
+        "link": "https://www.lachief.io/",
+        "submission_link": "https://tally.so/r/w4Jb4b",
+        "domain_rating": 23,
+        "monthly_visits": 266000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Look AI Tools",
         "link": "https://lookaitools.com/?ref=aidirectori.es",
         "submission_link": "https://lookaitools.com/submission-service/?ref=aidirectori.es",

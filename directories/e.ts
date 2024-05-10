@@ -11,6 +11,15 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
+        "name": "Educator Tools",
+        "link": "https://aieducator.tools/?ref=aidrectories",
+        "submission_link": "https://docs.google.com/forms/d/e/1FAIpQLSdXXbiHAdQTWUSzLvU6xw-asbIoppIiQo0W9PuZLw2DnkhKew/viewform?usp=send_form",
+        "domain_rating": 25,
+        "monthly_visits": 131000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "eBool",
         "link": "https://www.ebool.com/",
         "submission_link": "https://www.ebool.com/submit",

@@ -2,6 +2,15 @@ import {Directory} from "../types/directory";
 
 export const directories: Directory[] = [
     {
+        "name": "Advanced Innovation",
+        "link": "https://www.advanced-innovation.io/?ref=aidirectories",
+        "submission_link": "https://www.advanced-innovation.io/ki-tool-einreichen?ref=aidirectories",
+        "domain_rating": 20,
+        "monthly_visits": 25000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "AI Center",
         "link": "https://aicenter.ai/?ref=aidirectories",
         "submission_link": "https://aicenter.ai/products/submit?ref=aidirectories",
@@ -221,8 +230,8 @@ export const directories: Directory[] = [
         "name": "AI Tool NET",
         "link": "https://www.aitoolnet.com/",
         "submission_link": "https://www.aitoolnet.com/",
-        "domain_rating": 10.0,
-        "monthly_visits": 21000,
+        "domain_rating": 35,
+        "monthly_visits": 160000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -299,6 +308,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "AI Tools Neil Patel",
+        "link": "https://aitools.neilpatel.com/?ref=aidirectori.es",
+        "submission_link": "https://aitools.neilpatel.com/submit/?ref=aidirectori.es",
+        "domain_rating": 91,
+        "monthly_visits": 6000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "AI Top Picks",
         "link": "https://www.aitoppicks.com/?ref=aidirectori.es",
         "submission_link": "https://www.aitoppicks.com/?ref=aidirectori.es",
@@ -317,6 +335,15 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
+        "name": "AI To Grow",
+        "link": "https://aitogrow.com/?ref=aidirectories",
+        "submission_link": "https://aitogrow.com/#send-your-tool/?ref=aidirectories",
+        "domain_rating": 15,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "AI Wizard",
         "link": "https://www.aiwizard.ai/?ref=aidirectories",
         "submission_link": "https://www.aiwizard.ai/submit?ref=aidirectories",
@@ -324,6 +351,33 @@ export const directories: Directory[] = [
         "monthly_visits": 5000,
         "submission_experience": "",
         "pricing": "Paid"
+    },
+    {
+        "name": "AI Valley",
+        "link": "https://aivalley.ai/?ref=aidirectories",
+        "submission_link": "https://aivalley.ai/submit-tool/?ref=aidirectories",
+        "domain_rating": 25,
+        "monthly_visits": 230000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Aixploria",
+        "link": "https://www.aixploria.com/en/?ref=aidirectories",
+        "submission_link": "https://www.aixploria.com/en/add-ai/?ref=aidirectories",
+        "domain_rating": 17,
+        "monthly_visits": 584000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "AIToolKit",
+        "link": "https://www.aitoolkit.org/?ref=aidirectories",
+        "submission_link": "https://www.aitoolkit.org/submit/?ref=aidirectories",
+        "domain_rating": 25,
+        "monthly_visits": 71000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "AI Dude Info",
@@ -425,6 +479,15 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
+        "name": "Anyfp",
+        "link": "https://anyfp.com/?ref=aidirectori.es",
+        "submission_link": "https://anyfp.com/contact/?ref=aidirectori.es",
+        "domain_rating": 33,
+        "monthly_visits": 1000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
         "name": "Apps and Websites",
         "link": "https://appsandwebsites.com/",
         "submission_link": "https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html",
@@ -439,6 +502,15 @@ export const directories: Directory[] = [
         "submission_link": "https://appscribed.com/product-list/?ref=aidirectori.es",
         "domain_rating": 34,
         "monthly_visits": 42100,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Apps and Websites",
+        "link": "https://appsandwebsites.com/?ref=aidirectori.es",
+        "submission_link": "https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html?ref=aidirectori.es",
+        "domain_rating": 21,
+        "monthly_visits": 5000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

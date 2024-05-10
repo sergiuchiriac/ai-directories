@@ -11,10 +11,19 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "NextGenTool",
+        "link": "https://nextgentool.io/?ref=aidirecories",
+        "submission_link": "https://nextgentool.io/submit/?ref=aidirecories",
+        "domain_rating": 12,
+        "monthly_visits": 300,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Nextpedia",
         "link": "https://www.nextpedia.io/?ref=aidirecories",
         "submission_link": "https://www.nextpedia.io/submit-tool/?ref=aidirecories",
-        "domain_rating": 9.0,
+        "domain_rating": 11,
         "monthly_visits": 8000,
         "submission_experience": "Bad",
         "pricing": ""

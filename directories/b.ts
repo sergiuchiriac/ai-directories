@@ -4,11 +4,11 @@ export const directories: Directory[] = [
     {
         "name": "Ben\u2019s Bites News",
         "link": "https://news.bensbites.co/",
-        "submission_link": "https://news.bensbites.co/",
-        "domain_rating": 41.0,
-        "monthly_visits": 10000,
+        "submission_link": "https://news.bensbites.com/submit",
+        "domain_rating": 39,
+        "monthly_visits": 13000,
         "submission_experience": "Good",
-        "pricing": "Paid"
+        "pricing": "Free"
     },
     {
         "name": "Best AI Tools",
@@ -35,6 +35,15 @@ export const directories: Directory[] = [
         "domain_rating": 70.0,
         "monthly_visits": 180000,
         "submission_experience": "Bad",
+        "pricing": "Free"
+    },
+    {
+        "name": "Buffer Apps",
+        "link": "https://www.bufferapps.com/?ref=aidirectori.es",
+        "submission_link": "https://www.bufferapps.com/beta-listing/new?ref=aidirectori.es",
+        "domain_rating": 11,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
         "pricing": "Free"
     },
 ]
