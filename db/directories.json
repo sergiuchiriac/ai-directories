@@ -1,5 +1,5 @@
 {
-"count": 194,
+"count": 195,
 "data": [
     {
         "name": "Open Tools",
@@ -839,6 +839,15 @@
         "domain_rating": 5,
         "monthly_visits": 45000,
         "submission_experience": "Bad",
+        "pricing": "Paid"
+    },
+    {
+        "name": "Easy Save AI",
+        "link": "https://easysaveai.com",
+        "submission_link": "https://easysaveai.com/submit-your-ai-tool/",
+        "domain_rating": 7,
+        "monthly_visits": 245,
+        "submission_experience": "Good",
         "pricing": "Paid"
     },
     {

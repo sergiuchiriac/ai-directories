@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 194
+ ### Total directories: 195
 
  
 
@@ -101,6 +101,7 @@
 | Digi Pro Tools | [Digi Pro Tools](https://digiprotoolz.com/) | [Submit](https://digiprotoolz.com/contact-us/) | 10 | 17000 | **🔴 Bad** |  |
 | Digital Agency Network | [Digital Agency Network](https://digitalagencynetwork.com/?ref=aidirecotri.es) | [Submit](https://digitalagencynetwork.com/join-free-listing-tools/) | 76 | 528000 | **🟢 Good** | **🟢 Free** |
 | DoMore | [DoMore](https://domore.ai/) | [Submit](https://domore.ai/contact-us) | 5 | 45000 | **🔴 Bad** | **🔴 Paid** |
+| Easy Save AI | [Easy Save AI](https://easysaveai.com) | [Submit](https://easysaveai.com/submit-your-ai-tool/) | 7 | 245 | **🟢 Good** | **🔴 Paid** |
 | Easy with AI | [Easy with AI](https://easywithai.com/) | [Submit](https://easywithai.com/submit-tool/) | 33 | 922000 | **🟢 Good** | **🔴 Paid** |
 | eBool | [eBool](https://www.ebool.com/) | [Submit](https://www.ebool.com/submit) | 62 | 25000 | **🟢 Good** | **🔴 Paid** |
 | Educator Tools | [Educator Tools](https://aieducator.tools/?ref=aidrectories) | [Submit](https://docs.google.com/forms/d/e/1FAIpQLSdXXbiHAdQTWUSzLvU6xw-asbIoppIiQo0W9PuZLw2DnkhKew/viewform?usp=send_form) | 25 | 131000 | **🟢 Good** | **🟢 Free** |
