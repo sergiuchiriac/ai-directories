@@ -19,4 +19,13 @@ export const directories: Directory[] = [
         "submission_experience": "Good",
         "pricing": "Free"
     },
+    {
+        "name": "Orbic AI",
+        "link": "https://orbic.ai/?ref=aidirectori.es",
+        "submission_link": "https://orbic.ai/submit/tools/?ref=aidirectori.es",
+        "domain_rating": 10.0,
+        "monthly_visits": 100000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    }
 ]
