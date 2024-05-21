@@ -1,5 +1,5 @@
 {
-"count": 195,
+"count": 196,
 "data": [
     {
         "name": "Open Tools",
@@ -1288,6 +1288,15 @@
         "submission_link": "https://openfuture.ai/submit-tool/?ref=aidirectori.es",
         "domain_rating": 31,
         "monthly_visits": 496000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Orbic AI",
+        "link": "https://orbic.ai/?ref=aidirectori.es",
+        "submission_link": "https://orbic.ai/submit/tools/?ref=aidirectori.es",
+        "domain_rating": 5,
+        "monthly_visits": 100,
         "submission_experience": "Good",
         "pricing": "Free"
     },

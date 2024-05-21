@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 195
+ ### Total directories: 196
 
  
 
@@ -151,6 +151,7 @@
 | Nextpedia | [Nextpedia](https://www.nextpedia.io/?ref=aidirecories) | [Submit](https://www.nextpedia.io/submit-tool/?ref=aidirecories) | 11 | 8000 | **🔴 Bad** |  |
 | One Hub AI | [One Hub AI](https://www.onehubai.com/) | [Submit](https://www.onehubai.com/) | 10 | 4600 | **🟢 Good** | **🔴 Paid** |
 | Open Future | [Open Future](https://openfuture.ai/?ref=aidirectori.es) | [Submit](https://openfuture.ai/submit-tool/?ref=aidirectori.es) | 31 | 496000 | **🟢 Good** | **🟢 Free** |
+| Orbic AI | [Orbic AI](https://orbic.ai/?ref=aidirectori.es) | [Submit](https://orbic.ai/submit/tools/?ref=aidirectori.es) | 5 | 100 | **🟢 Good** | **🟢 Free** |
 | Paggu | [Paggu](https://www.paggu.com/) | [Submit](https://www.paggu.com/submit-your-startup/) | 35 | 1000 | **🟢 Good** | **🟢 Free** |
 | PitchWall | [PitchWall](https://pitchwall.co/?ref=aidirectories) | [Submit](https://pitchwall.co/product/submit?ref=aidirectories) | 64 | 59000 | **🟢 Good** | **🟢 Free** |
 | Post Make | [Post Make](https://postmake.io/) | [Submit](https://postmake.io/submit) | 29 | 10000 |  | **🔴 Paid** |
