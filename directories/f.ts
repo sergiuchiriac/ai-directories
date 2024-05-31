@@ -65,6 +65,15 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
+        "name": "Funfun",
+        "link": "https://www.funfun.tools?ref=aidirectori.es",
+        "submission_link": "https://www.funfun.tools/submit-tool?ref=aidirectori.es",
+        "domain_rating": 4.0,
+        "monthly_visits": 1000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Future AGI tools",
         "link": "https://www.futureagitools.com?ref=aidirectori.es",
         "submission_link": "https://www.futureagitools.com/submit-a-site?ref=aidirectori.es",
