@@ -20,6 +20,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "ChatGate AI",
+        "link": "https://explore.chatgate.ai/?ref=aidirectori.es",
+        "submission_link": "https://explore.chatgate.ai/submit-your-tool/?ref=aidirectori.es",
+        "domain_rating": 18,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Crazy About Startups",
         "link": "https://crazyaboutstartups.com/",
         "submission_link": "https://crazyaboutstartups.com/share-your-startup-2",

@@ -104,10 +104,10 @@ export const directories: Directory[] = [
         "name": "AI Infinity",
         "link": "https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231",
         "submission_link": "https://forms.gle/Ze6pdWzmweCfKWnLA",
-        "domain_rating": 10.0,
-        "monthly_visits": 100,
-        "submission_experience": "",
-        "pricing": ""
+        "domain_rating": 91,
+        "monthly_visits": 2000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "AI Lib",
@@ -510,6 +510,15 @@ export const directories: Directory[] = [
         "link": "https://appsandwebsites.com/?ref=aidirectori.es",
         "submission_link": "https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html?ref=aidirectori.es",
         "domain_rating": 21,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "AppsHunter",
+        "link": "https://appsthunder.com/?ref=aidirectori.es",
+        "submission_link": "https://appsthunder.com/submit-your-app/?ref=aidirectori.es",
+        "domain_rating": 29,
         "monthly_visits": 5000,
         "submission_experience": "Good",
         "pricing": "Free"

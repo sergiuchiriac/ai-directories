@@ -11,6 +11,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "Webwiki",
+        "link": "https://www.webwiki.com/",
+        "submission_link": "https://www.webwiki.com/info/add-website.html",
+        "domain_rating": 77,
+        "monthly_visits": 15000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "What the AI",
         "link": "https://whattheai.tech/",
         "submission_link": "https://whattheai.tech/submit-a-tool/",

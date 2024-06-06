@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 196
+ ### Total directories: 201
 
  
 
@@ -35,7 +35,7 @@
 | AI Gadget | [AI Gadget](https://aigadget.io/) | [Submit](https://aigadget.io/) | 12 | 23000 | **🔴 Bad** |  |
 | AI Hub | [AI Hub](https://www.aihub.fyi/) | [Submit](https://www.aihub.fyi/form) | 22 | 1300 | **🟢 Good** | **🟢 Free** |
 | AI Hunter | [AI Hunter](https://ai-hunter.io/) | [Submit](https://ai-hunter.io/submit-ai-tool/) | 10 | 5000 | **🟢 Good** | **🟢 Free** |
-| AI Infinity | [AI Infinity](https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231) | [Submit](https://forms.gle/Ze6pdWzmweCfKWnLA) | 10 | 100 |  |  |
+| AI Infinity | [AI Infinity](https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231) | [Submit](https://forms.gle/Ze6pdWzmweCfKWnLA) | 91 | 2000 | **🟢 Good** | **🟢 Free** |
 | AI Lib | [AI Lib](https://ailib.ru/) | [Submit](https://ailib.ru/) | 23 | 119000 | **🟢 Good** | **🟢 Free** |
 | AI Library | [AI Library](https://library.phygital.plus/?ref=aidirectories) | [Submit](https://library.phygital.plus/tool-submission?ref=aidirectories) | 17 | 25000 | **🟢 Good** | **🟢 Free** |
 | AI Marketing | [AI Marketing](https://aimarketing.directory/) | [Submit](https://aimarketing.directory/submit) | 12 | 9600 | **🟢 Good** | **🟢 Free** |
@@ -80,13 +80,16 @@
 | Apps and Websites | [Apps and Websites](https://appsandwebsites.com/?ref=aidirectori.es) | [Submit](https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html?ref=aidirectori.es) | 21 | 5000 | **🟢 Good** | **🟢 Free** |
 | Apps and Websites | [Apps and Websites](https://appsandwebsites.com/) | [Submit](https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html) | 18 | 6000 | **🟢 Good** | **🟢 Free** |
 | Appscriber | [Appscriber](https://appscribed.com/) | [Submit](https://appscribed.com/product-list/?ref=aidirectori.es) | 34 | 42100 | **🟢 Good** | **🟢 Free** |
+| AppsHunter | [AppsHunter](https://appsthunder.com/?ref=aidirectori.es) | [Submit](https://appsthunder.com/submit-your-app/?ref=aidirectori.es) | 29 | 5000 | **🟢 Good** | **🟢 Free** |
 | AppSumo | [AppSumo](https://appsumo.com/) | [Submit](https://appsumo.com/) | 82 | 3300000 |  |  |
 | Ben’s Bites News | [Ben’s Bites News](https://news.bensbites.co/) | [Submit](https://news.bensbites.com/submit) | 39 | 13000 | **🟢 Good** | **🟢 Free** |
 | Best AI To | [Best AI To](https://bestaito.com/?ref=aidirectori.es) | [Submit](https://bestaito.com/submit-a-ai-tool/?ref=aidirectori.es) | 12 | 162000 | **🟢 Good** | **🔴 Paid** |
 | Best AI Tools | [Best AI Tools](https://www.startupaitools.com/) | [Submit](https://www.startupaitools.com/) | 10 | 900 | **🟢 Good** | **🟢 Free** |
 | Beta List | [Beta List](https://betalist.com/) | [Submit](https://betalist.com/submissions/new) | 70 | 180000 | **🔴 Bad** | **🟢 Free** |
+| BroUseAI | [BroUseAI](https://www.brouseai.com/?ref=aidirectori.es) | [Submit](https://www.brouseai.com/?ref=aidirectori.es) | 35 | 31000 | **🟢 Good** | **🟢 Free** |
 | Buffer Apps | [Buffer Apps](https://www.bufferapps.com/?ref=aidirectori.es) | [Submit](https://www.bufferapps.com/beta-listing/new?ref=aidirectori.es) | 11 | 5000 | **🟢 Good** | **🟢 Free** |
 | Chat AI Apps | [Chat AI Apps](https://www.chataiapps.com/) | [Submit](https://www.chataiapps.com/) | 10 | 5000 |  |  |
+| ChatGate AI | [ChatGate AI](https://explore.chatgate.ai/?ref=aidirectori.es) | [Submit](https://explore.chatgate.ai/submit-your-tool/?ref=aidirectori.es) | 18 | 5000 | **🟢 Good** | **🟢 Free** |
 | ChatGPT demo | [ChatGPT demo](https://chatgptdemo.com/) | [Submit](https://chatgptdemo.com/submit-a-product/) | 30 | 400000 | **🟢 Good** | **🟢 Free** |
 | Crazy About Startups | [Crazy About Startups](https://crazyaboutstartups.com/) | [Submit](https://crazyaboutstartups.com/share-your-startup-2) | 33 | 5000 | **🔴 Bad** |  |
 | Creator Supply | [Creator Supply](https://creator.supply/?ref=aidirecori.es) | [Submit](https://kevinbhagat.lemonsqueezy.com/buy/6747a484-e8ee-4302-a90a-af378cc72678/?ref=aidirecori.es) | 21 | 1000 | **🟢 Good** | **🟢 Free** |
@@ -169,8 +172,9 @@
 | Sick Tools | [Sick Tools](https://www.sick.tools/) | [Submit](https://tally.so/r/wvY09d) | 0 | 100 | **🟢 Good** | **🟢 Free** |
 | Sidebar | [Sidebar](https://sidebar.io/?ref=aidirectori.es) | [Submit](https://sidebar.io/submit?ref=aidirectori.es) | 71 | 68000 | **🟢 Good** | **🟢 Free** |
 | SideProjectors | [SideProjectors](https://www.sideprojectors.com/?ref=aidirectori.es) | [Submit](https://www.sideprojectors.com/?ref=aidirectori.es) | 67 | 52600 | **🟢 Good** | **🟢 Free** |
+| Sitelike | [Sitelike](https://www.sitelike.org/?ref=aidirectori.es) | [Submit](https://www.sitelike.org/add-site/?ref=aidirectori.es) | 70 | 1300000 | **🟢 Good** | **🟢 Free** |
 | Smart Tools | [Smart Tools](https://www.smart-tools.ai/?ref=aidirectori.es) | [Submit](https://www.smart-tools.ai/en/submit/?ref=aidirectori.es) | 11 | 123000 | **🟢 Good** | **🟢 Free** |
-| Software Suggest | [Software Suggest](https://www.softwaresuggest.com/) | [Submit](https://www.softwaresuggest.com/artificial-intelligence-software) | 40 | 561000 | **🔴 Bad** |  |
+| Software Suggest | [Software Suggest](https://www.softwaresuggest.com/) | [Submit](https://www.softwaresuggest.com/artificial-intelligence-software) | 77 | 561000 | **🔴 Bad** |  |
 | Software World | [Software World](https://softwareworld.co/) | [Submit](https://softwareworld.co/get-listed/) | 75 | 65000 | **🟢 Good** | **🟢 Free** |
 | Source Forge | [Source Forge](https://sourceforge.net/?ref=aidirectori.es) | [Submit](https://sourceforge.net/create/?ref=aidirectori.es) | 92 | 2500000 | **🟢 Good** | **🟢 Free** |
 | spsFeed | [spsFeed](https://spsfeed.com/) | [Submit](https://spsfeed.com/) | 0 | 0 | **🟢 Good** | **🟢 Free** |
@@ -211,6 +215,7 @@
 | Unloc.tools | [Unloc.tools](https://www.unloc.tools/) | [Submit](https://www.unloc.tools/submit-tool) | 20 | 1000 | **🟢 Good** | **🟢 Free** |
 | Victrays | [Victrays](https://victrays.com/) | [Submit](https://victrays.com/submit-tool/) | 10 | 5000 | **🟢 Good** | **🔴 Paid** |
 | Warehouse AI | [Warehouse AI](https://www.thewarehouse.ai/) | [Submit](https://www.thewarehouse.ai/product-submission) | 10 | 15000 | **🟢 Good** | **🟢 Free** |
+| Webwiki | [Webwiki](https://www.webwiki.com/) | [Submit](https://www.webwiki.com/info/add-website.html) | 77 | 15000 | **🟢 Good** | **🟢 Free** |
 | What the AI | [What the AI](https://whattheai.tech/) | [Submit](https://whattheai.tech/submit-a-tool/) | 28 | 50000 | **🟢 Good** | **🟢 Free** |
 | Whatsthebigdata | [Whatsthebigdata](https://whatsthebigdata.com/) | [Submit](https://whatsthebigdata.com/submit-new-ai-tool/?ref=aidirectori.es) | 60 | 2700000 | **🟢 Good** | **🟢 Free** |
 | Your Story | [Your Story](https://yourstory.com/?ref=aidirecori.es) | [Submit](https://eu.frms.link/g4juley/?ref=aidirecori.es) | 86 | 8758000 | **🟢 Good** | **🟢 Free** |

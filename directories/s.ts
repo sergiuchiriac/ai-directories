@@ -77,7 +77,7 @@ export const directories: Directory[] = [
         "name": "Software Suggest",
         "link": "https://www.softwaresuggest.com/",
         "submission_link": "https://www.softwaresuggest.com/artificial-intelligence-software",
-        "domain_rating": 40.0,
+        "domain_rating": 77,
         "monthly_visits": 561000,
         "submission_experience": "Bad",
         "pricing": ""
@@ -232,6 +232,15 @@ export const directories: Directory[] = [
         "submission_link": "https://www.sideprojectors.com/?ref=aidirectori.es",
         "domain_rating": 67,
         "monthly_visits": 52600,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Sitelike",
+        "link": "https://www.sitelike.org/?ref=aidirectori.es",
+        "submission_link": "https://www.sitelike.org/add-site/?ref=aidirectori.es",
+        "domain_rating": 70,
+        "monthly_visits": 1300000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

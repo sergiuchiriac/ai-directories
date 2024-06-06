@@ -1,5 +1,5 @@
 {
-"count": 196,
+"count": 201,
 "data": [
     {
         "name": "Open Tools",
@@ -251,10 +251,10 @@
         "name": "AI Infinity",
         "link": "https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231",
         "submission_link": "https://forms.gle/Ze6pdWzmweCfKWnLA",
-        "domain_rating": 10,
-        "monthly_visits": 100,
-        "submission_experience": "",
-        "pricing": ""
+        "domain_rating": 91,
+        "monthly_visits": 2000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "AI Lib",
@@ -653,6 +653,15 @@
         "pricing": "Free"
     },
     {
+        "name": "AppsHunter",
+        "link": "https://appsthunder.com/?ref=aidirectori.es",
+        "submission_link": "https://appsthunder.com/submit-your-app/?ref=aidirectori.es",
+        "domain_rating": 29,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "AppSumo",
         "link": "https://appsumo.com/",
         "submission_link": "https://appsumo.com/",
@@ -698,6 +707,15 @@
         "pricing": "Free"
     },
     {
+        "name": "BroUseAI",
+        "link": "https://www.brouseai.com/?ref=aidirectori.es",
+        "submission_link": "https://www.brouseai.com/?ref=aidirectori.es",
+        "domain_rating": 35,
+        "monthly_visits": 31000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Buffer Apps",
         "link": "https://www.bufferapps.com/?ref=aidirectori.es",
         "submission_link": "https://www.bufferapps.com/beta-listing/new?ref=aidirectori.es",
@@ -714,6 +732,15 @@
         "monthly_visits": 5000,
         "submission_experience": "",
         "pricing": ""
+    },
+    {
+        "name": "ChatGate AI",
+        "link": "https://explore.chatgate.ai/?ref=aidirectori.es",
+        "submission_link": "https://explore.chatgate.ai/submit-your-tool/?ref=aidirectori.es",
+        "domain_rating": 18,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "ChatGPT demo",
@@ -1454,6 +1481,15 @@
         "pricing": "Free"
     },
     {
+        "name": "Sitelike",
+        "link": "https://www.sitelike.org/?ref=aidirectori.es",
+        "submission_link": "https://www.sitelike.org/add-site/?ref=aidirectori.es",
+        "domain_rating": 70,
+        "monthly_visits": 1300000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Smart Tools",
         "link": "https://www.smart-tools.ai/?ref=aidirectori.es",
         "submission_link": "https://www.smart-tools.ai/en/submit/?ref=aidirectori.es",
@@ -1466,7 +1502,7 @@
         "name": "Software Suggest",
         "link": "https://www.softwaresuggest.com/",
         "submission_link": "https://www.softwaresuggest.com/artificial-intelligence-software",
-        "domain_rating": 40,
+        "domain_rating": 77,
         "monthly_visits": 561000,
         "submission_experience": "Bad",
         "pricing": ""
@@ -1827,6 +1863,15 @@
         "link": "https://www.thewarehouse.ai/",
         "submission_link": "https://www.thewarehouse.ai/product-submission",
         "domain_rating": 10,
+        "monthly_visits": 15000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Webwiki",
+        "link": "https://www.webwiki.com/",
+        "submission_link": "https://www.webwiki.com/info/add-website.html",
+        "domain_rating": 77,
         "monthly_visits": 15000,
         "submission_experience": "Good",
         "pricing": "Free"
