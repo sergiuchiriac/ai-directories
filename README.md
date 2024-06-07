@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 201
+ ### Total directories: 202
 
  
 
@@ -142,6 +142,7 @@
 | KitPloit | [KitPloit](https://www.kitploit.com/?ref=aidirectories) | [Submit](https://www.kitploit.com/p/submit-tool.html?ref=aidirectories) | 57 | 2100000 | **🟢 Good** | **🟢 Free** |
 | Lachief | [Lachief](https://www.lachief.io/) | [Submit](https://tally.so/r/w4Jb4b) | 23 | 266000 | **🟢 Good** | **🟢 Free** |
 | Launched | [Launched](https://launched.io/) | [Submit](https://launched.io/SubmitStartup) | 38 | 2400 | **🟢 Good** | **🟢 Free** |
+| Launched Site | [Launched Site](https://launched.site?ref=aidirectori.es) | [Submit](https://launched.site/submit?ref=aidirectori.es) | 45 | 10000 | **🟢 Good** | **🟢 Free** |
 | Launching Next | [Launching Next](https://www.launchingnext.com/) | [Submit](https://www.launchingnext.com/submit/) | 51 | 13000 | **🟢 Good** | **🟢 Free** |
 | Live Apps | [Live Apps](https://liveapps.ai/?ref=aidirectori.es) | [Submit](https://liveapps.ai/become-a-partner/?ref=aidirectori.es) | 12 | 500 | **🟢 Good** | **🟢 Free** |
 | Look AI Tools | [Look AI Tools](https://lookaitools.com/?ref=aidirectori.es) | [Submit](https://lookaitools.com/submission-service/?ref=aidirectori.es) | 6 | 130 | **🟢 Good** | **🟢 Free** |

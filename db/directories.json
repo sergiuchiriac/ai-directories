@@ -1,5 +1,5 @@
 {
-"count": 201,
+"count": 202,
 "data": [
     {
         "name": "Open Tools",
@@ -1207,6 +1207,15 @@
         "submission_link": "https://launched.io/SubmitStartup",
         "domain_rating": 38,
         "monthly_visits": 2400,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Launched Site",
+        "link": "https://launched.site?ref=aidirectori.es",
+        "submission_link": "https://launched.site/submit?ref=aidirectori.es",
+        "domain_rating": 45,
+        "monthly_visits": 10000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

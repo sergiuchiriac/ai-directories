@@ -2,6 +2,15 @@ import {Directory} from "../types/directory";
 
 export const directories: Directory[] = [
     {
+        "name": "Launched Site",
+        "link": "https://launched.site?ref=aidirectori.es",
+        "submission_link": "https://launched.site/submit?ref=aidirectori.es",
+        "domain_rating": 45,
+        "monthly_visits": 10000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Launched",
         "link": "https://launched.io/",
         "submission_link": "https://launched.io/SubmitStartup",
