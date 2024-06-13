@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 202
+ ### Total directories: 205
 
  
 
@@ -103,6 +103,7 @@
 | DevPost | [DevPost](https://devpost.com/software) | [Submit](https://devpost.com/software/new) | 86 | 1000000 | **🟢 Good** | **🟢 Free** |
 | Digi Pro Tools | [Digi Pro Tools](https://digiprotoolz.com/) | [Submit](https://digiprotoolz.com/contact-us/) | 10 | 17000 | **🔴 Bad** |  |
 | Digital Agency Network | [Digital Agency Network](https://digitalagencynetwork.com/?ref=aidirecotri.es) | [Submit](https://digitalagencynetwork.com/join-free-listing-tools/) | 76 | 528000 | **🟢 Good** | **🟢 Free** |
+| Dockey AI | [Dockey AI](https://dokeyai.com/?ref=aidirectori.es) | [Submit](https://dokeyai.com/submit?ref=aidirecoti.es) | 32 | 3900 | **🟢 Good** | **🟢 Free** |
 | DoMore | [DoMore](https://domore.ai/) | [Submit](https://domore.ai/contact-us) | 5 | 45000 | **🔴 Bad** | **🔴 Paid** |
 | Easy Save AI | [Easy Save AI](https://easysaveai.com) | [Submit](https://easysaveai.com/submit-your-ai-tool/) | 7 | 245 | **🟢 Good** | **🔴 Paid** |
 | Easy with AI | [Easy with AI](https://easywithai.com/) | [Submit](https://easywithai.com/submit-tool/) | 33 | 922000 | **🟢 Good** | **🔴 Paid** |
@@ -124,6 +125,7 @@
 | Futurepedia | [Futurepedia](https://www.futurepedia.io/?ref=aidirectori.es) | [Submit](https://www.futurepedia.io/submit-tool?ref=aidirectori.es) | 62 | 5000000 | **🟢 Good** | **🔴 Paid** |
 | Gate2AI | [Gate2AI](https://www.gate2ai.com/?ref=aidirectories) | [Submit](https://www.gate2ai.com/submit-tool?ref=aidirectories) | 27 | 129000 | **🟢 Good** | **🟢 Free** |
 | Getlatka | [Getlatka](https://getlatka.com/?ref=aidirectories) | [Submit](https://getlatka.com/saas-companies?ref=aidirectories) | 71 | 20000 | **🟢 Good** | **🟢 Free** |
+| Good AI Tools | [Good AI Tools](https://goodaitools.com/?ref=aidirectories) | [Submit](https://goodaitools.com/submit?ref=aidirectories) | 0 | 0 | **🟢 Good** | **🟢 Free** |
 | GPT Academy | [GPT Academy](https://www.gptacademy.co/?ref=aidirectories) | [Submit](https://www.gptacademy.co/submit?ref=aidirectories) | 14 | 24000 | **🟢 Good** | **🔴 Paid** |
 | Gpt Forge | [Gpt Forge](https://gptforge.net/?ref=aidirectories) | [Submit](https://forms.gle/8h1SokDHfcPwkbaZ8?ref=aidirectories) | 14 | 41000 | **🟢 Good** | **🟢 Free** |
 | GPT Stack | [GPT Stack](https://www.gpt-stack.com?ref=aidirectories) | [Submit](https://www.gpt-stack.com/add-resourc?ref=aidirectoriese) | 10 | 100 | **🟢 Good** | **🟢 Free** |
@@ -196,6 +198,7 @@
 | Tekpon | [Tekpon](https://tekpon.com/get-listed/?ref=aidirectori.es) | [Submit](https://tekpon.com/get-listed/?ref=aidirectori.es) | 54 | 134000 | **🟢 Good** | **🟢 Free** |
 | That AI Collection | [That AI Collection](https://github.com/ai-collection/ai-collection) | [Submit](https://www.thataicollection.com/submit/) | 32 | 34000 | **🔴 Bad** | **🟢 Free** |
 | The ai Generation | [The ai Generation](https://www.theaigeneration.com/) | [Submit](https://www.theaigeneration.com/add/) | 11 | 77000 | **🟢 Good** | **🟢 Free** |
+| The AI Warehouse | [The AI Warehouse](https://www.thewarehouse.ai/?ref=aidirectories) | [Submit](https://inside.thewarehouse.ai/submissions?ref=aidirectories) | 11 | 6000 | **🟢 Good** | **🟢 Free** |
 | The Hack Stack | [The Hack Stack](https://thehackstack.com/) | [Submit](https://thehackstack.com/register) | 10 | 5000 | **🔴 Bad** | **🟢 Free** |
 | Tiny Startups | [Tiny Startups](https://www.tinystartups.co/?ref=aidirectori.es) | [Submit](https://tally.so/r/wMzP8X) | 4.4 | 100 | **🟢 Good** | **🟢 Free** |
 | TipSeason | [TipSeason](https://tipseason.com/ai-tools?ref=aidirectori.es) | [Submit](https://tipseason.com/ai-tools/submit) | 27 | 30000 | **🟢 Good** | **🟢 Free** |

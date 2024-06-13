@@ -20,6 +20,15 @@ export const directories: Directory[] = [
     "pricing": "Free"
   },
   {
+    "name": "Good AI Tools",
+    "link": "https://goodaitools.com/?ref=aidirectories",
+    "submission_link": "https://goodaitools.com/submit?ref=aidirectories",
+    "domain_rating": 0,
+    "monthly_visits": 0,
+    "submission_experience": "Good",
+    "pricing": "Free"
+  },
+  {
     "name": "GPT Academy",
     "link": "https://www.gptacademy.co/?ref=aidirectories",
     "submission_link": "https://www.gptacademy.co/submit?ref=aidirectories",

@@ -1,5 +1,5 @@
 {
-"count": 202,
+"count": 205,
 "data": [
     {
         "name": "Open Tools",
@@ -93,6 +93,17 @@
         "monthly_visits": 5400000,
         "submission_experience": "Good",
         "pricing": "Paid"
+    },
+    {
+        "name": "BasedTools",
+        "link": "https://basedtools.ai?ref=aidirectories",
+        "submission_link": "https://buy.stripe.com/5kA2ax0aD7b93bG3cc?ref=aidirectories",
+        "domain_rating": 34,
+        "monthly_visits": 22000,
+        "submission_experience": "Good",
+        "pricing": "Paid",
+        "dealCode": "SERG20",
+        "dealText": "70% Discount"
     },
     {
         "name": "100 AI Apps",
@@ -860,6 +871,15 @@
         "pricing": "Free"
     },
     {
+        "name": "Dockey AI",
+        "link": "https://dokeyai.com/?ref=aidirectori.es",
+        "submission_link": "https://dokeyai.com/submit?ref=aidirecoti.es",
+        "domain_rating": 32,
+        "monthly_visits": 3900,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "DoMore",
         "link": "https://domore.ai/",
         "submission_link": "https://domore.ai/contact-us",
@@ -1045,6 +1065,15 @@
         "submission_link": "https://getlatka.com/saas-companies?ref=aidirectories",
         "domain_rating": 71,
         "monthly_visits": 20000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Good AI Tools",
+        "link": "https://goodaitools.com/?ref=aidirectories",
+        "submission_link": "https://goodaitools.com/submit?ref=aidirectories",
+        "domain_rating": 0,
+        "monthly_visits": 0,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -1693,6 +1722,15 @@
         "submission_link": "https://www.theaigeneration.com/add/",
         "domain_rating": 11,
         "monthly_visits": 77000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "The AI Warehouse",
+        "link": "https://www.thewarehouse.ai/?ref=aidirectories",
+        "submission_link": "https://inside.thewarehouse.ai/submissions?ref=aidirectories",
+        "domain_rating": 11,
+        "monthly_visits": 6000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

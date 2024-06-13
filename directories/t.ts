@@ -155,6 +155,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "The AI Warehouse",
+        "link": "https://www.thewarehouse.ai/?ref=aidirectories",
+        "submission_link": "https://inside.thewarehouse.ai/submissions?ref=aidirectories",
+        "domain_rating": 11,
+        "monthly_visits": 6000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Tiny Startups",
         "link": "https://www.tinystartups.co/?ref=aidirectori.es",
         "submission_link": "https://tally.so/r/wMzP8X",
