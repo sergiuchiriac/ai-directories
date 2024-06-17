@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 205
+ ### Total directories: 206
 
  
 
@@ -206,6 +206,7 @@
 | Tool Directory | [Tool Directory](https://tooldirectory.ai/?ref=aidirectori.es) | [Submit](https://https://tooldirectory.ai/submit-tool?ref=aidirectori.es) | 50 | 4000 | **🟢 Good** | **🟢 Free** |
 | Tool Pilot | [Tool Pilot](https://www.toolpilot.ai/) | [Submit](https://www.toolpilot.ai/pages/submit-your-ai-tool) | 12 | 5000 | **🟢 Good** | **🟢 Free** |
 | Toolify.ai | [Toolify.ai](https://www.toolify.ai/) | [Submit](https://www.toolify.ai/login?from=%2Fsubmit) | 13 | 340000 |  | **🔴 Paid** |
+| Toolio AI | [Toolio AI](https://toolio.ai/?ref=aidirectories) | [Submit](https://toolio.ai/submit-a-tool?ref=aidirectories) | 34 | 23000 | **🟢 Good** | **🔴 Paid** |
 | Tools AI | [Tools AI](https://toolsai.net/) | [Submit](https://toolsai.net/add-listing/) | 19 | 60000 | **🔴 Bad** |  |
 | Tools AI Online | [Tools AI Online](https://www.tools-ai.online/?ref=aidirectories) | [Submit](https://www.tools-ai.online/tool-submit?ref=aidirectories) | 11 | 67000 | **🟢 Good** | **🟢 Free** |
 | Tools Directory | [Tools Directory](https://aitoolsdirectory.com/?ref=aidirectori.es) | [Submit](https://aitoolsdirectory.com/submit-tool?ref=aidirectori.es) | 10 | 100 | **🟢 Good** | **🟢 Free** |

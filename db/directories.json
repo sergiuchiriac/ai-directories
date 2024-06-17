@@ -1,5 +1,5 @@
 {
-"count": 205,
+"count": 206,
 "data": [
     {
         "name": "Open Tools",
@@ -1795,6 +1795,15 @@
         "domain_rating": 13,
         "monthly_visits": 340000,
         "submission_experience": "",
+        "pricing": "Paid"
+    },
+    {
+        "name": "Toolio AI",
+        "link": "https://toolio.ai/?ref=aidirectories",
+        "submission_link": "https://toolio.ai/submit-a-tool?ref=aidirectories",
+        "domain_rating": 34,
+        "monthly_visits": 23000,
+        "submission_experience": "Good",
         "pricing": "Paid"
     },
     {
