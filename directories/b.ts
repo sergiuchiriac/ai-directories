@@ -47,6 +47,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "BizRaw",
+        "link": "https://bizraw.com/?ref=aidirectori.es",
+        "submission_link": "https://bizraw.com/whats-new/posts/98/?ref=aidirectori.es",
+        "domain_rating": 73,
+        "monthly_visits": 0,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "BroUseAI",
         "link": "https://www.brouseai.com/?ref=aidirectori.es",
         "submission_link": "https://www.brouseai.com/?ref=aidirectori.es",

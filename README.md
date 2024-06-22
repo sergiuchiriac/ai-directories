@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 206
+ ### Total directories: 207
 
  
 
@@ -86,6 +86,7 @@
 | Best AI To | [Best AI To](https://bestaito.com/?ref=aidirectori.es) | [Submit](https://bestaito.com/submit-a-ai-tool/?ref=aidirectori.es) | 12 | 162000 | **🟢 Good** | **🔴 Paid** |
 | Best AI Tools | [Best AI Tools](https://www.startupaitools.com/) | [Submit](https://www.startupaitools.com/) | 10 | 900 | **🟢 Good** | **🟢 Free** |
 | Beta List | [Beta List](https://betalist.com/) | [Submit](https://betalist.com/submissions/new) | 70 | 180000 | **🔴 Bad** | **🟢 Free** |
+| BizRaw | [BizRaw](https://bizraw.com/?ref=aidirectori.es) | [Submit](https://bizraw.com/whats-new/posts/98/?ref=aidirectori.es) | 73 | 0 | **🟢 Good** | **🟢 Free** |
 | BroUseAI | [BroUseAI](https://www.brouseai.com/?ref=aidirectori.es) | [Submit](https://www.brouseai.com/?ref=aidirectori.es) | 35 | 31000 | **🟢 Good** | **🟢 Free** |
 | Buffer Apps | [Buffer Apps](https://www.bufferapps.com/?ref=aidirectori.es) | [Submit](https://www.bufferapps.com/beta-listing/new?ref=aidirectori.es) | 11 | 5000 | **🟢 Good** | **🟢 Free** |
 | Chat AI Apps | [Chat AI Apps](https://www.chataiapps.com/) | [Submit](https://www.chataiapps.com/) | 10 | 5000 |  |  |
