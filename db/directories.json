@@ -88,6 +88,17 @@
         "dealText": "40% Discount"
     },
     {
+        "name": "AI Tools One",
+        "link": "https://aitoolsone.com?ref=aidirectories",
+        "submission_link": "aitoolsone.com/submit/?ref=aidirectories",
+        "domain_rating": 28,
+        "monthly_visits": 30000,
+        "submission_experience": "Good",
+        "pricing": "Paid",
+        "dealCode": "AIDIR20",
+        "dealText": "20% Discount"
+    },
+    {
         "name": "AI Top Rank",
         "link": "https://aitoprank.com/?ref=aidirectories",
         "submission_link": "https://aitoprank.com/?ref=aidirectories",
@@ -104,17 +115,6 @@
         "monthly_visits": 5400000,
         "submission_experience": "Good",
         "pricing": "Paid"
-    },
-    {
-        "name": "AI Tools One",
-        "link": "https://aitoolsone.com?ref=aidirectories",
-        "submission_link": "aitoolsone.com/submit/?ref=aidirectories",
-        "domain_rating": 28,
-        "monthly_visits": 30000,
-        "submission_experience": "Good",
-        "pricing": "Paid",
-        "dealCode": "AIDIR20",
-        "dealText": "20% Discount"
     },
     {
         "name": "100 AI Apps",
