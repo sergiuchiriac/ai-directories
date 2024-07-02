@@ -83,11 +83,11 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
-        "name": "Dockey AI",
+        "name": "Dokey AI",
         "link": "https://dokeyai.com/?ref=aidirectori.es",
-        "submission_link": "https://dokeyai.com/submit?ref=aidirecoti.es",
-        "domain_rating": 32,
-        "monthly_visits": 3900,
+        "submission_link": "https://dokeyai.com/submit?ref=aidirecotri.es",
+        "domain_rating": 37,
+        "monthly_visits": 6000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

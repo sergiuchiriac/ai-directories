@@ -104,7 +104,7 @@
 | DevPost | [DevPost](https://devpost.com/software) | [Submit](https://devpost.com/software/new) | 86 | 1000000 | **🟢 Good** | **🟢 Free** |
 | Digi Pro Tools | [Digi Pro Tools](https://digiprotoolz.com/) | [Submit](https://digiprotoolz.com/contact-us/) | 10 | 17000 | **🔴 Bad** |  |
 | Digital Agency Network | [Digital Agency Network](https://digitalagencynetwork.com/?ref=aidirecotri.es) | [Submit](https://digitalagencynetwork.com/join-free-listing-tools/) | 76 | 528000 | **🟢 Good** | **🟢 Free** |
-| Dockey AI | [Dockey AI](https://dokeyai.com/?ref=aidirectori.es) | [Submit](https://dokeyai.com/submit?ref=aidirecoti.es) | 32 | 3900 | **🟢 Good** | **🟢 Free** |
+| Dokey AI | [Dokey AI](https://dokeyai.com/?ref=aidirectori.es) | [Submit](https://dokeyai.com/submit?ref=aidirecotri.es) | 37 | 6000 | **🟢 Good** | **🟢 Free** |
 | DoMore | [DoMore](https://domore.ai/) | [Submit](https://domore.ai/contact-us) | 5 | 45000 | **🔴 Bad** | **🔴 Paid** |
 | Easy Save AI | [Easy Save AI](https://easysaveai.com) | [Submit](https://easysaveai.com/submit-your-ai-tool/) | 7 | 245 | **🟢 Good** | **🔴 Paid** |
 | Easy with AI | [Easy with AI](https://easywithai.com/) | [Submit](https://easywithai.com/submit-tool/) | 33 | 922000 | **🟢 Good** | **🔴 Paid** |
@@ -205,7 +205,7 @@
 | TipSeason | [TipSeason](https://tipseason.com/ai-tools?ref=aidirectori.es) | [Submit](https://tipseason.com/ai-tools/submit) | 27 | 30000 | **🟢 Good** | **🟢 Free** |
 | Tool AI | [Tool AI](https://toolai.io/?ref=aidirectories) | [Submit](https://toolai.io/en/submit?ref=aidirectories) | 7 | 75000 | **🟢 Good** | **🟢 Free** |
 | Tool Directory | [Tool Directory](https://tooldirectory.ai/?ref=aidirectori.es) | [Submit](https://https://tooldirectory.ai/submit-tool?ref=aidirectori.es) | 50 | 4000 | **🟢 Good** | **🟢 Free** |
-| Tool Pilot | [Tool Pilot](https://www.toolpilot.ai/) | [Submit](https://www.toolpilot.ai/pages/submit-your-ai-tool) | 12 | 5000 | **🟢 Good** | **🟢 Free** |
+| Tool Pilot | [Tool Pilot](https://www.toolpilot.ai/) | [Submit](https://www.toolpilot.ai/pages/submit-your-ai-tool) | 51 | 660000 | **🟢 Good** | **🟢 Free** |
 | Toolify.ai | [Toolify.ai](https://www.toolify.ai/) | [Submit](https://www.toolify.ai/login?from=%2Fsubmit) | 13 | 340000 |  | **🔴 Paid** |
 | Toolio AI | [Toolio AI](https://toolio.ai/?ref=aidirectories) | [Submit](https://toolio.ai/submit-a-tool?ref=aidirectories) | 34 | 23000 | **🟢 Good** | **🔴 Paid** |
 | Tools AI | [Tools AI](https://toolsai.net/) | [Submit](https://toolsai.net/add-listing/) | 19 | 60000 | **🔴 Bad** |  |

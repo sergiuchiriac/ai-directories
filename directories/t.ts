@@ -41,8 +41,8 @@ export const directories: Directory[] = [
         "name": "Tool Pilot",
         "link": "https://www.toolpilot.ai/",
         "submission_link": "https://www.toolpilot.ai/pages/submit-your-ai-tool",
-        "domain_rating": 12.0,
-        "monthly_visits": 5000,
+        "domain_rating": 51,
+        "monthly_visits": 660000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
