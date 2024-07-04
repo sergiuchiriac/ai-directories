@@ -353,15 +353,6 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
-        "name": "Aifyles",
-        "link": "https://aifyles.com/?ref=aidirectories",
-        "submission_link": "https://aifyles.com/submit-ai-tools?ref=aidirectories",
-        "domain_rating": 9,
-        "monthly_visits": 30000,
-        "submission_experience": "Good",
-        "pricing": "Paid"
-    },
-    {
         "name": "AI Valley",
         "link": "https://aivalley.ai/?ref=aidirectories",
         "submission_link": "https://aivalley.ai/submit-tool/?ref=aidirectories",

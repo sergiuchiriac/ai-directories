@@ -99,13 +99,13 @@
         "dealText": "20% Discount"
     },
     {
-        "name": "AI Top Rank",
-        "link": "https://aitoprank.com/?ref=aidirectories",
-        "submission_link": "https://aitoprank.com/?ref=aidirectories",
-        "domain_rating": 10,
-        "monthly_visits": 5000,
+        "name": "Aifyles",
+        "link": "https://aifyles.com/?ref=aidirectories",
+        "submission_link": "https://gumroad.com/a/539321875/btegb",
+        "domain_rating": 9,
+        "monthly_visits": 30000,
         "submission_experience": "Good",
-        "pricing": "Free"
+        "pricing": "Paid"
     },
     {
         "name": "There's An AI For That",
@@ -115,6 +115,15 @@
         "monthly_visits": 5400000,
         "submission_experience": "Good",
         "pricing": "Paid"
+    },
+    {
+        "name": "AI Top Rank",
+        "link": "https://aitoprank.com/?ref=aidirectories",
+        "submission_link": "https://aitoprank.com/?ref=aidirectories",
+        "domain_rating": 10,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "100 AI Apps",
