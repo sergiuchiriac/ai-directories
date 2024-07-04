@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 207
+ ### Total directories: 208
 
  
 
@@ -64,6 +64,7 @@
 | AI trendz | [AI trendz](https://aitrendz.xyz/?ref=aidirectories) | [Submit](https://aitrendz.xyz/submit-ai-link/?ref=aidirectories) | 8 | 90 |  | **🔴 Paid** |
 | AI Valley | [AI Valley](https://aivalley.ai/?ref=aidirectories) | [Submit](https://aivalley.ai/submit-tool/?ref=aidirectories) | 25 | 230000 | **🟢 Good** | **🟢 Free** |
 | AI Wizard | [AI Wizard](https://www.aiwizard.ai/?ref=aidirectories) | [Submit](https://www.aiwizard.ai/submit?ref=aidirectories) | 10 | 5000 |  | **🔴 Paid** |
+| Aifyles | [Aifyles](https://aifyles.com/?ref=aidirectories) | [Submit](https://aifyles.com/submit-ai-tools?ref=aidirectories) | 9 | 30000 | **🟢 Good** | **🔴 Paid** |
 | AIToolKit | [AIToolKit](https://www.aitoolkit.org/?ref=aidirectories) | [Submit](https://www.aitoolkit.org/submit/?ref=aidirectories) | 25 | 71000 | **🟢 Good** | **🟢 Free** |
 | AIX Collection | [AIX Collection](https://aixcollection.com/?ref=aidirectories) | [Submit](https://aixcollection.com/submit?ref=aidirectories) | 10 | 100 | **🟢 Good** | **🟢 Free** |
 | Aixploria | [Aixploria](https://www.aixploria.com/en/?ref=aidirectories) | [Submit](https://www.aixploria.com/en/add-ai/?ref=aidirectories) | 17 | 584000 | **🟢 Good** | **🟢 Free** |

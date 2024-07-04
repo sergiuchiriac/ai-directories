@@ -1,5 +1,5 @@
 {
-"count": 207,
+"count": 208,
 "data": [
     {
         "name": "Open Tools",
@@ -528,6 +528,15 @@
         "domain_rating": 10,
         "monthly_visits": 5000,
         "submission_experience": "",
+        "pricing": "Paid"
+    },
+    {
+        "name": "Aifyles",
+        "link": "https://aifyles.com/?ref=aidirectories",
+        "submission_link": "https://aifyles.com/submit-ai-tools?ref=aidirectories",
+        "domain_rating": 9,
+        "monthly_visits": 30000,
+        "submission_experience": "Good",
         "pricing": "Paid"
     },
     {
