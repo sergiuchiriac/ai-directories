@@ -64,7 +64,6 @@
 | AI trendz | [AI trendz](https://aitrendz.xyz/?ref=aidirectories) | [Submit](https://aitrendz.xyz/submit-ai-link/?ref=aidirectories) | 8 | 90 |  | **🔴 Paid** |
 | AI Valley | [AI Valley](https://aivalley.ai/?ref=aidirectories) | [Submit](https://aivalley.ai/submit-tool/?ref=aidirectories) | 25 | 230000 | **🟢 Good** | **🟢 Free** |
 | AI Wizard | [AI Wizard](https://www.aiwizard.ai/?ref=aidirectories) | [Submit](https://www.aiwizard.ai/submit?ref=aidirectories) | 10 | 5000 |  | **🔴 Paid** |
-| Aifyles | [Aifyles](https://aifyles.com/?ref=aidirectories) | [Submit](https://aifyles.com/submit-ai-tools?ref=aidirectories) | 9 | 30000 | **🟢 Good** | **🔴 Paid** |
 | AIToolKit | [AIToolKit](https://www.aitoolkit.org/?ref=aidirectories) | [Submit](https://www.aitoolkit.org/submit/?ref=aidirectories) | 25 | 71000 | **🟢 Good** | **🟢 Free** |
 | AIX Collection | [AIX Collection](https://aixcollection.com/?ref=aidirectories) | [Submit](https://aixcollection.com/submit?ref=aidirectories) | 10 | 100 | **🟢 Good** | **🟢 Free** |
 | Aixploria | [Aixploria](https://www.aixploria.com/en/?ref=aidirectories) | [Submit](https://www.aixploria.com/en/add-ai/?ref=aidirectories) | 17 | 584000 | **🟢 Good** | **🟢 Free** |
@@ -75,6 +74,7 @@
 | Alternative | [Alternative](https://alternative.me/) | [Submit](https://alternative.me/how-to/submit-software/) | 77 | 2000000 | **🔴 Bad** | **🟢 Free** |
 | Alternatives.co | [Alternatives.co](https://alternatives.co/software/ai-tools/) | [Submit](https://alternatives.co/software/ai-tools/) | 12 | 19000 | **🔴 Bad** |  |
 | AlternativeTo | [AlternativeTo](https://alternativeto.net/?ref=aidirectori.es) | [Submit](https://alternativeto.net/manage-item/?ref=aidirectori.es) | 80 | 1300000 | **🟢 Good** | **🟢 Free** |
+| AlterOpen | [AlterOpen](https://alteropen.com/?ref=aidirectori.es) | [Submit](https://github.com/alteropen-com/alteropen/tree/main/content/app) | 0 | 0 | **🟢 Good** | **🟢 Free** |
 | Amaete AI | [Amaete AI](https://www.amaete.ai/) | [Submit](https://www.amaete.ai/) | 11 | 4000 | **🔴 Bad** |  |
 | Ankore | [Ankore](https://ankore.io?ref=aidirectori.es) | [Submit](https://ankore.io/submit/?ref=aidirectori.es) | 0.4 | 1500 | **🟢 Good** | **🔴 Paid** |
 | Anyfp | [Anyfp](https://anyfp.com/?ref=aidirectori.es) | [Submit](https://anyfp.com/contact/?ref=aidirectori.es) | 33 | 1000 | **🟢 Good** | **🔴 Paid** |

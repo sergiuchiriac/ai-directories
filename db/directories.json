@@ -540,15 +540,6 @@
         "pricing": "Paid"
     },
     {
-        "name": "Aifyles",
-        "link": "https://aifyles.com/?ref=aidirectories",
-        "submission_link": "https://aifyles.com/submit-ai-tools?ref=aidirectories",
-        "domain_rating": 9,
-        "monthly_visits": 30000,
-        "submission_experience": "Good",
-        "pricing": "Paid"
-    },
-    {
         "name": "AIToolKit",
         "link": "https://www.aitoolkit.org/?ref=aidirectories",
         "submission_link": "https://www.aitoolkit.org/submit/?ref=aidirectories",
@@ -635,6 +626,15 @@
         "submission_link": "https://alternativeto.net/manage-item/?ref=aidirectori.es",
         "domain_rating": 80,
         "monthly_visits": 1300000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "AlterOpen",
+        "link": "https://alteropen.com/?ref=aidirectori.es",
+        "submission_link": "https://github.com/alteropen-com/alteropen/tree/main/content/app",
+        "domain_rating": 0,
+        "monthly_visits": 0,
         "submission_experience": "Good",
         "pricing": "Free"
     },

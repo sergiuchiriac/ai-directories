@@ -461,6 +461,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "AlterOpen",
+        "link": "https://alteropen.com/?ref=aidirectori.es",
+        "submission_link": "https://github.com/alteropen-com/alteropen/tree/main/content/app",
+        "domain_rating": 0,
+        "monthly_visits": 0,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Amaete AI",
         "link": "https://www.amaete.ai/",
         "submission_link": "https://www.amaete.ai/",
