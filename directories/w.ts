@@ -20,6 +20,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "Woi AI",
+        "link": "https://woy.ai/",
+        "submission_link": "https://woy.ai/submit?ref=aidirectori.es",
+        "domain_rating": 64,
+        "monthly_visits": 43400,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "What the AI",
         "link": "https://whattheai.tech/",
         "submission_link": "https://whattheai.tech/submit-a-tool/",

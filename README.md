@@ -9,7 +9,7 @@
 
  To add a directory, check the [contributing guide](CONTRIBUTING.md).
 
- ### Total directories: 208
+ ### Total directories: 209
 
  
 
@@ -225,4 +225,5 @@
 | Webwiki | [Webwiki](https://www.webwiki.com/) | [Submit](https://www.webwiki.com/info/add-website.html) | 77 | 15000 | **🟢 Good** | **🟢 Free** |
 | What the AI | [What the AI](https://whattheai.tech/) | [Submit](https://whattheai.tech/submit-a-tool/) | 28 | 50000 | **🟢 Good** | **🟢 Free** |
 | Whatsthebigdata | [Whatsthebigdata](https://whatsthebigdata.com/) | [Submit](https://whatsthebigdata.com/submit-new-ai-tool/?ref=aidirectori.es) | 60 | 2700000 | **🟢 Good** | **🟢 Free** |
+| Woi AI | [Woi AI](https://woy.ai/) | [Submit](https://woy.ai/submit?ref=aidirectori.es) | 64 | 43400 | **🟢 Good** | **🟢 Free** |
 | Your Story | [Your Story](https://yourstory.com/?ref=aidirecori.es) | [Submit](https://eu.frms.link/g4juley/?ref=aidirecori.es) | 86 | 8758000 | **🟢 Good** | **🟢 Free** |
