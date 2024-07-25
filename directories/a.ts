@@ -317,6 +317,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "AI Toolz Dir",
+        "link": "https://www.aitoolzdir.com/?ref=aidirectori.es",
+        "submission_link": "https://www.aitoolzdir.com/submit/?ref=aidirectori.es",
+        "domain_rating": 3,
+        "monthly_visits": 150,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "AI Top Picks",
         "link": "https://www.aitoppicks.com/?ref=aidirectori.es",
         "submission_link": "https://www.aitoppicks.com/?ref=aidirectori.es",

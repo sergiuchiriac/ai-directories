@@ -1,5 +1,5 @@
 {
-"count": 209,
+"count": 210,
 "data": [
     {
         "name": "Open Tools",
@@ -513,6 +513,15 @@
         "monthly_visits": 9000,
         "submission_experience": "Bad",
         "pricing": ""
+    },
+    {
+        "name": "AI Toolz Dir",
+        "link": "https://www.aitoolzdir.com/?ref=aidirectori.es",
+        "submission_link": "https://www.aitoolzdir.com/submit/?ref=aidirectori.es",
+        "domain_rating": 3,
+        "monthly_visits": 150,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "AI Top Picks",
