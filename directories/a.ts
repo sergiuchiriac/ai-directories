@@ -320,7 +320,7 @@ export const directories: Directory[] = [
         "name": "AI Toolz Dir",
         "link": "https://www.aitoolzdir.com/?ref=aidirectori.es",
         "submission_link": "https://www.aitoolzdir.com/submit/?ref=aidirectori.es",
-        "domain_rating": 3,
+        "domain_rating": 5,
         "monthly_visits": 150,
         "submission_experience": "Good",
         "pricing": "Free"
