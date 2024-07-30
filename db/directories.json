@@ -1,5 +1,5 @@
 {
-"count": 210,
+"count": 211,
 "data": [
     {
         "name": "Open Tools",
@@ -1863,6 +1863,15 @@
         "monthly_visits": 23000,
         "submission_experience": "Good",
         "pricing": "Paid"
+    },
+    {
+        "name": "ToolList.ai",
+        "link": "https://toollist.ai/?ref=aidirectories",
+        "submission_link": "https://toollist.ai/submit-tool?ref=aidirectories",
+        "domain_rating": 9,
+        "monthly_visits": 12000,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "Tools AI",
