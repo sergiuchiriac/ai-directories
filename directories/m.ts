@@ -37,4 +37,13 @@ export const directories: Directory[] = [
     "submission_experience": "Good",
     "pricing": "Free"
   },
+  {
+    "name": "MyBestAITool",
+    "link": "https://mybestaitool.com/?ref=aidirectori.es",
+    "submission_link": "https://mybestaitool.com/submit?ref=aidirectori.es",
+    "domain_rating": 2,
+    "monthly_visits":1000,
+    "submission_experience": "Good",
+    "pricing": "Free"
+  },
 ]
