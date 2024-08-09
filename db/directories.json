@@ -1,5 +1,5 @@
 {
-"count": 211,
+"count": 210,
 "data": [
     {
         "name": "Open Tools",
@@ -11,17 +11,6 @@
         "pricing": "Paid",
         "dealCode": "DIRECTORIES20",
         "dealText": "20% Discount"
-    },
-    {
-        "name": "aitools.fyi",
-        "link": "https://aitools.fyi/?ref=aidirectori.es",
-        "submission_link": "https://aitools.fyi/submit?ref=aidirectori.es",
-        "domain_rating": 33,
-        "monthly_visits": 790000,
-        "submission_experience": "Good",
-        "pricing": "Paid",
-        "dealCode": "AID30",
-        "dealText": "30% Discount"
     },
     {
         "name": "BasedTools",
@@ -119,6 +108,17 @@
         "pricing": "Paid",
         "dealCode": "AIDirectories10",
         "dealText": "10% Discount"
+    },
+    {
+        "name": "aitools.fyi",
+        "link": "https://aitools.fyi/?ref=aidirectori.es",
+        "submission_link": "https://aitools.fyi/submit?ref=aidirectori.es",
+        "domain_rating": 33,
+        "monthly_visits": 790000,
+        "submission_experience": "Good",
+        "pricing": "Paid",
+        "dealCode": "AID30",
+        "dealText": "30% Discount"
     },
     {
         "name": "Aifyles",
@@ -529,8 +529,8 @@
         "name": "AI Toolz Dir",
         "link": "https://www.aitoolzdir.com/?ref=aidirectori.es",
         "submission_link": "https://www.aitoolzdir.com/submit/?ref=aidirectori.es",
-        "domain_rating": 5,
-        "monthly_visits": 150,
+        "domain_rating": 18,
+        "monthly_visits": 400,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -936,15 +936,6 @@
         "submission_link": "https://digitalagencynetwork.com/join-free-listing-tools/",
         "domain_rating": 76,
         "monthly_visits": 528000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "Dokey AI",
-        "link": "https://dokeyai.com/?ref=aidirectori.es",
-        "submission_link": "https://dokeyai.com/submit?ref=aidirecotri.es",
-        "domain_rating": 37,
-        "monthly_visits": 6000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
