@@ -77,9 +77,9 @@ export const directories: Directory[] = [
         "name": "DoMore",
         "link": "https://domore.ai/",
         "submission_link": "https://domore.ai/contact-us",
-        "domain_rating": 5.0,
-        "monthly_visits": 45000,
-        "submission_experience": "Bad",
+        "domain_rating": 27,
+        "monthly_visits": 82000,
+        "submission_experience": "Good",
         "pricing": "Paid"
     },
 ]
