@@ -371,6 +371,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "AI Zones",
+        "link": "https://aizones.io/?ref=aidirectories",
+        "submission_link": "https://aizones.io/submit?ref=aidirectories",
+        "domain_rating": 13,
+        "monthly_visits": 46000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
         "name": "Aixploria",
         "link": "https://www.aixploria.com/en/?ref=aidirectories",
         "submission_link": "https://www.aixploria.com/en/add-ai/?ref=aidirectories",

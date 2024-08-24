@@ -582,6 +582,15 @@
         "pricing": "Paid"
     },
     {
+        "name": "AI Zones",
+        "link": "https://aizones.io/?ref=aidirectories",
+        "submission_link": "https://aizones.io/submit?ref=aidirectories",
+        "domain_rating": 13,
+        "monthly_visits": 46000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
         "name": "AIToolKit",
         "link": "https://www.aitoolkit.org/?ref=aidirectories",
         "submission_link": "https://www.aitoolkit.org/submit/?ref=aidirectories",
@@ -801,8 +810,8 @@
         "name": "BroUseAI",
         "link": "https://www.brouseai.com/?ref=aidirectori.es",
         "submission_link": "https://www.brouseai.com/?ref=aidirectori.es",
-        "domain_rating": 35,
-        "monthly_visits": 31000,
+        "domain_rating": 17,
+        "monthly_visits": 10000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

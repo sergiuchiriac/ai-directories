@@ -59,8 +59,8 @@ export const directories: Directory[] = [
         "name": "BroUseAI",
         "link": "https://www.brouseai.com/?ref=aidirectori.es",
         "submission_link": "https://www.brouseai.com/?ref=aidirectori.es",
-        "domain_rating": 35,
-        "monthly_visits": 31000,
+        "domain_rating": 17,
+        "monthly_visits": 10000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
