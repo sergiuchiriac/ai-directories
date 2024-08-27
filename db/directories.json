@@ -56,7 +56,8 @@
         "submission_experience": "Good",
         "pricing": "Paid",
         "dealCode": "Q3ODY5NA",
-        "dealText": "10% Discount"
+        "dealText": "10% Discount",
+        "icon": "https://pbs.twimg.com/profile_images/1626279065995943940/qaxFGlrt_400x400.jpg"
     },
     {
         "name": "AI Top Tools",
@@ -67,7 +68,8 @@
         "submission_experience": "Good",
         "pricing": "Paid",
         "dealCode": "AID20",
-        "dealText": "20% Discount"
+        "dealText": "20% Discount",
+        "icon": "https://pbs.twimg.com/profile_images/1749843669824274432/Hobf7v6D_400x400.jpg"
     },
     {
         "name": "Uneed Best",
@@ -78,7 +80,8 @@
         "submission_experience": "Good",
         "pricing": "Paid",
         "dealCode": "AIDIRECTORIES",
-        "dealText": "20% Discount"
+        "dealText": "20% Discount",
+        "icon": "https://pbs.twimg.com/profile_images/1749808918518509568/BzqYq2qf_400x400.png"
     },
     {
         "name": "GetByte",
@@ -89,7 +92,8 @@
         "submission_experience": "Good",
         "pricing": "Paid",
         "dealCode": "AIDIR40",
-        "dealText": "40% Discount"
+        "dealText": "40% Discount",
+        "icon": "https://www.getbyte.tech/get-byte.png"
     },
     {
         "name": "AI Tools One",
@@ -100,7 +104,8 @@
         "submission_experience": "Good",
         "pricing": "Paid",
         "dealCode": "AIDIR20",
-        "dealText": "20% Discount"
+        "dealText": "20% Discount",
+        "icon": "https://pbs.twimg.com/profile_images/1755562365028909056/w9z8YTEW_400x400.jpg"
     },
     {
         "name": "SEOFAI",
@@ -111,7 +116,8 @@
         "submission_experience": "Good",
         "pricing": "Paid",
         "dealCode": "AIDirectories10",
-        "dealText": "10% Discount"
+        "dealText": "10% Discount",
+        "icon": "https://pbs.twimg.com/profile_images/1711867419776454656/Ym9do8Zm_400x400.jpg"
     },
     {
         "name": "aitools.fyi",
