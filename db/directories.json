@@ -44,8 +44,7 @@
         "domain_rating": 3.5,
         "monthly_visits": 52000,
         "submission_experience": "Good",
-        "pricing": "Free",
-        "icon": "https://cdn.prod.website-files.com/657383d8015aa77858e5255a/657ede811611026d09c42966_Twitter%20header%20-%2015%20(1)-p-500.png"
+        "pricing": "Free"
     },
     {
         "name": "Top AI Tools",
@@ -92,8 +91,7 @@
         "submission_experience": "Good",
         "pricing": "Paid",
         "dealCode": "AIDIR40",
-        "dealText": "40% Discount",
-        "icon": "https://www.getbyte.tech/get-byte.png"
+        "dealText": "40% Discount"
     },
     {
         "name": "AI Tools One",
