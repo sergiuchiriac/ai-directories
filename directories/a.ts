@@ -374,7 +374,7 @@ export const directories: Directory[] = [
         "name": "AI Zones",
         "link": "https://aizones.io/?ref=aidirectories",
         "submission_link": "https://aizones.io/submit?ref=aidirectories",
-        "domain_rating": 13,
+        "domain_rating": 30,
         "monthly_visits": 46000,
         "submission_experience": "Good",
         "pricing": "Paid"
