@@ -34,7 +34,8 @@
         "submission_experience": "Good",
         "pricing": "Free",
         "dealCode": "DIRECTORY50",
-        "dealText": "50% Discount"
+        "dealText": "50% Discount",
+        "icon": "https://pbs.twimg.com/profile_images/1792492898237214720/FcPQ01Bi_400x400.jpg"
     },
     {
         "name": "Human or Not",
@@ -43,7 +44,8 @@
         "domain_rating": 3.5,
         "monthly_visits": 52000,
         "submission_experience": "Good",
-        "pricing": "Free"
+        "pricing": "Free",
+        "icon": "https://cdn.prod.website-files.com/657383d8015aa77858e5255a/657ede811611026d09c42966_Twitter%20header%20-%2015%20(1)-p-500.png"
     },
     {
         "name": "Top AI Tools",
