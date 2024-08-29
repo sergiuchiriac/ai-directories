@@ -137,7 +137,8 @@
         "submission_experience": "Good",
         "pricing": "Free",
         "dealCode": "AIDIRVIP",
-        "dealText": "50% Discount"
+        "dealText": "50% Discount",
+        "icon": "https://aitooltrek.com/images/favicon.svg"
     },
     {
         "name": "AI Zones",
@@ -148,7 +149,8 @@
         "submission_experience": "Good",
         "pricing": "Paid",
         "dealCode": "aidirectories50",
-        "dealText": "50% Discount"
+        "dealText": "50% Discount",
+        "icon": "https://pbs.twimg.com/profile_images/1755998314158333952/VD6sKjta_400x400.jpg"
     },
     {
         "name": "Aifyles",
@@ -157,7 +159,8 @@
         "domain_rating": 9,
         "monthly_visits": 30000,
         "submission_experience": "Good",
-        "pricing": "Paid"
+        "pricing": "Paid",
+        "icon": "https://pbs.twimg.com/profile_images/1761364010199621632/VCRrp3H7_400x400.jpg"
     },
     {
         "name": "There's An AI For That",
@@ -166,7 +169,8 @@
         "domain_rating": 75,
         "monthly_visits": 5400000,
         "submission_experience": "Good",
-        "pricing": "Paid"
+        "pricing": "Paid",
+        "icon": "https://pbs.twimg.com/profile_images/1795256389721337856/cWLOcGy4_400x400.jpg"
     },
     {
         "name": "AI Top Rank",
