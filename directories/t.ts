@@ -29,6 +29,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "The Next AI Tool",
+        "link": "https://thenextaitool.com",
+        "submission_link": "https://thenextaitool.com",
+        "domain_rating": 0,
+        "monthly_visits": 0,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "That AI Collection",
         "link": "https://github.com/ai-collection/ai-collection",
         "submission_link": "https://www.thataicollection.com/submit/",
