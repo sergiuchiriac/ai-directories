@@ -4,7 +4,7 @@
     {
         "name": "Open Tools",
         "link": "https://opentools.ai/?ref=aidirectori.es",
-        "submission_link": "https://friends.opentools.ai?ref=aidirectori.es",
+        "submission_link": "https://opentools.ai/friends/launch-tool?ref=aidirectori.es",
         "domain_rating": 37,
         "monthly_visits": 91000,
         "submission_experience": "Good",
@@ -83,15 +83,16 @@
         "icon": "https://pbs.twimg.com/profile_images/1749808918518509568/BzqYq2qf_400x400.png"
     },
     {
-        "name": "GetByte",
-        "link": "https://getbyte.tech?ref=aidirectories",
-        "submission_link": "https://getbyte.tech/listing/basic-product-details?ref=aidirectories",
-        "domain_rating": 14,
-        "monthly_visits": 3500,
+        "name": "That AI Collection",
+        "link": "https://www.thataicollection.com/",
+        "submission_link": "https://aicollection.lemonsqueezy.com?aff=8Mjlz",
+        "domain_rating": 41,
+        "monthly_visits": 553400,
         "submission_experience": "Good",
         "pricing": "Paid",
-        "dealCode": "AIDIR40",
-        "dealText": "40% Discount"
+        "dealCode": "AZNJUYMQ",
+        "dealText": "10% Discount",
+        "icon": "https://pbs.twimg.com/profile_images/1652202412222889986/ixH50eBo_400x400.jpg"
     },
     {
         "name": "AI Tools One",
@@ -116,6 +117,28 @@
         "dealCode": "AIDirectories10",
         "dealText": "10% Discount",
         "icon": "https://pbs.twimg.com/profile_images/1711867419776454656/Ym9do8Zm_400x400.jpg"
+    },
+    {
+        "name": "AlterOpen",
+        "link": "https://alteropen.com/?ref=aidirectori.es",
+        "submission_link": "https://alteropen.com/submit/pack?ref=aidirectori.es",
+        "domain_rating": 7,
+        "monthly_visits": 1000,
+        "submission_experience": "Good",
+        "pricing": "Paid",
+        "dealCode": "AIDIRECTORISERG70",
+        "dealText": "70% Discount"
+    },
+    {
+        "name": "GetByte",
+        "link": "https://getbyte.tech?ref=aidirectories",
+        "submission_link": "https://getbyte.tech/listing/basic-product-details?ref=aidirectories",
+        "domain_rating": 14,
+        "monthly_visits": 3500,
+        "submission_experience": "Good",
+        "pricing": "Paid",
+        "dealCode": "AIDIR40",
+        "dealText": "40% Discount"
     },
     {
         "name": "aitools.fyi",
@@ -691,15 +714,6 @@
         "submission_link": "https://alternativeto.net/manage-item/?ref=aidirectori.es",
         "domain_rating": 80,
         "monthly_visits": 1300000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "AlterOpen",
-        "link": "https://alteropen.com/?ref=aidirectori.es",
-        "submission_link": "https://github.com/alteropen-com/alteropen/tree/main/content/app",
-        "domain_rating": 0,
-        "monthly_visits": 0,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -1799,15 +1813,6 @@
         "domain_rating": 54,
         "monthly_visits": 134000,
         "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "That AI Collection",
-        "link": "https://github.com/ai-collection/ai-collection",
-        "submission_link": "https://www.thataicollection.com/submit/",
-        "domain_rating": 32,
-        "monthly_visits": 34000,
-        "submission_experience": "Bad",
         "pricing": "Free"
     },
     {
