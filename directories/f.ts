@@ -11,6 +11,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "F6S",
+        "link": "https://www.f6s.com/?ref=aidirectori.es",
+        "submission_link": "https://www.f6s.com/?ref=aidirectori.es",
+        "domain_rating": 86,
+        "monthly_visits": 1600000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Fazier",
         "link": "https://fazier.com/?ref=aidirectori.es",
         "submission_link": "https://fazier.com/submit?ref=aidirectori.es",
