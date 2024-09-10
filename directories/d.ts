@@ -56,6 +56,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "DetectorTools.ai",
+        "link": "https://detectortools.ai/",
+        "submission_link": "https://detectortools.ai/submit-tool/",
+        "domain_rating": 17,
+        "monthly_visits": 4000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Digi Pro Tools",
         "link": "https://digiprotoolz.com/",
         "submission_link": "https://digiprotoolz.com/contact-us/",
