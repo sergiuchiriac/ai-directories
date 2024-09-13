@@ -119,6 +119,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "Free AI Tool",
+        "link": "https://freeaitool.ai/?ref=aidirectories",
+        "submission_link": "https://freeaitool.ai/submit?ref=aidirectories",
+        "domain_rating": 25,
+        "monthly_visits": 7000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "FinancesOnline",
         "link": "https://financesonline.com/?ref=aidirectories",
         "submission_link": "https://financesonline.com/add-product/?ref=aidirectories",
