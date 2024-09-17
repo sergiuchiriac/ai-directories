@@ -482,8 +482,8 @@ export const directories: Directory[] = [
         "name": "AlterOpen",
         "link": "https://alteropen.com/?ref=aidirectori.es",
         "submission_link": "https://github.com/alteropen-com/alteropen/tree/main/content/app",
-        "domain_rating": 0,
-        "monthly_visits": 0,
+        "domain_rating": 39,
+        "monthly_visits": 2000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
