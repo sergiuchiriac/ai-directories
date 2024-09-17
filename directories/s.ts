@@ -101,6 +101,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "Startup Spotlight",
+        "link": "https://www.startupspotlight.co?ref=aidirectories",
+        "submission_link": "https://tally.so/r/nrLJRp",
+        "domain_rating": 18,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Startup Base",
         "link": "https://startupbase.io/?ref=aidirectori.es",
         "submission_link": "https://startupbase.io/submissions/start?ref=aidirectori.es",
