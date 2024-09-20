@@ -45,6 +45,7 @@
         "monthly_visits": 10000,
         "submission_experience": "Good",
         "pricing": "Free",
+        "dealCode": "Buy 1 take 2",
         "dealText": "Buy 1 take 2"
     },
     {
@@ -55,6 +56,7 @@
         "monthly_visits": 5000,
         "submission_experience": "Good",
         "pricing": "Free",
+        "dealCode": "Buy 1 take 2",
         "dealText": "Buy 1 take 2"
     },
     {
