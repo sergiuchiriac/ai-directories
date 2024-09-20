@@ -38,13 +38,24 @@
         "icon": "https://pbs.twimg.com/profile_images/1792492898237214720/FcPQ01Bi_400x400.jpg"
     },
     {
-        "name": "Human or Not",
-        "link": "https://www.humanornot.co/?ref=aidirectori.es",
-        "submission_link": "https://www.humanornot.co/submit-tool?ref=aidirectori.es",
-        "domain_rating": 6,
-        "monthly_visits": 52000,
+        "name": "Tiny Startups",
+        "link": "https://www.tinystartups.co/?ref=aidirectori.es",
+        "submission_link": "https://buy.stripe.com/aEU7vOb0s2fugkUdRy",
+        "domain_rating": 44,
+        "monthly_visits": 10000,
         "submission_experience": "Good",
-        "pricing": "Free"
+        "pricing": "Free",
+        "dealText": "Buy 1 take 2"
+    },
+    {
+        "name": "Startup Spotlight",
+        "link": "https://www.startupspotlight.co?ref=aidirectories",
+        "submission_link": "https://buy.stripe.com/aEU7vOb0s2fugkUdRy",
+        "domain_rating": 18,
+        "monthly_visits": 5000,
+        "submission_experience": "Good",
+        "pricing": "Free",
+        "dealText": "Buy 1 take 2"
     },
     {
         "name": "Top AI Tools",
@@ -140,17 +151,7 @@
         "dealCode": "AIDIR40",
         "dealText": "40% Discount"
     },
-    {
-        "name": "aitools.fyi",
-        "link": "https://aitools.fyi/?ref=aidirectori.es",
-        "submission_link": "https://aitools.fyi/submit?ref=aidirectori.es",
-        "domain_rating": 42,
-        "monthly_visits": 790000,
-        "submission_experience": "Good",
-        "pricing": "Paid",
-        "dealCode": "AID30",
-        "dealText": "30% Discount"
-    },
+
     {
         "name": "AI Tool Trek",
         "link": "https://aitooltrek.com/?ref=aidirectori.es",
@@ -174,6 +175,26 @@
         "dealCode": "aidirectories50",
         "dealText": "50% Discount",
         "icon": "https://pbs.twimg.com/profile_images/1755998314158333952/VD6sKjta_400x400.jpg"
+    },
+    {
+        "name": "Human or Not",
+        "link": "https://www.humanornot.co/?ref=aidirectori.es",
+        "submission_link": "https://www.humanornot.co/submit-tool?ref=aidirectori.es",
+        "domain_rating": 6,
+        "monthly_visits": 52000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "aitools.fyi",
+        "link": "https://aitools.fyi/?ref=aidirectori.es",
+        "submission_link": "https://aitools.fyi/submit?ref=aidirectori.es",
+        "domain_rating": 42,
+        "monthly_visits": 790000,
+        "submission_experience": "Good",
+        "pricing": "Paid",
+        "dealCode": "AID30",
+        "dealText": "30% Discount"
     },
     {
         "name": "Aifyles",
@@ -1717,15 +1738,6 @@
         "pricing": "Free"
     },
     {
-        "name": "Startup Spotlight",
-        "link": "https://www.startupspotlight.co?ref=aidirectories",
-        "submission_link": "https://buy.stripe.com/aEU7vOb0s2fugkUdRy",
-        "domain_rating": 18,
-        "monthly_visits": 5000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
         "name": "Startup AI Tools",
         "link": "https://www.startups.fyi/",
         "submission_link": "https://tally.so/r/3lOGLk",
@@ -1884,15 +1896,6 @@
         "submission_link": "https://thenextaitool.com",
         "domain_rating": 0,
         "monthly_visits": 0,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
-        "name": "Tiny Startups",
-        "link": "https://www.tinystartups.co/?ref=aidirectori.es",
-        "submission_link": "https://buy.stripe.com/aEU7vOb0s2fugkUdRy",
-        "domain_rating": 44,
-        "monthly_visits": 10000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
