@@ -46,7 +46,8 @@
         "submission_experience": "Good",
         "pricing": "Free",
         "dealCode": "Buy 1 take 2",
-        "dealText": "Buy 1 take 2"
+        "dealText": "Buy 1 take 2",
+        "icon": "https://cdn.prod.website-files.com/657b3d8ca1cab4015f06c850/65f57018d631fa7967ddaf12_icon.svg"
     },
     {
         "name": "Startup Spotlight",
@@ -57,7 +58,8 @@
         "submission_experience": "Good",
         "pricing": "Free",
         "dealCode": "Buy 1 take 2",
-        "dealText": "Buy 1 take 2"
+        "dealText": "Buy 1 take 2",
+        "icon": "https://cdn.prod.website-files.com/657b3d8ca1cab4015f06c850/66edda4b853c47efe45e9b42_icon.png"
     },
     {
         "name": "Top AI Tools",
