@@ -203,8 +203,8 @@ export const directories: Directory[] = [
         "name": "AI tool hunt",
         "link": "https://www.aitoolhunt.com/",
         "submission_link": "https://www.aitoolhunt.com/addTool",
-        "domain_rating": 22.0,
-        "monthly_visits": 80000,
+        "domain_rating": 22,
+        "monthly_visits": 100000,
         "submission_experience": "Good",
         "pricing": "Paid"
     },
