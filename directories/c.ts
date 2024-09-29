@@ -64,4 +64,13 @@ export const directories: Directory[] = [
         "submission_experience": "Good",
         "pricing": "Free"
     },
+    {
+        "name": "Critiqs AI",
+        "link": " https://critiqs.ai/?ref=aidirectori.es",
+        "submission_link": "https://critiqs.ai/submit-ai-tool/?ref=aidirectori.es",
+        "domain_rating": 21,
+        "monthly_visits": 2000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
 ]
