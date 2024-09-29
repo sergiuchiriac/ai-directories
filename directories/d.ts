@@ -91,4 +91,13 @@ export const directories: Directory[] = [
         "submission_experience": "Good",
         "pricing": "Paid"
     },
+    {
+        "name": "Drop Your AI",
+        "link": "https://www.dropyourai.com/?ref=aidirectori.es",
+        "submission_link": "https://www.dropyourai.com/submit-tool?ref=aidirectori.es",
+        "domain_rating": 16,
+        "monthly_visits": 6800,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
 ]
