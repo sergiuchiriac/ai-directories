@@ -1031,6 +1031,15 @@
         "pricing": "Free"
     },
     {
+        "name": "DigitalSamaritan",
+        "link": "https://www.digitalsamaritan.co/?ref=aidirecotri.es",
+        "submission_link": "https://www.digitalsamaritan.co/add-your-product?ref=aidirecotri.es",
+        "domain_rating": 35,
+        "monthly_visits": 10000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
         "name": "DoMore",
         "link": "https://domore.ai/",
         "submission_link": "https://domore.ai/contact-us",
@@ -1860,10 +1869,19 @@
     },
     {
         "name": "Super Tools",
-        "link": "https://supertools.therundown.ai/",
-        "submission_link": "https://supertools.therundown.ai/submit",
-        "domain_rating": 20,
-        "monthly_visits": 380000,
+        "link": "https://supertools.therundown.ai/?ref=aidirectori.es",
+        "submission_link": "https://supertools.therundown.ai/submit?ref=aidirectori.es",
+        "domain_rating": 55,
+        "monthly_visits": 257200,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "SustainabilitySoftwares",
+        "link": "https://sustainabilitysoftwares.com?ref=aidirectori.es",
+        "submission_link": "https://sustainabilitysoftwares.com/submit?ref=aidirectori.es",
+        "domain_rating": 0,
+        "monthly_visits": 1000,
         "submission_experience": "Good",
         "pricing": "Free"
     },

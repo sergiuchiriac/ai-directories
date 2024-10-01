@@ -254,6 +254,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "SustainabilitySoftwares",
+        "link": "https://sustainabilitysoftwares.com?ref=aidirectori.es",
+        "submission_link": "https://sustainabilitysoftwares.com/submit?ref=aidirectori.es",
+        "domain_rating": 0,
+        "monthly_visits": 1000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Synoptica",
         "link": "https://synoptica.com/?ref=aidirectori.es",
         "submission_link": "https://synoptica.com/submit-an-ai-tool/?ref=aidirectori.es",

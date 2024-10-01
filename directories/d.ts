@@ -83,6 +83,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "DigitalSamaritan",
+        "link": "https://www.digitalsamaritan.co/?ref=aidirecotri.es",
+        "submission_link": "https://www.digitalsamaritan.co/add-your-product?ref=aidirecotri.es",
+        "domain_rating": 35,
+        "monthly_visits": 10000,
+        "submission_experience": "Good",
+        "pricing": "Paid"
+    },
+    {
         "name": "DoMore",
         "link": "https://domore.ai/",
         "submission_link": "https://domore.ai/contact-us",
