@@ -10,4 +10,13 @@ export const directories: Directory[] = [
         "submission_experience": "",
         "pricing": ""
     },
+    {
+        "name": "Hack the Prompt",
+        "link": "https://hacktheprompt.com",
+        "submission_link": "https://hacktheprompt.com/submit-new-ai-tools",
+        "domain_rating": 2,
+        "monthly_visits": 600,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
 ]
