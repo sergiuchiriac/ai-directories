@@ -109,6 +109,18 @@
         "icon": "https://pbs.twimg.com/profile_images/1749808918518509568/BzqYq2qf_400x400.png"
     },
     {
+        "name": "Toolio AI",
+        "link": "https://toolio.ai/?ref=aidirectories",
+        "submission_link": "https://toolio.ai/submit-a-tool?ref=aidirectories",
+        "domain_rating": 34,
+        "monthly_visits": 23000,
+        "submission_experience": "Good",
+        "pricing": "Paid",
+        "dealCode": "TOOLIO48",
+        "dealText": "48% Discount",
+        "icon": "https://uploads-ssl.webflow.com/65c65e7858f778b425edee6b/66435f945840e853a4effe94_Toolio_logo.webp"
+    },
+    {
         "name": "That AI Collection",
         "link": "https://www.thataicollection.com/",
         "submission_link": "https://aicollection.lemonsqueezy.com?aff=8Mjlz",
@@ -1991,15 +2003,6 @@
         "domain_rating": 13,
         "monthly_visits": 340000,
         "submission_experience": "",
-        "pricing": "Paid"
-    },
-    {
-        "name": "Toolio AI",
-        "link": "https://toolio.ai/?ref=aidirectories",
-        "submission_link": "https://toolio.ai/submit-a-tool?ref=aidirectories",
-        "domain_rating": 34,
-        "monthly_visits": 23000,
-        "submission_experience": "Good",
         "pricing": "Paid"
     },
     {
