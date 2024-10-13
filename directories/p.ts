@@ -29,6 +29,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "Promptzone",
+        "link": "https://www.promptzone.com/",
+        "submission_link": "https://www.promptzone.com/",
+        "domain_rating": 25,
+        "monthly_visits": 53000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Productivity Directory",
         "link": "https://productivity.directory/",
         "submission_link": "https://productivity.directory/s/submit",
