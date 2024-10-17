@@ -29,6 +29,15 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
+        "name": "Bestwebdesigntools",
+        "link": "https://bestwebdesigntools.com/?ref=aidirectori.es",
+        "submission_link": "https://bestwebdesigntools.com/submit/?ref=aidirectori.es",
+        "domain_rating": 3.7,
+        "monthly_visits": 3000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Beta List",
         "link": "https://betalist.com/",
         "submission_link": "https://betalist.com/submissions/new",
