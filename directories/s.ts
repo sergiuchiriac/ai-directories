@@ -263,6 +263,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "Simple Lister",
+        "link": "https://simplelister.com?ref=aidirectori.es",
+        "submission_link": "https://simplelister.com/submit?ref=aidirectori.es",
+        "domain_rating": 26,
+        "monthly_visits": 9000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Synoptica",
         "link": "https://synoptica.com/?ref=aidirectori.es",
         "submission_link": "https://synoptica.com/submit-an-ai-tool/?ref=aidirectori.es",
