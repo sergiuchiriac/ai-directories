@@ -74,6 +74,15 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
+        "name": "Disrupt500",
+        "link": "https://www.disrupt500.com/?ref=aidirectori.es",
+        "submission_link": "https://www.disrupt500.com/submit-your-tool?ref=aidirectori.es",
+        "domain_rating": 12.0,
+        "monthly_visits": 1000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "Digital Agency Network",
         "link": "https://digitalagencynetwork.com/?ref=aidirecotri.es",
         "submission_link": "https://digitalagencynetwork.com/join-free-listing-tools/",
