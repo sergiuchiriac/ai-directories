@@ -145,6 +145,18 @@
         "icon": "https://pbs.twimg.com/profile_images/1755562365028909056/w9z8YTEW_400x400.jpg"
     },
     {
+        "name": "AIStage",
+        "link": "https://aistage.net?ref=aidirectories",
+        "submission_link": "https://aistage.net/submit/?ref=aidirectories",
+        "domain_rating": 38,
+        "monthly_visits": 1000,
+        "submission_experience": "Good",
+        "pricing": "Free",
+        "dealCode": "AIDIRECTORIES50",
+        "dealText": "50% Discount",
+        "icon": "aistage.net/logo.svg"
+    },
+    {
         "name": "SEOFAI",
         "link": "https://seofai.com/?ref=aidirectori.es",
         "submission_link": "https://seofai.com/submit-ai-tool/?ref=aidirectori.es",
