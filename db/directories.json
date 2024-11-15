@@ -154,7 +154,7 @@
         "pricing": "Free",
         "dealCode": "AIDIRECTORIES50",
         "dealText": "50% Discount",
-        "icon": "aistage.net/logo.svg"
+        "icon": "https://aistage.net/logo.svg"
     },
     {
         "name": "SEOFAI",
