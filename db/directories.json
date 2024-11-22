@@ -225,6 +225,16 @@
         "pricing": "Free"
     },
     {
+        "name": "Affiliate For Creators",
+        "link": "https://affiliateforcreators.com/",
+        "submission_link": "https://www.paypal.com/ncp/payment/YQHUXD7NLJM7N",
+        "domain_rating": 1,
+        "monthly_visits": 9000,
+        "submission_experience": "Good",
+        "pricing": "Paid",
+        "icon": "https://mfyqfyawojwaqzfpdlhk.supabase.co/storage/v1/object/public/AFC.com%20media%20assets/AFC-logo.png"
+    },
+    {
         "name": "Aifyles",
         "link": "https://aifyles.com/?ref=aidirectories",
         "submission_link": "https://gumroad.com/a/539321875/btegb",
