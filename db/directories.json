@@ -273,6 +273,16 @@
         "pricing": "Free"
     },
     {
+        "name": "Startup Heroes",
+        "link": "https://startupheroes.io/?ref=aidirectori.es",
+        "submission_link": "https://startupheroes.io/submit/?ref=aidirectori.es",
+        "domain_rating": 38,
+        "monthly_visits": 2000,
+        "submission_experience": "Good",
+        "pricing": "Paid",
+        "icon": "https://startupheroes.io/wp-content/uploads/startup-heroes-stacked-logo-black.svg"
+    },
+    {
         "name": "100 AI Apps",
         "link": "https://100apps.org/?ref=aidirectori.es",
         "submission_link": "https://100apps.org/?ref=aidirectori.es",
@@ -1095,10 +1105,11 @@
         "name": "Disrupt500",
         "link": "https://www.disrupt500.com/?ref=aidirectori.es",
         "submission_link": "https://www.disrupt500.com/submit-your-tool?ref=aidirectori.es",
-        "domain_rating": 12.0,
-        "monthly_visits": 1000,
+        "domain_rating": 19,
+        "monthly_visits": 3000,
         "submission_experience": "Good",
-        "pricing": "Free"
+        "pricing": "Free",
+        "icon": "https://www.disrupt500.com/content/images/size/w30/2024/09/New-Disrupt500-LOGO-Final.png"
     },
     {
         "name": "DoMore",
