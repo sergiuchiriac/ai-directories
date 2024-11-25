@@ -283,6 +283,16 @@
         "icon": "https://startupheroes.io/wp-content/uploads/startup-heroes-stacked-logo-black.svg"
     },
     {
+        "name": "ProSaasHub",
+        "link": "https://prosaashub.com/",
+        "submission_link": "https://prosaashub.com/",
+        "domain_rating": 0.6,
+        "monthly_visits": 50,
+        "submission_experience": "Good",
+        "pricing": "Free",
+        "icon": "https://prosaashub.com/_next/image?url=%2Flogo.png&w=64&q=75"
+    },
+    {
         "name": "100 AI Apps",
         "link": "https://100apps.org/?ref=aidirectori.es",
         "submission_link": "https://100apps.org/?ref=aidirectori.es",
