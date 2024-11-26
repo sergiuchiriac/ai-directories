@@ -56,15 +56,6 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
-        "name": "Invent List",
-        "link": "https://inventlist.com/?ref=aidirectori.es",
-        "submission_link": "https://inventlist.com/sites/new?ref=aidirectori.es",
-        "domain_rating": 2.5,
-        "monthly_visits": 200,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
         "name": "Ismailblogger",
         "link": "https://ismailblogger.com/tools-ai/?ref=aidirectori.es",
         "submission_link": "https://ismailblogger.com/submit-tools/?ref=aidirectori.es",

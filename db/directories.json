@@ -231,8 +231,7 @@
         "domain_rating": 1,
         "monthly_visits": 9000,
         "submission_experience": "Good",
-        "pricing": "Paid",
-        "icon": "https://mfyqfyawojwaqzfpdlhk.supabase.co/storage/v1/object/public/AFC.com%20media%20assets/AFC-logo.png"
+        "pricing": "Paid"
     },
     {
         "name": "Aifyles",
@@ -289,8 +288,7 @@
         "domain_rating": 0.6,
         "monthly_visits": 50,
         "submission_experience": "Good",
-        "pricing": "Free",
-        "icon": "https://prosaashub.com/_next/image?url=%2Flogo.png&w=64&q=75"
+        "pricing": "Free"
     },
     {
         "name": "100 AI Apps",
@@ -1453,15 +1451,6 @@
         "monthly_visits": 35000,
         "submission_experience": "Bad",
         "pricing": ""
-    },
-    {
-        "name": "Invent List",
-        "link": "https://inventlist.com/?ref=aidirectori.es",
-        "submission_link": "https://inventlist.com/sites/new?ref=aidirectori.es",
-        "domain_rating": 2.5,
-        "monthly_visits": 200,
-        "submission_experience": "Good",
-        "pricing": "Free"
     },
     {
         "name": "Invent List",
