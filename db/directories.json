@@ -216,6 +216,18 @@
         "icon": "https://pbs.twimg.com/profile_images/1755998314158333952/VD6sKjta_400x400.jpg"
     },
     {
+        "name": "AI Best Tools",
+        "link": "https://aibest.tools/?ref=aidirectories",
+        "submission_link": "https://aibest.tools/submit?ref=aidirectories",
+        "domain_rating": 27,
+        "monthly_visits": 3000,
+        "submission_experience": "Good",
+        "pricing": "FREE",
+        "dealCode": "AIDIRECTORIES30",
+        "dealText": "30% discount",
+        "icon": "https://aibest.tools/favicon.ico"
+    },
+    {
         "name": "Human or Not",
         "link": "https://www.humanornot.co/?ref=aidirectori.es",
         "submission_link": "https://www.humanornot.co/submit-tool?ref=aidirectori.es",
@@ -287,6 +299,24 @@
         "submission_link": "https://prosaashub.com/?ref=aidirectories",
         "domain_rating": 0.6,
         "monthly_visits": 50,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "AI For Me! Wiki ",
+        "link": "https://aiforme.wiki/?ref=aidirectories",
+        "submission_link": "https://www.aiforme.wiki/",
+        "domain_rating": 0,
+        "monthly_visits": 0,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "AIPROFIND.com",
+        "link": "https://aiprofind.com/?ref=aidirectories",
+        "submission_link": "https://www.aiprofind.com/checkout/3/?ref=aidirectories",
+        "domain_rating": 0,
+        "monthly_visits": 0,
         "submission_experience": "Good",
         "pricing": "Free"
     },
