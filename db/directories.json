@@ -321,6 +321,26 @@
         "pricing": "Free"
     },
     {
+        "name": "Directories",
+        "link": "https://directories.so/?ref=aidirectories",
+        "submission_link": "https://tally.so/r/3qby88",
+        "domain_rating": 8,
+        "monthly_visits": 1500,
+        "submission_experience": "Good",
+        "pricing": "Free",
+        "icon":"https://pbs.twimg.com/profile_images/1790469353093120001/EUHAHqm8_400x400.jpg"
+    },
+    {
+        "name": "All The AI Tools",
+        "link": "https://alltheaitools.com",
+        "submission_link": "https://alltheaitools.com/submit-tool",
+        "domain_rating": 4,
+        "monthly_visits": 1000,
+        "submission_experience": "Good",
+        "pricing": "Free",
+        "icon": "https://pbs.twimg.com/profile_images/1849854362325295104/bVvbMZc5_400x400.jpg"
+    },
+    {
         "name": "100 AI Apps",
         "link": "https://100apps.org/?ref=aidirectori.es",
         "submission_link": "https://100apps.org/?ref=aidirectori.es",
