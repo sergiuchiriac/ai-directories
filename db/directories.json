@@ -346,8 +346,17 @@
         "submission_link": "https://tally.so/r/waE1jE",
         "domain_rating": 10,
         "monthly_visits": 1000,
-        "submission_experience": "Our directory ensures a seamless submission process with no technical issues.",
+        "submission_experience": "Good",
         "pricing": "Paid"
+    },
+    {
+        "name": "AI Pulse",
+        "link": "https://www.aipulse.fyi",
+        "submission_link": "https://www.aipulse.fyi",
+        "domain_rating": 0,
+        "monthly_visits": 0,
+        "submission_experience": "Good",
+        "pricing": "Free"
     },
     {
         "name": "100 AI Apps",
@@ -2136,7 +2145,7 @@
         "name": "ToolList.ai",
         "link": "https://toollist.ai/?ref=aidirectories",
         "submission_link": "https://toollist.ai/submit-tool?ref=aidirectories",
-        "domain_rating": 9,
+        "domain_rating": 17,
         "monthly_visits": 12000,
         "submission_experience": "Good",
         "pricing": "Free"
