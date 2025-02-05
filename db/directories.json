@@ -390,12 +390,15 @@
     },
     {
         "name": "OpenAlternative",
-        "link": " https://openalternative.co/?ref=aidirectories",
+        "link": "https://openalternative.co/?ref=aidirectories",
         "submission_link": "https://openalternative.co/submit",
         "domain_rating": 40,
         "monthly_visits": 275000,
         "submission_experience": "Good",
-        "pricing": "Free"
+        "pricing": "Free",
+        "dealCode": "AIDIR20",
+        "dealText": "20% Discount",
+        "icon": "https://openalternative.co/favicon.png"
     },
     {
         "name": "100 AI Apps",

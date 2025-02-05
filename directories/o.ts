@@ -11,6 +11,18 @@ export const directories: Directory[] = [
         "pricing": "Paid"
     },
     {
+        "name": "OpenAlternative",
+        "link": "https://openalternative.co/?ref=aidirectories",
+        "submission_link": "https://openalternative.co/submit",
+        "domain_rating": 40,
+        "monthly_visits": 275000,
+        "submission_experience": "Good",
+        "pricing": "Free",
+        "dealCode": "AIDIR20",
+        "dealText": "20% Discount",
+        "icon": "https://openalternative.co/favicon.png"
+    },
+    {
         "name": "Open Future",
         "link": "https://openfuture.ai/?ref=aidirectori.es",
         "submission_link": "https://openfuture.ai/submit-tool/?ref=aidirectori.es",
