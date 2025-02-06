@@ -158,6 +158,7 @@
 | NextGenTool | [NextGenTool](https://nextgentool.io/?ref=aidirecories) | [Submit](https://nextgentool.io/submit/?ref=aidirecories) | 12 | 300 | **🟢 Good** | **🟢 Free** |
 | Nextpedia | [Nextpedia](https://www.nextpedia.io/?ref=aidirecories) | [Submit](https://www.nextpedia.io/submit-tool/?ref=aidirecories) | 11 | 8000 | **🔴 Bad** |  |
 | One Hub AI | [One Hub AI](https://www.onehubai.com/) | [Submit](https://www.onehubai.com/) | 10 | 4600 | **🟢 Good** | **🔴 Paid** |
+| OpenAlternative | [OpenAlternative](https://opanalternative.co/?ref=aidirectori.es) | [Submit](https://openalternative.co/submit?ref=aidirectori.es) | 40 | 275000 | **🟢 Good** | **🟢 Free** |
 | Open Future | [Open Future](https://openfuture.ai/?ref=aidirectori.es) | [Submit](https://openfuture.ai/submit-tool/?ref=aidirectori.es) | 31 | 496000 | **🟢 Good** | **🟢 Free** |
 | Orbic AI | [Orbic AI](https://orbic.ai/?ref=aidirectori.es) | [Submit](https://orbic.ai/submit/tools/?ref=aidirectori.es) | 5 | 100 | **🟢 Good** | **🟢 Free** |
 | Paggu | [Paggu](https://www.paggu.com/) | [Submit](https://www.paggu.com/submit-your-startup/) | 35 | 1000 | **🟢 Good** | **🟢 Free** |
