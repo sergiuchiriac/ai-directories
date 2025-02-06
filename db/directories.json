@@ -390,10 +390,19 @@
     },
     {
         "name": "OpenAlternative",
-        "link": " https://openalternative.co/?ref=aidirectories",
+        "link": "https://openalternative.co/?ref=aidirectories",
         "submission_link": "https://openalternative.co/submit",
         "domain_rating": 40,
         "monthly_visits": 275000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "Pro Link Builders",
+        "link": "https://prolinkbuilders.co.uk/?ref=aidirectories",
+        "submission_link": "https://prolinkbuilders.co.uk/istings/create/?ref=aidirectories",
+        "domain_rating": 5,
+        "monthly_visits": 400,
         "submission_experience": "Good",
         "pricing": "Free"
     },
