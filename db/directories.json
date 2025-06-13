@@ -100,7 +100,7 @@
         "name": "Uneed Best",
         "link": "https://www.uneed.best?atp=aidirectories",
         "submission_link": "https://www.uneed.best?atp=aidirectories",
-        "domain_rating": 45,
+        "domain_rating": 50,
         "monthly_visits": 252000,
         "submission_experience": "Good",
         "pricing": "Paid",
@@ -165,8 +165,7 @@
         "submission_experience": "Good",
         "pricing": "Free",
         "dealCode": "AIDIRECTORIES50",
-        "dealText": "50% Discount",
-        "icon": "https://aistage.net/logo.svg"
+        "dealText": "50% Discount"
     },
     {
         "name": "SEOFAI",
