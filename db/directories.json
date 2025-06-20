@@ -64,7 +64,7 @@
         "name": "Startup Spotlight",
         "link": "https://www.startupspotlight.co?ref=aidirectories",
         "submission_link": "https://buy.stripe.com/aEU7vOb0s2fugkUdRy",
-        "domain_rating": 18,
+        "domain_rating": 25,
         "monthly_visits": 5000,
         "submission_experience": "Good",
         "pricing": "Free",
@@ -100,7 +100,7 @@
         "name": "Uneed Best",
         "link": "https://www.uneed.best?atp=aidirectories",
         "submission_link": "https://www.uneed.best?atp=aidirectories",
-        "domain_rating": 50,
+        "domain_rating": 66,
         "monthly_visits": 252000,
         "submission_experience": "Good",
         "pricing": "Paid",
@@ -832,6 +832,15 @@
         "pricing": "Paid"
     },
     {
+        "name": "AIPure",
+        "link": "https://aipure.ai/?ref=aidirectori.es",
+        "submission_link": "https://aipure.ai/submit?ref=aidirectori.es",
+        "domain_rating": 55,
+        "monthly_visits": 383800,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "AI trendz",
         "link": "https://aitrendz.xyz/?ref=aidirectories",
         "submission_link": "https://aitrendz.xyz/submit-ai-link/?ref=aidirectories",
@@ -857,15 +866,6 @@
         "monthly_visits": 5000,
         "submission_experience": "",
         "pricing": "Paid"
-    },
-    {
-        "name": "AIToolKit",
-        "link": "https://www.aitoolkit.org/?ref=aidirectories",
-        "submission_link": "https://www.aitoolkit.org/submit/?ref=aidirectories",
-        "domain_rating": 25,
-        "monthly_visits": 71000,
-        "submission_experience": "Good",
-        "pricing": "Free"
     },
     {
         "name": "AIX Collection",
@@ -1337,15 +1337,6 @@
         "pricing": "Free"
     },
     {
-        "name": "Favird",
-        "link": "https://favird.com/?ref=aidirectori.es",
-        "submission_link": "https://favird.com/?ref=aidirectori.es",
-        "domain_rating": 26,
-        "monthly_visits": 30000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
         "name": "F6S",
         "link": "https://www.f6s.com/?ref=aidirectori.es",
         "submission_link": "https://www.f6s.com/?ref=aidirectori.es",
@@ -1463,15 +1454,6 @@
         "pricing": "Paid"
     },
     {
-        "name": "Gate2AI",
-        "link": "https://www.gate2ai.com/?ref=aidirectories",
-        "submission_link": "https://www.gate2ai.com/submit-tool?ref=aidirectories",
-        "domain_rating": 27,
-        "monthly_visits": 129000,
-        "submission_experience": "Good",
-        "pricing": "Free"
-    },
-    {
         "name": "Getlatka",
         "link": "https://getlatka.com/?ref=aidirectories",
         "submission_link": "https://getlatka.com/saas-companies?ref=aidirectories",
@@ -1516,15 +1498,7 @@
         "submission_experience": "Good",
         "pricing": "Free"
     },
-    {
-        "name": "GPTE",
-        "link": "https://gpte.ai/?ref=aidirectories",
-        "submission_link": "https://gpte.ai/submit-a-tool/?ref=aidirectories",
-        "domain_rating": 31,
-        "monthly_visits": 1400000,
-        "submission_experience": "",
-        "pricing": "Paid"
-    },
+
     {
         "name": "GPTs Hunter",
         "link": "https://www.gptshunter.com/?ref=aidirectori.es",
@@ -2087,7 +2061,7 @@
         "name": "Startup88",
         "link": "https://startup88.com/?ref=aidirectories",
         "submission_link": "https://startup88.typeform.com/to/CRjWqM?typeform-source=startup88.com",
-        "domain_rating": 25,
+        "domain_rating": 27,
         "monthly_visits": 300,
         "submission_experience": "Good",
         "pricing": "Free"
@@ -2298,15 +2272,6 @@
         "monthly_visits": 26000,
         "submission_experience": "Good",
         "pricing": "Paid"
-    },
-    {
-        "name": "Top Apps AI",
-        "link": "https://topapps.ai/?ref=aidirectories",
-        "submission_link": "https://topapps.ai/submit?ref=aidirectories",
-        "domain_rating": 32,
-        "monthly_visits": 890000,
-        "submission_experience": "Good",
-        "pricing": "Free"
     },
     {
         "name": "Twelve Tools",
