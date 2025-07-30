@@ -121,6 +121,18 @@
         "icon": "https://pbs.twimg.com/profile_images/1854512086170406913/hGo5Uyrr_400x400.jpg"
     },
     {
+        "name": "AI Best Tools",
+        "link": "https://aibest.tools/?ref=aidirectories",
+        "submission_link": "https://aibest.tools/submit?ref=aidirectories",
+        "domain_rating": 45,
+        "monthly_visits": 4000,
+        "submission_experience": "Good",
+        "pricing": "FREE",
+        "dealCode": "AIDIRECTORIES30",
+        "dealText": "30% discount",
+        "icon": "https://aibest.tools/favicon.ico"
+    },
+    {
         "name": "Toolio AI",
         "link": "https://toolio.ai/?ref=aidirectories",
         "submission_link": "https://toolio.ai/submit-a-tool?ref=aidirectories",
@@ -225,18 +237,6 @@
         "dealCode": "aidirectories50",
         "dealText": "50% Discount",
         "icon": "https://pbs.twimg.com/profile_images/1755998314158333952/VD6sKjta_400x400.jpg"
-    },
-    {
-        "name": "AI Best Tools",
-        "link": "https://aibest.tools/?ref=aidirectories",
-        "submission_link": "https://aibest.tools/submit?ref=aidirectories",
-        "domain_rating": 29,
-        "monthly_visits": 3000,
-        "submission_experience": "Good",
-        "pricing": "FREE",
-        "dealCode": "AIDIRECTORIES30",
-        "dealText": "30% discount",
-        "icon": "https://aibest.tools/favicon.ico"
     },
     {
         "name": "OpenAlternative",
