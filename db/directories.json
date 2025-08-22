@@ -221,7 +221,8 @@
         "submission_experience": "Good",
         "pricing": "Paid",
         "dealCode": "50AIDIRECTORIES",
-        "dealText": "50% Discount"
+        "dealText": "50% Discount",
+        "icon": "https://cdn.aidirectori.es/icons/aura.png"
     },
     {
         "name": "GetByte",
