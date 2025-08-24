@@ -137,6 +137,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "AiMatchPro",
+        "link": "https://aimatch.pro/",
+        "submission_link": "https://aimatch.pro/list",
+        "domain_rating": 10.0,
+        "monthly_visits": 1200,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "AI scout",
         "link": "https://aiscout.net/ref=aidirectori.es",
         "submission_link": "https://aiscout.net/submit-listing/details/ref=aidirectori.es",
