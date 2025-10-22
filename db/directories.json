@@ -14,6 +14,18 @@
         "icon": "https://pbs.twimg.com/profile_images/1849087452373291008/_op6UtG8_400x400.png"
     },
     {
+        "name": "Toolfolio",
+        "link": "https://toolfolio.io/",
+        "submission_link": "https://toolfolio.io/boosts#skiptheline",
+        "domain_rating": 37,
+        "monthly_visits": 207000,
+        "submission_experience": "Good",
+        "pricing": "Paid",
+        "dealCode": "TF10",
+        "dealText": "10% Discount",
+        "icon": "https://pbs.twimg.com/profile_images/1979166137083404288/p8GVBB-M_400x400.png"
+     },
+    {
         "name": "PeerPush",
         "link": "https://peerpush.net",
         "submission_link": "https://peerpush.net/submit",
@@ -24,7 +36,31 @@
         "dealCode": "AIDIRECTORIES10",
         "dealText": "10% Discount",
         "icon": "https://pbs.twimg.com/profile_images/1956758245562793984/iTHkvAFK_400x400.jpg"
-        },
+     },
+     {
+        "name": "Uneed Best",
+        "link": "https://www.uneed.best?atp=aidirectories",
+        "submission_link": "https://www.uneed.best?atp=aidirectories",
+        "domain_rating": 66,
+        "monthly_visits": 252000,
+        "submission_experience": "Good",
+        "pricing": "Paid",
+        "dealCode": "AIDIRECTORIES",
+        "dealText": "20% Discount",
+        "icon": "https://pbs.twimg.com/profile_images/1749808918518509568/BzqYq2qf_400x400.png"
+    },
+    {
+        "name": "AI Top Tools",
+        "link": "https://aitoptools.com?ref=aidirectories",
+        "submission_link": "https://aitoptools.com/account/submit-tool?ref=aidirectories",
+        "domain_rating": 48,
+        "monthly_visits": 260000,
+        "submission_experience": "Good",
+        "pricing": "Paid",
+        "dealCode": "AID20",
+        "dealText": "20% Discount",
+        "icon": "https://pbs.twimg.com/profile_images/1749843669824274432/Hobf7v6D_400x400.jpg"
+    },
     {
         "name": "aitools.fyi",
         "link": "https://aitools.fyi/?ref=aidirectori.es",
@@ -95,30 +131,6 @@
         "dealCode": "Q3ODY5NA",
         "dealText": "10% Discount",
         "icon": "https://pbs.twimg.com/profile_images/1626279065995943940/qaxFGlrt_400x400.jpg"
-    },
-    {
-        "name": "AI Top Tools",
-        "link": "https://aitoptools.com?ref=aidirectories",
-        "submission_link": "https://aitoptools.com/account/submit-tool?ref=aidirectories",
-        "domain_rating": 48,
-        "monthly_visits": 260000,
-        "submission_experience": "Good",
-        "pricing": "Paid",
-        "dealCode": "AID20",
-        "dealText": "20% Discount",
-        "icon": "https://pbs.twimg.com/profile_images/1749843669824274432/Hobf7v6D_400x400.jpg"
-    },
-    {
-        "name": "Uneed Best",
-        "link": "https://www.uneed.best?atp=aidirectories",
-        "submission_link": "https://www.uneed.best?atp=aidirectories",
-        "domain_rating": 66,
-        "monthly_visits": 252000,
-        "submission_experience": "Good",
-        "pricing": "Paid",
-        "dealCode": "AIDIRECTORIES",
-        "dealText": "20% Discount",
-        "icon": "https://pbs.twimg.com/profile_images/1749808918518509568/BzqYq2qf_400x400.png"
     },
     {
         "name": "Appscribed",
