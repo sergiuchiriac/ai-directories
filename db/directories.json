@@ -73,6 +73,16 @@
         "dealText": "30% Discount"
     },
     {
+        "name": "TrustMRR",
+        "link": "https://trustmrr.com/?ref=aidirectories",
+        "submission_link": "https://trustmrr.com/?ref=aidirectories",
+        "domain_rating": 33,
+        "monthly_visits": 80000,
+        "submission_experience": "Good",
+        "pricing": "Free",
+        "icon": "https://cdn.aidirectori.es/icons/faviconV2%20(29).png"
+    },
+    {
         "name": "BasedTools",
         "link": "https://basedtools.ai?ref=aidirectories",
         "submission_link": "https://buy.stripe.com/5kA2ax0aD7b93bG3cc?ref=aidirectories",
