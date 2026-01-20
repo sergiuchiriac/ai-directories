@@ -10,4 +10,14 @@ export const directories: Directory[] = [
     "submission_experience": "Good",
     "pricing": "Free"
   },
+
+{
+    "name": "LogoMate",
+    "link": "https://www.ailogogenerator.sh/",
+    "submission_link": "https://www.ailogogenerator.sh/media-partners",
+    "domain_rating": 18,
+    "monthly_visits": 3000,
+    "pricing": "Free Trial"
+},
+  
 ]
