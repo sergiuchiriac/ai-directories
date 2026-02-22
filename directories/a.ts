@@ -1,4 +1,4 @@
-import {Directory} from "../types/directory";
+import { Directory } from "../types/directory";
 
 export const directories: Directory[] = [
     {
@@ -97,6 +97,15 @@ export const directories: Directory[] = [
         "submission_link": "https://ai-hunter.io/submit-ai-tool/",
         "domain_rating": 10.0,
         "monthly_visits": 5000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "AI Hunt List",
+        "link": "https://aihuntlist.com/",
+        "submission_link": "https://aihuntlist.com/submit",
+        "domain_rating": 55.0,
+        "monthly_visits": 1500,
         "submission_experience": "Good",
         "pricing": "Free"
     },
@@ -554,8 +563,8 @@ export const directories: Directory[] = [
         "name": "Afford Hunt",
         "link": "https://affordhunt.com?ref=aidirectories",
         "submission_link": "https://t.co/zZB1Yxgf8s",
-        "domain_rating":56,
-        "monthly_visits":80000,
+        "domain_rating": 56,
+        "monthly_visits": 80000,
         "submission_experience": "Good",
         "pricing": "Free"
     },
