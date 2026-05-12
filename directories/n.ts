@@ -28,4 +28,13 @@ export const directories: Directory[] = [
         "submission_experience": "Bad",
         "pricing": ""
     },
+    {
+        "name": "Nick Launches",
+        "link": "https://nicklaunches.com/",
+        "submission_link": "https://nicklaunches.com/submit",
+        "domain_rating": 30,
+        "monthly_visits": 10000,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
 ]
