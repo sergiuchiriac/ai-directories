@@ -20,6 +20,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "SaaSCity",
+        "link": "https://saascity.io/",
+        "submission_link": "https://saascity.io/submit",
+        "domain_rating": 64,
+        "monthly_visits": 200,
+        "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
         "name": "SaasHub",
         "link": "https://www.saashub.com/",
         "submission_link": "https://www.saashub.com/submit",
