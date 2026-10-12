@@ -38,6 +38,15 @@ export const directories: Directory[] = [
     "pricing": "Paid"
   },
   {
+    "name": "EliteAI.tools",
+    "link": "https://eliteai.tools/",
+    "submission_link": "https://eliteai.tools/tool/submit-new-tool",
+    "domain_rating": 35,
+    "monthly_visits": 300000,
+    "submission_experience": "",
+    "pricing": "Free"
+  },
+  {
     "name": "Every AI",
     "link": "https://every-ai.com",
     "submission_link": "https://every-ai.com/submit-tool/",
