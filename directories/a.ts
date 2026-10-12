@@ -11,6 +11,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "AgentsIndex.ai",
+        "link": "https://agentsindex.ai/",
+        "submission_link": "https://agentsindex.ai/submit",
+        "domain_rating": 0,
+        "monthly_visits": 0,
+        "submission_experience": "",
+        "pricing": "Free"
+    },
+    {
         "name": "AI Center",
         "link": "https://aicenter.ai/?ref=aidirectories",
         "submission_link": "https://aicenter.ai/products/submit?ref=aidirectories",

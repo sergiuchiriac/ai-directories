@@ -29,6 +29,15 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "CitedIndex",
+        "link": "https://citedindex.com/",
+        "submission_link": "https://citedindex.com/submit",
+        "domain_rating": 0,
+        "monthly_visits": 0,
+        "submission_experience": "",
+        "pricing": "Free"
+    },
+    {
         "name": "Crazy About Startups",
         "link": "https://crazyaboutstartups.com/",
         "submission_link": "https://crazyaboutstartups.com/share-your-startup-2",
