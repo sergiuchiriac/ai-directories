@@ -74,6 +74,15 @@ export const directories: Directory[] = [
         "pricing": ""
     },
     {
+        "name": "forkalt",
+        "link": "https://forkalt.com",
+        "submission_link": "https://forkalt.com",
+        "domain_rating": 0,
+        "monthly_visits": 0,
+        "submission_experience": "",
+        "pricing": "Free"
+    },
+    {
         "name": "Future AGI tools",
         "link": "https://www.futureagitools.com?ref=aidirectori.es",
         "submission_link": "https://www.futureagitools.com/submit-a-site?ref=aidirectori.es",
