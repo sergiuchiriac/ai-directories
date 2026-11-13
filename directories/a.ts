@@ -101,6 +101,14 @@ export const directories: Directory[] = [
         "pricing": "Free"
     },
     {
+        "name": "AIHuntList",
+        "link": "https://aihuntlist.com",
+        "submission_link": "https://aihuntlist.com/submission/new",
+        "domain_rating": 61,
+        "monthly_visits": 1400,
+        "pricing": "Free"
+    },
+    {
         "name": "AI Infinity",
         "link": "https://aiinfinity-meetpatel.notion.site/AI-Infinity-AI-Tools-Directory-0da673c487124ea2b6f8ebe59b75a231",
         "submission_link": "https://forms.gle/Ze6pdWzmweCfKWnLA",
@@ -350,6 +358,14 @@ export const directories: Directory[] = [
         "domain_rating": 15,
         "monthly_visits": 5000,
         "submission_experience": "Good",
+        "pricing": "Free"
+    },
+    {
+        "name": "AITrustList",
+        "link": "https://aitrustlist.com",
+        "submission_link": "https://aitrustlist.com/submit",
+        "domain_rating": 39,
+        "monthly_visits": 7700,
         "pricing": "Free"
     },
     {
